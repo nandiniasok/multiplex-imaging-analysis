@@ -1,0 +1,29 @@
+final_label_integer,pooled_group,meaningful_label,final_label,assigned_sub_clusters,n_sub_clusters
+0,T cells,CD4+ T helper,CD4+ T helper,T -0; T -1; T -2; T -5; T -7; T -12; T -13; T -18; T -19; T -22; T -24; T -30; T -31; T -35; T -38; T -40,16
+1,T cells,CD8+ Cytotoxic T,CD8+ Cytotoxic T,MI-3; MI-17; MI-22; MI-23; MI-28; MI-35; MI-36; MI-38; MI-42; T -3; T -4; T -6; T -8; T -9; T -10; T -14; T -15; T -16; T -17; T -20; T -21; T -23; T -25; T -26; T -27; T -28; T -29; T -32; T -33; T -34; T -36; T -37; T -41,33
+2,T cells,Regulatory T (Treg),Regulatory T (Treg),T -11,1
+3,T cells,CD4+ PD1+ T,CD4+ PD1+ T,,0
+4,B cells,Mature B,Mature B,B -0; B -5; B -6; B -7; B -10; B -12; B -14; B -15; B -18; B -19; B -20; B -22; B -23; B -26; B -27; B -29; B -30; B -31; B -32; B -33; B -35; B -38,22
+5,B cells,Plasmablast/Plasma cell,Plasmablast/Plasma cell,B -1; B -2; B -3; B -4; B -8; B -9; B -11; B -13; B -16; B -17; B -21; B -24; B -25; B -34; B -36; B -37,16
+6,B cells,Early/Immature B,Early/Immature B,B -28,1
+7,Mixed Lymphoid,NK cell,NK cell,,0
+8,Mixed Lymphoid,Memory T lymphoid,Memory T lymphoid,MI-6; MI-11; MI-37; MI-40,4
+9,Mixed Lymphoid,HLA-DR+ lymphoid,HLA-DR+ lymphoid,MI-2; MI-5; MI-8; MI-9; MI-10; MI-13; MI-14; MI-19; MI-20; MI-21; MI-26; MI-29,12
+10,Mixed Lymphoid,Mixed B/T lymphoid,Mixed B/T lymphoid,MI-0; MI-4; MI-15; MI-16; MI-18; MI-27; MI-31; MI-32; MI-33; MI-34; MI-39; MI-41,12
+11,Myeloid,Classical monocyte,Classical monocyte,MY-2; MY-4; MY-13; MY-14; MY-26; MY-34; MY-38,7
+12,Myeloid,Patrolling monocyte,Patrolling monocyte,MY-36,1
+13,Myeloid,Macrophage (M2-like),Macrophage (M2-like),MY-3; MY-6; MY-15; MY-17; MY-27; MY-30; MY-32; MY-41; MY-45; MY-47; MY-48; MY-50,12
+14,Myeloid,Dendritic cell,Dendritic cell,MY-31; MY-37,2
+15,Myeloid,Mast cell,Mast cell,MI-1; MI-7; MI-12; MI-24; MI-25; MI-30; MY-35; MY-39,8
+16,Myeloid,Neutrophil/Granulocyte,Neutrophil/Granulocyte,MY-0; MY-1; MY-5; MY-7; MY-8; MY-9; MY-10; MY-11; MY-12; MY-16; MY-18; MY-19; MY-20; MY-21; MY-22; MY-23; MY-24; MY-25; MY-29; MY-33; MY-40; MY-42; MY-43; MY-44; MY-46; MY-49,26
+17,Myeloid,Proliferating myeloid,Proliferating myeloid,MY-28,1
+18,Tumor,Proliferating AML blast,Proliferating AML blast,TU-3; TU-4; TU-11; TU-12; TU-14; TU-16; TU-25; TU-26; TU-27; TU-33; TU-34; TU-36; TU-40,13
+19,Tumor,Quiescent AML blast,Quiescent AML blast,TU-7; TU-8; TU-9; TU-13; TU-17; TU-18; TU-19; TU-20; TU-22; TU-23; TU-28; TU-32; TU-35; TU-37; TU-38; TU-39,16
+20,Tumor,AML monocytic differentiated,AML monocytic differentiated,TU-5; TU-6; TU-31,3
+21,Erythroid,Mature erythroblast,Mature erythroblast,ER-0; ER-1; ER-2; ER-3; ER-4; ER-6; ER-7; ER-8; ER-9; ER-10; ER-11; ER-13; ER-14; ER-15; ER-16; ER-17; ER-18; ER-19; ER-20; ER-21; ER-22; ER-23; ER-24; ER-25; ER-26; ER-27; ER-28; ER-29; ER-30; ER-31; ER-32; ER-33; ER-34; ER-35; ER-37; ER-38; ER-39; ER-40; ER-41; ER-42; ER-43; ER-44; ER-45; ER-46,44
+22,Tumor/Erythroid,Leukemic erythroid blast,Leukemic erythroid blast,TU-0; TU-2; TU-6; TU-7; TU-18; TU-21; TU-24; TU-25; TU-37; TU-38; TU-40; TU-44,12
+23,Tumor/Erythroid,Proliferating leukemic erythroid,Proliferating leukemic erythroid,TU-1; TU-3; TU-4; TU-5; TU-8; TU-9; TU-11; TU-12; TU-13; TU-14; TU-15; TU-16; TU-17; TU-19; TU-20; TU-22; TU-23; TU-27; TU-28; TU-29; TU-30; TU-31; TU-33; TU-34; TU-35; TU-36; TU-41; TU-42; TU-43; TU-46; TU-47,31
+24,MSC,Bone marrow MSC,Bone marrow MSC,MS-1; MS-2; MS-3; MS-4; MS-5; MS-6; MS-7; MS-8; MS-9; MS-10; MS-11; MS-12; MS-13; MS-14; MS-16; MS-17; MS-19; MS-20; MS-21; MS-22; MS-23; MS-24; MS-25; MS-26; MS-27; MS-28; MS-30; MS-31; MS-32; MS-33; MS-34; MS-35; MS-37; MS-38; MS-40; MS-41; MS-42; MS-43; MS-44; MS-45,40
+25,MSC,CD271+ MSC,CD271+ MSC,MS-0; MS-15; MS-39,3
+26,Megakaryocytes,Megakaryocyte,Megakaryocyte,ME-0; ME-1; ME-2; ME-3; ME-4; ME-5; ME-6; ME-7; ME-8; ME-9; ME-10; ME-11; ME-12; ME-13; ME-14; ME-15; ME-16; ME-17; ME-18; ME-19; ME-20; ME-21; ME-22; ME-23; ME-24; ME-25; ME-26; ME-27; ME-28; ME-29; ME-30; ME-31; ME-32; ME-33; ME-34; ME-35; TU-24,37
+27,Endothelial,Endothelial,Endothelial,EN-0; EN-1; EN-2; EN-3; EN-4; EN-5; EN-6; EN-7; EN-8; EN-9; EN-10; EN-11; EN-12; EN-13; EN-14; EN-15; EN-16; EN-17; EN-18; EN-19; EN-20; EN-21; EN-22; EN-23; EN-24; EN-25; EN-26; EN-27; EN-28; EN-29; EN-30; EN-31; EN-32; EN-33; EN-34; EN-35; EN-36; EN-37; EN-38; EN-39; EN-40; EN-41; EN-42; EN-43,44

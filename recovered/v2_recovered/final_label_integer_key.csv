@@ -1,0 +1,27 @@
+final_label_integer,cell_group,cell_type
+0,T cells,CD4+ T helper
+1,T cells,CD8+ Cytotoxic T
+2,T cells,Regulatory T (Treg)
+4,B cells,Mature B
+5,B cells,Plasmablast/Plasma cell
+6,B cells,Early/Immature B
+8,Mixed Lymphoid,Memory T lymphoid
+9,Mixed Lymphoid,HLA-DR+ lymphoid
+10,Mixed Lymphoid,Mixed B/T lymphoid
+11,Myeloid,Classical monocyte
+12,Myeloid,Patrolling monocyte
+13,Myeloid,Macrophage (M2-like)
+14,Myeloid,Dendritic cell
+15,Myeloid,Mast cell
+16,Myeloid,Neutrophil/Granulocyte
+17,Myeloid,Proliferating myeloid
+18,Tumor,Proliferating AML blast
+19,Tumor,Quiescent AML blast
+20,Tumor,AML monocytic differentiated
+21,Erythroid,Mature erythroblast
+22,Tumor/Erythroid,Leukemic erythroid blast
+23,Tumor/Erythroid,Proliferating leukemic erythroid
+24,MSC,Bone marrow MSC
+25,MSC,CD271+ MSC
+26,Megakaryocytes,Megakaryocyte
+27,Endothelial,Endothelial
