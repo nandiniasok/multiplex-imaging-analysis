@@ -1,0 +1,529 @@
+roi,group,module,gradient
+Machine A_Slides1_ROI_01,Relapse,Anti-apoptotic (Bcl-2),0.396005319841635
+Machine A_Slides1_ROI_01,Relapse,Antigen presentation (HLA-DR),-0.8619059491928475
+Machine A_Slides1_ROI_01,Relapse,Epigenetic (EZH2),0.6424838571010296
+Machine A_Slides1_ROI_01,Relapse,FAK adhesion/migration,0.03231908391462063
+Machine A_Slides1_ROI_01,Relapse,MAPK-JNK stress,0.39815402220822393
+Machine A_Slides1_ROI_01,Relapse,PI3K-AKT survival,0.06016103481271162
+Machine A_Slides1_ROI_01,Relapse,Proliferation,0.28081468708220353
+Machine A_Slides1_ROI_01,Relapse,T-cell exhaustion,0.3809715054305207
+Machine A_Slides1_ROI_01,Relapse,TCR proximal signalling,0.29228829180835036
+Machine A_Slides1_ROI_01,Relapse,Type-I IFN / inflammation,0.2886367440487206
+Machine A_Slides1_ROI_01,Relapse,Wnt / beta-catenin,0.7068131165471241
+Machine A_Slides1_ROI_01,Relapse,p53 stress,0.10062709705455224
+Machine A_Slides1_ROI_02,Relapse,Anti-apoptotic (Bcl-2),0.1885894399657837
+Machine A_Slides1_ROI_02,Relapse,Antigen presentation (HLA-DR),-0.2380997534269817
+Machine A_Slides1_ROI_02,Relapse,Epigenetic (EZH2),0.4010235165955399
+Machine A_Slides1_ROI_02,Relapse,FAK adhesion/migration,0.1893040859410131
+Machine A_Slides1_ROI_02,Relapse,MAPK-JNK stress,0.31053141468927564
+Machine A_Slides1_ROI_02,Relapse,PI3K-AKT survival,0.025370695395563414
+Machine A_Slides1_ROI_02,Relapse,Proliferation,0.2552802248326934
+Machine A_Slides1_ROI_02,Relapse,T-cell exhaustion,0.24410709767959793
+Machine A_Slides1_ROI_02,Relapse,TCR proximal signalling,0.1636118849559168
+Machine A_Slides1_ROI_02,Relapse,Type-I IFN / inflammation,0.1280138743499511
+Machine A_Slides1_ROI_02,Relapse,Wnt / beta-catenin,0.07053068638631488
+Machine A_Slides1_ROI_02,Relapse,p53 stress,-0.030142553457675345
+Machine A_Slides1_ROI_03,Relapse,Anti-apoptotic (Bcl-2),-0.20268395591054988
+Machine A_Slides1_ROI_03,Relapse,Antigen presentation (HLA-DR),0.15210201245050145
+Machine A_Slides1_ROI_03,Relapse,Epigenetic (EZH2),-2.702567489937497
+Machine A_Slides1_ROI_03,Relapse,FAK adhesion/migration,-2.1222121631988946
+Machine A_Slides1_ROI_03,Relapse,MAPK-JNK stress,-0.19067789217738568
+Machine A_Slides1_ROI_03,Relapse,PI3K-AKT survival,-0.02288257598897825
+Machine A_Slides1_ROI_03,Relapse,Proliferation,0.16643097050350197
+Machine A_Slides1_ROI_03,Relapse,T-cell exhaustion,-2.6936487128048383
+Machine A_Slides1_ROI_03,Relapse,TCR proximal signalling,-6.1664212511878596
+Machine A_Slides1_ROI_03,Relapse,Type-I IFN / inflammation,-0.3609618325576036
+Machine A_Slides1_ROI_03,Relapse,Wnt / beta-catenin,-0.08144150254704807
+Machine A_Slides1_ROI_03,Relapse,p53 stress,-0.6684431381857594
+Machine A_Slides1_ROI_04,Relapse,Anti-apoptotic (Bcl-2),0.023974076133297384
+Machine A_Slides1_ROI_04,Relapse,Antigen presentation (HLA-DR),-0.1681351366920908
+Machine A_Slides1_ROI_04,Relapse,Epigenetic (EZH2),0.276927691916466
+Machine A_Slides1_ROI_04,Relapse,FAK adhesion/migration,0.060315892502397606
+Machine A_Slides1_ROI_04,Relapse,MAPK-JNK stress,-0.13621817575996648
+Machine A_Slides1_ROI_04,Relapse,PI3K-AKT survival,-0.025308003314008787
+Machine A_Slides1_ROI_04,Relapse,Proliferation,0.18657476612894613
+Machine A_Slides1_ROI_04,Relapse,T-cell exhaustion,-0.04105034607227997
+Machine A_Slides1_ROI_04,Relapse,TCR proximal signalling,0.09576478618639483
+Machine A_Slides1_ROI_04,Relapse,Type-I IFN / inflammation,-0.2799009915406431
+Machine A_Slides1_ROI_04,Relapse,Wnt / beta-catenin,-0.5667943076965551
+Machine A_Slides1_ROI_04,Relapse,p53 stress,0.22594680401620712
+Machine A_Slides1_ROI_05,Relapse,Anti-apoptotic (Bcl-2),0.1290331269315519
+Machine A_Slides1_ROI_05,Relapse,Antigen presentation (HLA-DR),0.11717993902352275
+Machine A_Slides1_ROI_05,Relapse,Epigenetic (EZH2),0.605106771780267
+Machine A_Slides1_ROI_05,Relapse,FAK adhesion/migration,-0.3587571941028688
+Machine A_Slides1_ROI_05,Relapse,MAPK-JNK stress,0.23159385989422557
+Machine A_Slides1_ROI_05,Relapse,PI3K-AKT survival,0.021854201653554284
+Machine A_Slides1_ROI_05,Relapse,Proliferation,0.24936987224878132
+Machine A_Slides1_ROI_05,Relapse,T-cell exhaustion,0.23663933755703404
+Machine A_Slides1_ROI_05,Relapse,TCR proximal signalling,0.1728937458574234
+Machine A_Slides1_ROI_05,Relapse,Type-I IFN / inflammation,0.16239143906396958
+Machine A_Slides1_ROI_05,Relapse,Wnt / beta-catenin,0.4236162587896466
+Machine A_Slides1_ROI_05,Relapse,p53 stress,-0.1316608044192086
+Machine A_Slides1_ROI_06,Relapse,Anti-apoptotic (Bcl-2),-0.03264415520466801
+Machine A_Slides1_ROI_06,Relapse,Antigen presentation (HLA-DR),-0.4209154343738411
+Machine A_Slides1_ROI_06,Relapse,Epigenetic (EZH2),0.3385310782211197
+Machine A_Slides1_ROI_06,Relapse,FAK adhesion/migration,0.26612970522197443
+Machine A_Slides1_ROI_06,Relapse,MAPK-JNK stress,0.37617348187523636
+Machine A_Slides1_ROI_06,Relapse,PI3K-AKT survival,-0.02332883508264111
+Machine A_Slides1_ROI_06,Relapse,Proliferation,0.0940218010373437
+Machine A_Slides1_ROI_06,Relapse,T-cell exhaustion,0.3105026457463527
+Machine A_Slides1_ROI_06,Relapse,TCR proximal signalling,0.21434127913030632
+Machine A_Slides1_ROI_06,Relapse,Type-I IFN / inflammation,0.2547507654104557
+Machine A_Slides1_ROI_06,Relapse,Wnt / beta-catenin,0.6816166462669638
+Machine A_Slides1_ROI_06,Relapse,p53 stress,-0.7767061190033631
+Machine A_Slides1_ROI_07,Relapse,Anti-apoptotic (Bcl-2),-0.14640768034127738
+Machine A_Slides1_ROI_07,Relapse,Antigen presentation (HLA-DR),-0.42018280163606103
+Machine A_Slides1_ROI_07,Relapse,Epigenetic (EZH2),0.24563461533583958
+Machine A_Slides1_ROI_07,Relapse,FAK adhesion/migration,0.011131016465675714
+Machine A_Slides1_ROI_07,Relapse,MAPK-JNK stress,0.267387399648593
+Machine A_Slides1_ROI_07,Relapse,PI3K-AKT survival,-0.039242553968638905
+Machine A_Slides1_ROI_07,Relapse,Proliferation,0.16067621763050421
+Machine A_Slides1_ROI_07,Relapse,T-cell exhaustion,0.07770302005368468
+Machine A_Slides1_ROI_07,Relapse,TCR proximal signalling,0.025429236677397937
+Machine A_Slides1_ROI_07,Relapse,Type-I IFN / inflammation,0.12969885438864337
+Machine A_Slides1_ROI_07,Relapse,Wnt / beta-catenin,0.4435817064410168
+Machine A_Slides1_ROI_07,Relapse,p53 stress,-0.14897029172999202
+Machine A_Slides1_ROI_08,Relapse,Anti-apoptotic (Bcl-2),-0.20262348924303475
+Machine A_Slides1_ROI_08,Relapse,Antigen presentation (HLA-DR),0.190580808266597
+Machine A_Slides1_ROI_08,Relapse,Epigenetic (EZH2),0.45434503550084826
+Machine A_Slides1_ROI_08,Relapse,FAK adhesion/migration,-0.3153346589293763
+Machine A_Slides1_ROI_08,Relapse,MAPK-JNK stress,-0.09918591213369642
+Machine A_Slides1_ROI_08,Relapse,PI3K-AKT survival,0.5014847583459132
+Machine A_Slides1_ROI_08,Relapse,Proliferation,0.20043349166244234
+Machine A_Slides1_ROI_08,Relapse,T-cell exhaustion,0.2401836539303978
+Machine A_Slides1_ROI_08,Relapse,TCR proximal signalling,0.21594991932993052
+Machine A_Slides1_ROI_08,Relapse,Type-I IFN / inflammation,0.05331820838137363
+Machine A_Slides1_ROI_08,Relapse,Wnt / beta-catenin,-0.09665327877331734
+Machine A_Slides1_ROI_08,Relapse,p53 stress,0.02224644906636264
+Machine A_Slides1_ROI_09,Relapse,Anti-apoptotic (Bcl-2),-0.28160100410870503
+Machine A_Slides1_ROI_09,Relapse,Antigen presentation (HLA-DR),-0.06768568730131616
+Machine A_Slides1_ROI_09,Relapse,Epigenetic (EZH2),0.20619215993111623
+Machine A_Slides1_ROI_09,Relapse,FAK adhesion/migration,-0.21833937677896367
+Machine A_Slides1_ROI_09,Relapse,MAPK-JNK stress,-0.07096709277961788
+Machine A_Slides1_ROI_09,Relapse,PI3K-AKT survival,0.0088306742110167
+Machine A_Slides1_ROI_09,Relapse,Proliferation,0.1487492235290181
+Machine A_Slides1_ROI_09,Relapse,T-cell exhaustion,0.10144836594065376
+Machine A_Slides1_ROI_09,Relapse,TCR proximal signalling,-0.01418134453978255
+Machine A_Slides1_ROI_09,Relapse,Type-I IFN / inflammation,0.0164553771129487
+Machine A_Slides1_ROI_09,Relapse,Wnt / beta-catenin,-0.04193834576407364
+Machine A_Slides1_ROI_09,Relapse,p53 stress,0.002754185840134038
+Machine A_Slides1_ROI_10,Relapse,Anti-apoptotic (Bcl-2),-0.16095620416960066
+Machine A_Slides1_ROI_10,Relapse,Antigen presentation (HLA-DR),-0.11419394072277003
+Machine A_Slides1_ROI_10,Relapse,Epigenetic (EZH2),0.6459099836619108
+Machine A_Slides1_ROI_10,Relapse,FAK adhesion/migration,-0.11788875701555335
+Machine A_Slides1_ROI_10,Relapse,MAPK-JNK stress,0.4598354802801672
+Machine A_Slides1_ROI_10,Relapse,PI3K-AKT survival,0.4355616044012419
+Machine A_Slides1_ROI_10,Relapse,Proliferation,0.33348258398839814
+Machine A_Slides1_ROI_10,Relapse,T-cell exhaustion,0.5003249552560206
+Machine A_Slides1_ROI_10,Relapse,TCR proximal signalling,0.2310107747188595
+Machine A_Slides1_ROI_10,Relapse,Type-I IFN / inflammation,0.1671206061692032
+Machine A_Slides1_ROI_10,Relapse,Wnt / beta-catenin,0.12224356134298692
+Machine A_Slides1_ROI_10,Relapse,p53 stress,0.2910421036600279
+Machine A_Slides1_ROI_11,Relapse,Anti-apoptotic (Bcl-2),-0.22152377863808037
+Machine A_Slides1_ROI_11,Relapse,Antigen presentation (HLA-DR),-0.11513717233619816
+Machine A_Slides1_ROI_11,Relapse,Epigenetic (EZH2),0.5560928185624184
+Machine A_Slides1_ROI_11,Relapse,FAK adhesion/migration,-0.039462129948711684
+Machine A_Slides1_ROI_11,Relapse,MAPK-JNK stress,0.452056941242635
+Machine A_Slides1_ROI_11,Relapse,PI3K-AKT survival,0.41646850028895177
+Machine A_Slides1_ROI_11,Relapse,Proliferation,0.32004730326369424
+Machine A_Slides1_ROI_11,Relapse,T-cell exhaustion,0.563072772398931
+Machine A_Slides1_ROI_11,Relapse,TCR proximal signalling,0.10556691499691295
+Machine A_Slides1_ROI_11,Relapse,Type-I IFN / inflammation,0.1762366742744087
+Machine A_Slides1_ROI_11,Relapse,Wnt / beta-catenin,0.14854441889166992
+Machine A_Slides1_ROI_11,Relapse,p53 stress,0.134053045238205
+Machine A_Slides1_ROI_15,Non-relapse,Anti-apoptotic (Bcl-2),0.1422193582757102
+Machine A_Slides1_ROI_15,Non-relapse,Antigen presentation (HLA-DR),0.33798061481006214
+Machine A_Slides1_ROI_15,Non-relapse,Epigenetic (EZH2),0.13775520425233662
+Machine A_Slides1_ROI_15,Non-relapse,FAK adhesion/migration,0.12745482465300795
+Machine A_Slides1_ROI_15,Non-relapse,MAPK-JNK stress,0.1662062940858498
+Machine A_Slides1_ROI_15,Non-relapse,PI3K-AKT survival,0.05568873316687151
+Machine A_Slides1_ROI_15,Non-relapse,Proliferation,0.05569337375655081
+Machine A_Slides1_ROI_15,Non-relapse,T-cell exhaustion,0.1155855958391368
+Machine A_Slides1_ROI_15,Non-relapse,TCR proximal signalling,0.08979903963039765
+Machine A_Slides1_ROI_15,Non-relapse,Type-I IFN / inflammation,0.04644454021616125
+Machine A_Slides1_ROI_15,Non-relapse,Wnt / beta-catenin,0.009313328578375413
+Machine A_Slides1_ROI_15,Non-relapse,p53 stress,-0.011364622217884923
+Machine A_Slides1_ROI_16,Non-relapse,Anti-apoptotic (Bcl-2),0.4459278862214726
+Machine A_Slides1_ROI_16,Non-relapse,Antigen presentation (HLA-DR),0.056974206187272336
+Machine A_Slides1_ROI_16,Non-relapse,Epigenetic (EZH2),0.23705361573721462
+Machine A_Slides1_ROI_16,Non-relapse,FAK adhesion/migration,0.11288966924110055
+Machine A_Slides1_ROI_16,Non-relapse,MAPK-JNK stress,0.3949308158946065
+Machine A_Slides1_ROI_16,Non-relapse,PI3K-AKT survival,0.0806834780079721
+Machine A_Slides1_ROI_16,Non-relapse,Proliferation,0.10128094507061225
+Machine A_Slides1_ROI_16,Non-relapse,T-cell exhaustion,0.27908637152164906
+Machine A_Slides1_ROI_16,Non-relapse,TCR proximal signalling,0.22452287809048277
+Machine A_Slides1_ROI_16,Non-relapse,Type-I IFN / inflammation,0.3103257743504945
+Machine A_Slides1_ROI_16,Non-relapse,Wnt / beta-catenin,0.06745754985505659
+Machine A_Slides1_ROI_16,Non-relapse,p53 stress,0.13157327658677342
+Machine A_Slides2_ROI_01,Relapse,Anti-apoptotic (Bcl-2),-0.32004848530975333
+Machine A_Slides2_ROI_01,Relapse,Antigen presentation (HLA-DR),0.3167173211098677
+Machine A_Slides2_ROI_01,Relapse,Epigenetic (EZH2),-0.08474628327953801
+Machine A_Slides2_ROI_01,Relapse,FAK adhesion/migration,-0.44062825723180815
+Machine A_Slides2_ROI_01,Relapse,MAPK-JNK stress,-0.02925476721746767
+Machine A_Slides2_ROI_01,Relapse,PI3K-AKT survival,0.19766188793775674
+Machine A_Slides2_ROI_01,Relapse,Proliferation,-0.040972817503619675
+Machine A_Slides2_ROI_01,Relapse,T-cell exhaustion,-0.15005671502382298
+Machine A_Slides2_ROI_01,Relapse,TCR proximal signalling,-0.17238356570139404
+Machine A_Slides2_ROI_01,Relapse,Type-I IFN / inflammation,-0.10898363008831236
+Machine A_Slides2_ROI_01,Relapse,Wnt / beta-catenin,-0.054161091892885815
+Machine A_Slides2_ROI_01,Relapse,p53 stress,-0.1499273772685644
+Machine A_Slides2_ROI_02,Relapse,Anti-apoptotic (Bcl-2),-0.10451669823288473
+Machine A_Slides2_ROI_02,Relapse,Antigen presentation (HLA-DR),0.3741008746062878
+Machine A_Slides2_ROI_02,Relapse,Epigenetic (EZH2),0.20344339858272695
+Machine A_Slides2_ROI_02,Relapse,FAK adhesion/migration,-0.07122262621796471
+Machine A_Slides2_ROI_02,Relapse,MAPK-JNK stress,0.22013999618144367
+Machine A_Slides2_ROI_02,Relapse,PI3K-AKT survival,0.11487315845706575
+Machine A_Slides2_ROI_02,Relapse,Proliferation,0.12780065758155779
+Machine A_Slides2_ROI_02,Relapse,T-cell exhaustion,-0.10292767882049836
+Machine A_Slides2_ROI_02,Relapse,TCR proximal signalling,0.08382526993192035
+Machine A_Slides2_ROI_02,Relapse,Type-I IFN / inflammation,0.0045257376452786935
+Machine A_Slides2_ROI_02,Relapse,Wnt / beta-catenin,0.014058851578688025
+Machine A_Slides2_ROI_02,Relapse,p53 stress,0.0011436364091508833
+Machine A_Slides2_ROI_03,Relapse,Anti-apoptotic (Bcl-2),-0.08818406529947305
+Machine A_Slides2_ROI_03,Relapse,Antigen presentation (HLA-DR),0.010405067613556862
+Machine A_Slides2_ROI_03,Relapse,Epigenetic (EZH2),0.1375196505568026
+Machine A_Slides2_ROI_03,Relapse,FAK adhesion/migration,-0.15382581132123982
+Machine A_Slides2_ROI_03,Relapse,MAPK-JNK stress,0.14004939410943654
+Machine A_Slides2_ROI_03,Relapse,PI3K-AKT survival,-0.01587206038475142
+Machine A_Slides2_ROI_03,Relapse,Proliferation,0.10607069683100764
+Machine A_Slides2_ROI_03,Relapse,T-cell exhaustion,0.05900538906918647
+Machine A_Slides2_ROI_03,Relapse,TCR proximal signalling,-0.006187269480210936
+Machine A_Slides2_ROI_03,Relapse,Type-I IFN / inflammation,0.045058079252914315
+Machine A_Slides2_ROI_03,Relapse,Wnt / beta-catenin,-0.019533547670761764
+Machine A_Slides2_ROI_03,Relapse,p53 stress,-0.02203873629080433
+Machine A_Slides2_ROI_04,Relapse,Anti-apoptotic (Bcl-2),0.10372496579746913
+Machine A_Slides2_ROI_04,Relapse,Antigen presentation (HLA-DR),0.8586660709661402
+Machine A_Slides2_ROI_04,Relapse,Epigenetic (EZH2),0.32644463433681326
+Machine A_Slides2_ROI_04,Relapse,FAK adhesion/migration,-0.1420961259410184
+Machine A_Slides2_ROI_04,Relapse,MAPK-JNK stress,-0.0747196319616722
+Machine A_Slides2_ROI_04,Relapse,PI3K-AKT survival,0.2696540846799689
+Machine A_Slides2_ROI_04,Relapse,Proliferation,0.06591054219190502
+Machine A_Slides2_ROI_04,Relapse,T-cell exhaustion,0.07201630468641196
+Machine A_Slides2_ROI_04,Relapse,TCR proximal signalling,0.3764962239733414
+Machine A_Slides2_ROI_04,Relapse,Type-I IFN / inflammation,0.022323888769650718
+Machine A_Slides2_ROI_04,Relapse,Wnt / beta-catenin,0.0006298736951857731
+Machine A_Slides2_ROI_04,Relapse,p53 stress,-0.004351036611107029
+Machine A_Slides2_ROI_05,Relapse,Anti-apoptotic (Bcl-2),-0.11994853665691788
+Machine A_Slides2_ROI_05,Relapse,Antigen presentation (HLA-DR),1.0297204048225181
+Machine A_Slides2_ROI_05,Relapse,Epigenetic (EZH2),0.028145335147677124
+Machine A_Slides2_ROI_05,Relapse,FAK adhesion/migration,0.0007759845873082094
+Machine A_Slides2_ROI_05,Relapse,MAPK-JNK stress,-0.1463881223022684
+Machine A_Slides2_ROI_05,Relapse,PI3K-AKT survival,0.1516905440651927
+Machine A_Slides2_ROI_05,Relapse,Proliferation,-0.014288758553360759
+Machine A_Slides2_ROI_05,Relapse,T-cell exhaustion,-0.2470410610035312
+Machine A_Slides2_ROI_05,Relapse,TCR proximal signalling,0.024725714362465484
+Machine A_Slides2_ROI_05,Relapse,Type-I IFN / inflammation,-0.1800009771932442
+Machine A_Slides2_ROI_05,Relapse,Wnt / beta-catenin,-0.03596212541944954
+Machine A_Slides2_ROI_05,Relapse,p53 stress,-0.009371124306049639
+Machine A_Slides2_ROI_07,Relapse,Anti-apoptotic (Bcl-2),-0.1000612183304262
+Machine A_Slides2_ROI_07,Relapse,Antigen presentation (HLA-DR),0.3435742557066127
+Machine A_Slides2_ROI_07,Relapse,Epigenetic (EZH2),-0.08209521455246446
+Machine A_Slides2_ROI_07,Relapse,FAK adhesion/migration,-0.3619790502981801
+Machine A_Slides2_ROI_07,Relapse,MAPK-JNK stress,-0.0014544080977940688
+Machine A_Slides2_ROI_07,Relapse,PI3K-AKT survival,-0.010895837967729471
+Machine A_Slides2_ROI_07,Relapse,Proliferation,0.042992963646377225
+Machine A_Slides2_ROI_07,Relapse,T-cell exhaustion,-0.1645682075445673
+Machine A_Slides2_ROI_07,Relapse,TCR proximal signalling,-0.19646851924990658
+Machine A_Slides2_ROI_07,Relapse,Type-I IFN / inflammation,-0.019632167437763817
+Machine A_Slides2_ROI_07,Relapse,Wnt / beta-catenin,-0.06313696238601285
+Machine A_Slides2_ROI_07,Relapse,p53 stress,-0.16065886549675285
+Machine A_Slides2_ROI_09,Relapse,Anti-apoptotic (Bcl-2),-0.13950815208283326
+Machine A_Slides2_ROI_09,Relapse,Antigen presentation (HLA-DR),0.5201870224290053
+Machine A_Slides2_ROI_09,Relapse,Epigenetic (EZH2),0.06954515020603763
+Machine A_Slides2_ROI_09,Relapse,FAK adhesion/migration,-0.22413992843576985
+Machine A_Slides2_ROI_09,Relapse,MAPK-JNK stress,-0.21183525974084405
+Machine A_Slides2_ROI_09,Relapse,PI3K-AKT survival,-0.011193126647711382
+Machine A_Slides2_ROI_09,Relapse,Proliferation,-0.021947168066009354
+Machine A_Slides2_ROI_09,Relapse,T-cell exhaustion,-0.2543544842108431
+Machine A_Slides2_ROI_09,Relapse,TCR proximal signalling,-0.046315599374363164
+Machine A_Slides2_ROI_09,Relapse,Type-I IFN / inflammation,-0.14681121083218043
+Machine A_Slides2_ROI_09,Relapse,Wnt / beta-catenin,-0.028447494739193085
+Machine A_Slides2_ROI_09,Relapse,p53 stress,0.06248140884479541
+Machine A_Slides2_ROI_10,Non-relapse,Anti-apoptotic (Bcl-2),0.0005666341542537312
+Machine A_Slides2_ROI_10,Non-relapse,Antigen presentation (HLA-DR),0.24924194080777284
+Machine A_Slides2_ROI_10,Non-relapse,Epigenetic (EZH2),0.2867121249467521
+Machine A_Slides2_ROI_10,Non-relapse,FAK adhesion/migration,0.4182764626495802
+Machine A_Slides2_ROI_10,Non-relapse,MAPK-JNK stress,0.3861360265040271
+Machine A_Slides2_ROI_10,Non-relapse,PI3K-AKT survival,0.07066371668212953
+Machine A_Slides2_ROI_10,Non-relapse,Proliferation,0.1495578470191956
+Machine A_Slides2_ROI_10,Non-relapse,T-cell exhaustion,0.3044989239553246
+Machine A_Slides2_ROI_10,Non-relapse,TCR proximal signalling,0.24775636471674886
+Machine A_Slides2_ROI_10,Non-relapse,Type-I IFN / inflammation,0.197892378972578
+Machine A_Slides2_ROI_10,Non-relapse,Wnt / beta-catenin,0.12300017644806856
+Machine A_Slides2_ROI_10,Non-relapse,p53 stress,0.1492413471401784
+Machine A_Slides2_ROI_11,Non-relapse,Anti-apoptotic (Bcl-2),-0.08609646476303179
+Machine A_Slides2_ROI_11,Non-relapse,Antigen presentation (HLA-DR),0.3914413087270407
+Machine A_Slides2_ROI_11,Non-relapse,Epigenetic (EZH2),0.2609412527047073
+Machine A_Slides2_ROI_11,Non-relapse,FAK adhesion/migration,0.29010313468062837
+Machine A_Slides2_ROI_11,Non-relapse,MAPK-JNK stress,0.3542930261367674
+Machine A_Slides2_ROI_11,Non-relapse,PI3K-AKT survival,-0.009914362343107858
+Machine A_Slides2_ROI_11,Non-relapse,Proliferation,0.02597747760232061
+Machine A_Slides2_ROI_11,Non-relapse,T-cell exhaustion,0.073802230751905
+Machine A_Slides2_ROI_11,Non-relapse,TCR proximal signalling,0.10509878888263884
+Machine A_Slides2_ROI_11,Non-relapse,Type-I IFN / inflammation,-0.05996263555999726
+Machine A_Slides2_ROI_11,Non-relapse,Wnt / beta-catenin,0.0531162130521218
+Machine A_Slides2_ROI_11,Non-relapse,p53 stress,0.14863743074274155
+Machine A_Slides2_ROI_12,Non-relapse,Anti-apoptotic (Bcl-2),0.0949497350902806
+Machine A_Slides2_ROI_12,Non-relapse,Antigen presentation (HLA-DR),0.5784331797821184
+Machine A_Slides2_ROI_12,Non-relapse,Epigenetic (EZH2),0.017915027304314823
+Machine A_Slides2_ROI_12,Non-relapse,FAK adhesion/migration,0.10830389391216613
+Machine A_Slides2_ROI_12,Non-relapse,MAPK-JNK stress,-0.009050490633088826
+Machine A_Slides2_ROI_12,Non-relapse,PI3K-AKT survival,-0.003991661444227218
+Machine A_Slides2_ROI_12,Non-relapse,Proliferation,-0.03041287650478619
+Machine A_Slides2_ROI_12,Non-relapse,T-cell exhaustion,-0.000337348973415412
+Machine A_Slides2_ROI_12,Non-relapse,TCR proximal signalling,0.03987218339695431
+Machine A_Slides2_ROI_12,Non-relapse,Type-I IFN / inflammation,-0.16005025140641893
+Machine A_Slides2_ROI_12,Non-relapse,Wnt / beta-catenin,-0.0035175593499407465
+Machine A_Slides2_ROI_12,Non-relapse,p53 stress,0.014818315587387818
+Machine A_Slides2_ROI_13,Non-relapse,Anti-apoptotic (Bcl-2),0.012244210118461885
+Machine A_Slides2_ROI_13,Non-relapse,Antigen presentation (HLA-DR),0.48595440768980874
+Machine A_Slides2_ROI_13,Non-relapse,Epigenetic (EZH2),0.2594240455191198
+Machine A_Slides2_ROI_13,Non-relapse,FAK adhesion/migration,0.2080951395224746
+Machine A_Slides2_ROI_13,Non-relapse,MAPK-JNK stress,0.2205940565047499
+Machine A_Slides2_ROI_13,Non-relapse,PI3K-AKT survival,-0.015462087749325684
+Machine A_Slides2_ROI_13,Non-relapse,Proliferation,0.008885924446756177
+Machine A_Slides2_ROI_13,Non-relapse,T-cell exhaustion,0.11477127544743942
+Machine A_Slides2_ROI_13,Non-relapse,TCR proximal signalling,0.1285937048129729
+Machine A_Slides2_ROI_13,Non-relapse,Type-I IFN / inflammation,-0.09372995763670966
+Machine A_Slides2_ROI_13,Non-relapse,Wnt / beta-catenin,0.04347480899118577
+Machine A_Slides2_ROI_13,Non-relapse,p53 stress,0.1144994648591878
+Machine A_Slides2_ROI_14,Non-relapse,Anti-apoptotic (Bcl-2),0.010188891612399331
+Machine A_Slides2_ROI_14,Non-relapse,Antigen presentation (HLA-DR),0.39932347990528255
+Machine A_Slides2_ROI_14,Non-relapse,Epigenetic (EZH2),0.23238029545182567
+Machine A_Slides2_ROI_14,Non-relapse,FAK adhesion/migration,0.28430121322197544
+Machine A_Slides2_ROI_14,Non-relapse,MAPK-JNK stress,0.34763823794961224
+Machine A_Slides2_ROI_14,Non-relapse,PI3K-AKT survival,0.00852089655216691
+Machine A_Slides2_ROI_14,Non-relapse,Proliferation,-0.018394639692560444
+Machine A_Slides2_ROI_14,Non-relapse,T-cell exhaustion,0.19801998276169394
+Machine A_Slides2_ROI_14,Non-relapse,TCR proximal signalling,0.17323082989431876
+Machine A_Slides2_ROI_14,Non-relapse,Type-I IFN / inflammation,0.32678164297169554
+Machine A_Slides2_ROI_14,Non-relapse,Wnt / beta-catenin,-0.05000264235584839
+Machine A_Slides2_ROI_14,Non-relapse,p53 stress,-0.2808838320070059
+Machine A_Slides2_ROI_15,Non-relapse,Anti-apoptotic (Bcl-2),-0.17975535266919496
+Machine A_Slides2_ROI_15,Non-relapse,Antigen presentation (HLA-DR),0.3968676545230896
+Machine A_Slides2_ROI_15,Non-relapse,Epigenetic (EZH2),0.1573830016805023
+Machine A_Slides2_ROI_15,Non-relapse,FAK adhesion/migration,0.07782940588498592
+Machine A_Slides2_ROI_15,Non-relapse,MAPK-JNK stress,0.22730051459644363
+Machine A_Slides2_ROI_15,Non-relapse,PI3K-AKT survival,-0.02368638788173691
+Machine A_Slides2_ROI_15,Non-relapse,Proliferation,0.006212268180388003
+Machine A_Slides2_ROI_15,Non-relapse,T-cell exhaustion,0.09439902002600857
+Machine A_Slides2_ROI_15,Non-relapse,TCR proximal signalling,0.13292845030820885
+Machine A_Slides2_ROI_15,Non-relapse,Type-I IFN / inflammation,-0.20139522882822486
+Machine A_Slides2_ROI_15,Non-relapse,Wnt / beta-catenin,0.006968839043083597
+Machine A_Slides2_ROI_15,Non-relapse,p53 stress,0.09337579551427881
+Machine A_Slides2_ROI_16,Non-relapse,Anti-apoptotic (Bcl-2),0.1763321842432226
+Machine A_Slides2_ROI_16,Non-relapse,Antigen presentation (HLA-DR),0.6688723952363683
+Machine A_Slides2_ROI_16,Non-relapse,Epigenetic (EZH2),-0.02097456683529031
+Machine A_Slides2_ROI_16,Non-relapse,FAK adhesion/migration,-0.004279322912147054
+Machine A_Slides2_ROI_16,Non-relapse,MAPK-JNK stress,-0.2624635773070163
+Machine A_Slides2_ROI_16,Non-relapse,PI3K-AKT survival,0.018703363808395282
+Machine A_Slides2_ROI_16,Non-relapse,Proliferation,-0.07797433687543576
+Machine A_Slides2_ROI_16,Non-relapse,T-cell exhaustion,-0.10068898148333727
+Machine A_Slides2_ROI_16,Non-relapse,TCR proximal signalling,-0.04318456063228404
+Machine A_Slides2_ROI_16,Non-relapse,Type-I IFN / inflammation,-0.22926991414427078
+Machine A_Slides2_ROI_16,Non-relapse,Wnt / beta-catenin,-0.821173716882655
+Machine A_Slides2_ROI_16,Non-relapse,p53 stress,0.0011967385272848574
+Machine A_Slides2_ROI_17,Relapse,Anti-apoptotic (Bcl-2),0.11240415208935639
+Machine A_Slides2_ROI_17,Relapse,Antigen presentation (HLA-DR),-0.03514228543627346
+Machine A_Slides2_ROI_17,Relapse,Epigenetic (EZH2),-0.0803062248526403
+Machine A_Slides2_ROI_17,Relapse,FAK adhesion/migration,0.05807102459954631
+Machine A_Slides2_ROI_17,Relapse,MAPK-JNK stress,0.13453825049772283
+Machine A_Slides2_ROI_17,Relapse,PI3K-AKT survival,0.1254579599695664
+Machine A_Slides2_ROI_17,Relapse,Proliferation,-0.049843068857228
+Machine A_Slides2_ROI_17,Relapse,T-cell exhaustion,0.2410440003402482
+Machine A_Slides2_ROI_17,Relapse,TCR proximal signalling,0.034692329954659235
+Machine A_Slides2_ROI_17,Relapse,Type-I IFN / inflammation,0.2014538331515563
+Machine A_Slides2_ROI_17,Relapse,Wnt / beta-catenin,-0.003130629869361301
+Machine A_Slides2_ROI_17,Relapse,p53 stress,-0.08546972272157743
+Machine A_Slides2_ROI_18,Relapse,Anti-apoptotic (Bcl-2),-0.21246234278007514
+Machine A_Slides2_ROI_18,Relapse,Antigen presentation (HLA-DR),0.6109331175456665
+Machine A_Slides2_ROI_18,Relapse,Epigenetic (EZH2),0.06265235141988079
+Machine A_Slides2_ROI_18,Relapse,FAK adhesion/migration,0.22959245364715408
+Machine A_Slides2_ROI_18,Relapse,MAPK-JNK stress,0.4370552733422111
+Machine A_Slides2_ROI_18,Relapse,PI3K-AKT survival,0.1356929626858407
+Machine A_Slides2_ROI_18,Relapse,Proliferation,-0.008688971803997247
+Machine A_Slides2_ROI_18,Relapse,T-cell exhaustion,0.03065715374377459
+Machine A_Slides2_ROI_18,Relapse,TCR proximal signalling,-0.08524275118956781
+Machine A_Slides2_ROI_18,Relapse,Type-I IFN / inflammation,-0.1048221370098058
+Machine A_Slides2_ROI_18,Relapse,Wnt / beta-catenin,0.0017306500741258724
+Machine A_Slides2_ROI_18,Relapse,p53 stress,0.08288613604821789
+Machine B_SN177_ROI_01,Relapse,Anti-apoptotic (Bcl-2),-2.8270187068582606
+Machine B_SN177_ROI_01,Relapse,Antigen presentation (HLA-DR),0.07918558305606127
+Machine B_SN177_ROI_01,Relapse,Epigenetic (EZH2),-0.07898912678271042
+Machine B_SN177_ROI_01,Relapse,FAK adhesion/migration,-0.67740519671533
+Machine B_SN177_ROI_01,Relapse,MAPK-JNK stress,-0.14373095990843038
+Machine B_SN177_ROI_01,Relapse,PI3K-AKT survival,-0.22111766225083762
+Machine B_SN177_ROI_01,Relapse,Proliferation,-0.8178520329003762
+Machine B_SN177_ROI_01,Relapse,T-cell exhaustion,-0.4255366473582376
+Machine B_SN177_ROI_01,Relapse,TCR proximal signalling,-0.29914601155655896
+Machine B_SN177_ROI_01,Relapse,Type-I IFN / inflammation,-0.23184222441413835
+Machine B_SN177_ROI_01,Relapse,Wnt / beta-catenin,-1.770852475103311
+Machine B_SN177_ROI_01,Relapse,p53 stress,-0.21207342189242318
+Machine B_SN177_ROI_02,Relapse,Anti-apoptotic (Bcl-2),0.2896167902220978
+Machine B_SN177_ROI_02,Relapse,Antigen presentation (HLA-DR),-0.06088369573079938
+Machine B_SN177_ROI_02,Relapse,Epigenetic (EZH2),0.04244141851530103
+Machine B_SN177_ROI_02,Relapse,FAK adhesion/migration,-0.010399015114872456
+Machine B_SN177_ROI_02,Relapse,MAPK-JNK stress,-0.0035870343064680066
+Machine B_SN177_ROI_02,Relapse,PI3K-AKT survival,-0.0292511372314484
+Machine B_SN177_ROI_02,Relapse,Proliferation,0.0815228202611018
+Machine B_SN177_ROI_02,Relapse,T-cell exhaustion,-0.011583822550107148
+Machine B_SN177_ROI_02,Relapse,TCR proximal signalling,-0.20566293401203198
+Machine B_SN177_ROI_02,Relapse,Type-I IFN / inflammation,0.11836007433174973
+Machine B_SN177_ROI_02,Relapse,Wnt / beta-catenin,-0.21741777581007432
+Machine B_SN177_ROI_02,Relapse,p53 stress,0.08464046810006035
+Machine B_SN177_ROI_03,Relapse,Anti-apoptotic (Bcl-2),-2.5833773606379
+Machine B_SN177_ROI_03,Relapse,Antigen presentation (HLA-DR),-0.05230618991585667
+Machine B_SN177_ROI_03,Relapse,Epigenetic (EZH2),-0.06852225131053136
+Machine B_SN177_ROI_03,Relapse,FAK adhesion/migration,-0.30285713793510904
+Machine B_SN177_ROI_03,Relapse,MAPK-JNK stress,0.11199063571625073
+Machine B_SN177_ROI_03,Relapse,PI3K-AKT survival,-0.11559298897306806
+Machine B_SN177_ROI_03,Relapse,Proliferation,-0.7409996274019489
+Machine B_SN177_ROI_03,Relapse,T-cell exhaustion,-0.17934896030985975
+Machine B_SN177_ROI_03,Relapse,TCR proximal signalling,0.058055949141973456
+Machine B_SN177_ROI_03,Relapse,Type-I IFN / inflammation,-0.05758001121478529
+Machine B_SN177_ROI_03,Relapse,Wnt / beta-catenin,-1.1496740543095343
+Machine B_SN177_ROI_03,Relapse,p53 stress,-0.20358754019712225
+Machine B_SN177_ROI_05,Relapse,Anti-apoptotic (Bcl-2),-0.10519378654107203
+Machine B_SN177_ROI_05,Relapse,Antigen presentation (HLA-DR),-0.5709156365135049
+Machine B_SN177_ROI_05,Relapse,Epigenetic (EZH2),0.0045632219385616235
+Machine B_SN177_ROI_05,Relapse,FAK adhesion/migration,-0.36714545819040045
+Machine B_SN177_ROI_05,Relapse,MAPK-JNK stress,-0.32661502358567396
+Machine B_SN177_ROI_05,Relapse,PI3K-AKT survival,-0.028965547988231012
+Machine B_SN177_ROI_05,Relapse,Proliferation,0.05238973472010772
+Machine B_SN177_ROI_05,Relapse,T-cell exhaustion,-0.19355760677893266
+Machine B_SN177_ROI_05,Relapse,TCR proximal signalling,-0.35388599273745874
+Machine B_SN177_ROI_05,Relapse,Type-I IFN / inflammation,0.001792418989240041
+Machine B_SN177_ROI_05,Relapse,Wnt / beta-catenin,-0.31087808999849276
+Machine B_SN177_ROI_05,Relapse,p53 stress,0.06106005364866554
+Machine B_SN177_ROI_06,Non-relapse,Anti-apoptotic (Bcl-2),-0.3464427547528732
+Machine B_SN177_ROI_06,Non-relapse,Antigen presentation (HLA-DR),-0.09339963155479603
+Machine B_SN177_ROI_06,Non-relapse,Epigenetic (EZH2),-0.24353668974065767
+Machine B_SN177_ROI_06,Non-relapse,FAK adhesion/migration,-0.5035118580308859
+Machine B_SN177_ROI_06,Non-relapse,MAPK-JNK stress,-0.44257442081651077
+Machine B_SN177_ROI_06,Non-relapse,PI3K-AKT survival,-0.019030452618210958
+Machine B_SN177_ROI_06,Non-relapse,Proliferation,-0.17491757298189214
+Machine B_SN177_ROI_06,Non-relapse,T-cell exhaustion,-0.5629746607878667
+Machine B_SN177_ROI_06,Non-relapse,TCR proximal signalling,-0.5132989787579354
+Machine B_SN177_ROI_06,Non-relapse,Type-I IFN / inflammation,-0.35260740889905395
+Machine B_SN177_ROI_06,Non-relapse,Wnt / beta-catenin,-0.6506378861212853
+Machine B_SN177_ROI_06,Non-relapse,p53 stress,-0.23343974418381513
+Machine B_SN177_ROI_07,Non-relapse,Anti-apoptotic (Bcl-2),-0.33504983607578204
+Machine B_SN177_ROI_07,Non-relapse,Antigen presentation (HLA-DR),0.09993509866911332
+Machine B_SN177_ROI_07,Non-relapse,Epigenetic (EZH2),-0.18570311523939526
+Machine B_SN177_ROI_07,Non-relapse,FAK adhesion/migration,-0.5360917668983498
+Machine B_SN177_ROI_07,Non-relapse,MAPK-JNK stress,-0.4801419806328254
+Machine B_SN177_ROI_07,Non-relapse,PI3K-AKT survival,-0.09236034135247016
+Machine B_SN177_ROI_07,Non-relapse,Proliferation,-0.08353255716317617
+Machine B_SN177_ROI_07,Non-relapse,T-cell exhaustion,-0.5391828036779444
+Machine B_SN177_ROI_07,Non-relapse,TCR proximal signalling,-0.4360481070344635
+Machine B_SN177_ROI_07,Non-relapse,Type-I IFN / inflammation,-0.3687360305471036
+Machine B_SN177_ROI_07,Non-relapse,Wnt / beta-catenin,-0.5504366913559091
+Machine B_SN177_ROI_07,Non-relapse,p53 stress,-0.24521712384315325
+Machine B_SN177_ROI_08,Non-relapse,Anti-apoptotic (Bcl-2),-0.19865834812879746
+Machine B_SN177_ROI_08,Non-relapse,Antigen presentation (HLA-DR),0.011117329679586063
+Machine B_SN177_ROI_08,Non-relapse,Epigenetic (EZH2),-0.09381515358279988
+Machine B_SN177_ROI_08,Non-relapse,FAK adhesion/migration,-0.32108220824280886
+Machine B_SN177_ROI_08,Non-relapse,MAPK-JNK stress,-0.21251579631731882
+Machine B_SN177_ROI_08,Non-relapse,PI3K-AKT survival,-0.0699795283660114
+Machine B_SN177_ROI_08,Non-relapse,Proliferation,0.0213623787346347
+Machine B_SN177_ROI_08,Non-relapse,T-cell exhaustion,-0.2180148818857185
+Machine B_SN177_ROI_08,Non-relapse,TCR proximal signalling,-0.13179615843227285
+Machine B_SN177_ROI_08,Non-relapse,Type-I IFN / inflammation,-0.22929446246805382
+Machine B_SN177_ROI_08,Non-relapse,Wnt / beta-catenin,-0.2638065303628625
+Machine B_SN177_ROI_08,Non-relapse,p53 stress,-0.1384843384781631
+Machine B_SN177_ROI_09,Non-relapse,Anti-apoptotic (Bcl-2),-0.4326551579716831
+Machine B_SN177_ROI_09,Non-relapse,Antigen presentation (HLA-DR),-0.3075090541079377
+Machine B_SN177_ROI_09,Non-relapse,Epigenetic (EZH2),-0.18208331324669588
+Machine B_SN177_ROI_09,Non-relapse,FAK adhesion/migration,-0.4336864232821243
+Machine B_SN177_ROI_09,Non-relapse,MAPK-JNK stress,-0.3329425307359404
+Machine B_SN177_ROI_09,Non-relapse,PI3K-AKT survival,-0.1451488938613686
+Machine B_SN177_ROI_09,Non-relapse,Proliferation,-0.08097746585676904
+Machine B_SN177_ROI_09,Non-relapse,T-cell exhaustion,-0.3955684705779202
+Machine B_SN177_ROI_09,Non-relapse,TCR proximal signalling,-0.31094286569248275
+Machine B_SN177_ROI_09,Non-relapse,Type-I IFN / inflammation,-0.2867448012173851
+Machine B_SN177_ROI_09,Non-relapse,Wnt / beta-catenin,-0.5848059870992091
+Machine B_SN177_ROI_09,Non-relapse,p53 stress,-0.16600493339558786
+Machine B_SN177_ROI_10,Non-relapse,Anti-apoptotic (Bcl-2),-0.1273455368228298
+Machine B_SN177_ROI_10,Non-relapse,Antigen presentation (HLA-DR),-0.21556180147632487
+Machine B_SN177_ROI_10,Non-relapse,Epigenetic (EZH2),-0.4435935091647787
+Machine B_SN177_ROI_10,Non-relapse,FAK adhesion/migration,-0.35447470443689255
+Machine B_SN177_ROI_10,Non-relapse,MAPK-JNK stress,-0.41292411558474473
+Machine B_SN177_ROI_10,Non-relapse,PI3K-AKT survival,-0.14712336591909378
+Machine B_SN177_ROI_10,Non-relapse,Proliferation,-0.21995445193232466
+Machine B_SN177_ROI_10,Non-relapse,T-cell exhaustion,-0.3164302483256993
+Machine B_SN177_ROI_10,Non-relapse,TCR proximal signalling,-0.26069745266474825
+Machine B_SN177_ROI_10,Non-relapse,Type-I IFN / inflammation,-0.13132375812504135
+Machine B_SN177_ROI_10,Non-relapse,Wnt / beta-catenin,-0.2390677991680396
+Machine B_SN177_ROI_10,Non-relapse,p53 stress,-0.3399447666554366
+Machine B_SN177_ROI_11,Non-relapse,Anti-apoptotic (Bcl-2),-0.6982464342614145
+Machine B_SN177_ROI_11,Non-relapse,Antigen presentation (HLA-DR),-0.19071641252524996
+Machine B_SN177_ROI_11,Non-relapse,Epigenetic (EZH2),-0.2071982043518744
+Machine B_SN177_ROI_11,Non-relapse,FAK adhesion/migration,-0.7040065459493406
+Machine B_SN177_ROI_11,Non-relapse,MAPK-JNK stress,-0.2544272306469383
+Machine B_SN177_ROI_11,Non-relapse,PI3K-AKT survival,0.0018466486875172022
+Machine B_SN177_ROI_11,Non-relapse,Proliferation,-0.17044794662927293
+Machine B_SN177_ROI_11,Non-relapse,T-cell exhaustion,-0.2571333711279712
+Machine B_SN177_ROI_11,Non-relapse,TCR proximal signalling,-0.32957765853082577
+Machine B_SN177_ROI_11,Non-relapse,Type-I IFN / inflammation,-0.06784680000398646
+Machine B_SN177_ROI_11,Non-relapse,Wnt / beta-catenin,-0.4395475816363736
+Machine B_SN177_ROI_11,Non-relapse,p53 stress,-0.2552846744760211
+Machine B_SN177_ROI_12,Non-relapse,Anti-apoptotic (Bcl-2),-0.2796818688653183
+Machine B_SN177_ROI_12,Non-relapse,Antigen presentation (HLA-DR),-0.033594379860295454
+Machine B_SN177_ROI_12,Non-relapse,Epigenetic (EZH2),-0.3171636965052053
+Machine B_SN177_ROI_12,Non-relapse,FAK adhesion/migration,-0.45172522239493407
+Machine B_SN177_ROI_12,Non-relapse,MAPK-JNK stress,-0.35300677553607673
+Machine B_SN177_ROI_12,Non-relapse,PI3K-AKT survival,-0.11937805372729071
+Machine B_SN177_ROI_12,Non-relapse,Proliferation,-0.05691109158362695
+Machine B_SN177_ROI_12,Non-relapse,T-cell exhaustion,-0.2283763914486815
+Machine B_SN177_ROI_12,Non-relapse,TCR proximal signalling,-0.20797161836883132
+Machine B_SN177_ROI_12,Non-relapse,Type-I IFN / inflammation,-0.2129144819827141
+Machine B_SN177_ROI_12,Non-relapse,Wnt / beta-catenin,-0.23567888341286802
+Machine B_SN177_ROI_12,Non-relapse,p53 stress,-0.29998071320940317
+Machine B_SN177_ROI_13,Non-relapse,Anti-apoptotic (Bcl-2),0.002653351484252664
+Machine B_SN177_ROI_13,Non-relapse,Antigen presentation (HLA-DR),-0.11540740803925353
+Machine B_SN177_ROI_13,Non-relapse,Epigenetic (EZH2),-0.19231410941342447
+Machine B_SN177_ROI_13,Non-relapse,FAK adhesion/migration,0.16625970509802507
+Machine B_SN177_ROI_13,Non-relapse,MAPK-JNK stress,-0.5057841928735521
+Machine B_SN177_ROI_13,Non-relapse,PI3K-AKT survival,0.2268868352235774
+Machine B_SN177_ROI_13,Non-relapse,Proliferation,-0.09230542747701198
+Machine B_SN177_ROI_13,Non-relapse,T-cell exhaustion,-0.42444265773005047
+Machine B_SN177_ROI_13,Non-relapse,TCR proximal signalling,-0.3467563946242991
+Machine B_SN177_ROI_13,Non-relapse,Type-I IFN / inflammation,-0.7091163241881573
+Machine B_SN177_ROI_13,Non-relapse,Wnt / beta-catenin,0.03357087661692437
+Machine B_SN177_ROI_13,Non-relapse,p53 stress,-0.3718681262930007
+Machine B_SN177_ROI_14,Non-relapse,Anti-apoptotic (Bcl-2),0.25978699566183533
+Machine B_SN177_ROI_14,Non-relapse,Antigen presentation (HLA-DR),0.0925714129668479
+Machine B_SN177_ROI_14,Non-relapse,Epigenetic (EZH2),-0.013891128333719374
+Machine B_SN177_ROI_14,Non-relapse,FAK adhesion/migration,0.11622005064448526
+Machine B_SN177_ROI_14,Non-relapse,MAPK-JNK stress,-0.3314672091716258
+Machine B_SN177_ROI_14,Non-relapse,PI3K-AKT survival,-0.059232915501202556
+Machine B_SN177_ROI_14,Non-relapse,Proliferation,0.19283009960489095
+Machine B_SN177_ROI_14,Non-relapse,T-cell exhaustion,-0.13104396498629922
+Machine B_SN177_ROI_14,Non-relapse,TCR proximal signalling,-0.07350083360909271
+Machine B_SN177_ROI_14,Non-relapse,Type-I IFN / inflammation,-0.41930126305045423
+Machine B_SN177_ROI_14,Non-relapse,Wnt / beta-catenin,0.24217358556602553
+Machine B_SN177_ROI_14,Non-relapse,p53 stress,-0.20438801185260952
+Machine B_SN177_ROI_15,Non-relapse,Anti-apoptotic (Bcl-2),0.09550353224675288
+Machine B_SN177_ROI_15,Non-relapse,Antigen presentation (HLA-DR),0.19656124483840987
+Machine B_SN177_ROI_15,Non-relapse,Epigenetic (EZH2),0.15942457438324947
+Machine B_SN177_ROI_15,Non-relapse,FAK adhesion/migration,-0.1110163663224407
+Machine B_SN177_ROI_15,Non-relapse,MAPK-JNK stress,-0.24072361784022414
+Machine B_SN177_ROI_15,Non-relapse,PI3K-AKT survival,-0.005504056843214755
+Machine B_SN177_ROI_15,Non-relapse,Proliferation,0.22375354393442692
+Machine B_SN177_ROI_15,Non-relapse,T-cell exhaustion,-0.10655978018113461
+Machine B_SN177_ROI_15,Non-relapse,TCR proximal signalling,-0.08657718536307626
+Machine B_SN177_ROI_15,Non-relapse,Type-I IFN / inflammation,-0.22246981286692863
+Machine B_SN177_ROI_15,Non-relapse,Wnt / beta-catenin,-0.044991503428111645
+Machine B_SN177_ROI_15,Non-relapse,p53 stress,0.05120124221327803
+Machine B_SN177_ROI_16,Non-relapse,Anti-apoptotic (Bcl-2),-0.3252630897112804
+Machine B_SN177_ROI_16,Non-relapse,Antigen presentation (HLA-DR),0.06347252030066342
+Machine B_SN177_ROI_16,Non-relapse,Epigenetic (EZH2),-0.010586094139439561
+Machine B_SN177_ROI_16,Non-relapse,FAK adhesion/migration,-0.3621031096342182
+Machine B_SN177_ROI_16,Non-relapse,MAPK-JNK stress,-0.19615570370932697
+Machine B_SN177_ROI_16,Non-relapse,PI3K-AKT survival,-0.1592895972674586
+Machine B_SN177_ROI_16,Non-relapse,Proliferation,0.06273155984957238
+Machine B_SN177_ROI_16,Non-relapse,T-cell exhaustion,-0.17406002417424338
+Machine B_SN177_ROI_16,Non-relapse,TCR proximal signalling,-0.19401252277432635
+Machine B_SN177_ROI_16,Non-relapse,Type-I IFN / inflammation,-0.20450166402236225
+Machine B_SN177_ROI_16,Non-relapse,Wnt / beta-catenin,-0.30989213230251567
+Machine B_SN177_ROI_16,Non-relapse,p53 stress,-0.12864890679978522

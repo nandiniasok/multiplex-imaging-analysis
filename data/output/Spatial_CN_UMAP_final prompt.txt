@@ -1,0 +1,10 @@
+(2026-11-11) Based on Nandhu_version_final:
+1. Full spatial proximity analysis (as in June) with clear graphs, no comparison with the recovered-tumour/August runs, plus the
+   spatial ligand-receptor analysis as in spatial_lig_rec_july3; notebook, figures, statistics, summary PDF with clinical
+   interpretation -> data/output/Spatial_proximity_analysis_final
+2. Cellular neighbourhood analysis following github.com/nolanlab/NeighborhoodCoordination, KNN = 10 and 20, summary PDF,
+   per-ROI CSVs for MACSiQ View plus import instructions -> data/output/CN_final
+   Parameters confirmed by the user: 10 neighbourhoods; Unassigned/Other + Artifact excluded.
+3. UMAP of cells (Relapse vs Non-relapse, cell type), cell-type composition per patient (ROI->patient table supplied by the
+   user, saved as data/output/roi_patient_mapping.csv), notebook + summary PDF -> data/output/UMAP_Graphs
+4. Commit and push everything.

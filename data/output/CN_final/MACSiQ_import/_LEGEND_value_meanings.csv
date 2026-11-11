@@ -1,0 +1,44 @@
+column,value,meaning
+CN_k10,0,CN0: NPM1_blasts + Granulocyte
+CN_k10,1,CN1: Granulocyte + HLA-DR-hi APC (CD1c+)
+CN_k10,2,CN2: MSC + CD4+ T
+CN_k10,3,CN3: Granulocyte
+CN_k10,4,CN4: Erythroid + Macrophages
+CN_k10,5,CN5: Mast cells + Monocytes
+CN_k10,6,CN6: Macrophages + Monocytes
+CN_k10,7,CN7: Endothelial + Monocytes
+CN_k10,8,CN8: Plasma cells + NPM1_blasts
+CN_k10,9,CN9: Megakaryocyte + Erythroid
+CN_k10,-1,not assigned (Unassigned/Other or Artifact)
+CN_k20,0,CN0: Granulocyte + Macrophages
+CN_k20,1,CN1: NPM1_blasts + Macrophages
+CN_k20,2,CN2: NPM1_blasts + Granulocyte
+CN_k20,3,CN3: Erythroid + Macrophages
+CN_k20,4,CN4: HLA-DR-hi APC (CD1c+) + Megakaryocyte
+CN_k20,5,CN5: Macrophages + Monocytes
+CN_k20,6,CN6: Monocytes + Macrophages
+CN_k20,7,CN7: Endothelial + CD8+ T
+CN_k20,8,CN8: Mast cells + MSC
+CN_k20,9,CN9: Plasma cells + NPM1_blasts
+CN_k20,-1,not assigned (Unassigned/Other or Artifact)
+CellType_int,0,CD4+ T
+CellType_int,1,CD8+ T
+CellType_int,2,Plasma cells
+CellType_int,3,Granulocyte
+CellType_int,4,HLA-DR-hi APC (CD1c+)
+CellType_int,5,Immature myeloid CD11c+
+CellType_int,6,Macrophages
+CellType_int,7,Mast cells
+CellType_int,8,Monocytes
+CellType_int,9,Erythroid
+CellType_int,10,NPM1_blasts
+CellType_int,11,Mixed progenitors
+CellType_int,12,Endothelial
+CellType_int,13,MSC
+CellType_int,14,Megakaryocyte
+CellType_int,15,Unassigned-Leiden: CD68+CD3+Tryptase+
+CellType_int,16,Unassigned-Leiden: Ki67+CD147+CD45RA+
+CellType_int,17,Artifact
+CellType_int,18,Unassigned/Other
+Relapse,0,Non-relapse
+Relapse,1,Relapse

@@ -1,0 +1,18 @@
+final_label,Non-relapse,Relapse
+CD4+ T,2.633,3.675
+CD8+ T,4.441,4.695
+Plasma cells,2.769,5.898
+Granulocyte,22.159,16.433
+Macrophages,7.994,9.623
+Monocytes,7.467,7.107
+Mast cells,8.323,5.172
+HLA-DR-hi APC (CD1c+),2.921,3.231
+Immature myeloid CD11c+,2.851,0.077
+Erythroid,12.757,6.01
+NPM1_blasts,10.276,27.874
+Mixed progenitors,0.142,0.014
+Endothelial,8.799,1.932
+MSC,1.701,4.429
+Megakaryocyte,2.468,2.046
+Unassigned-Leiden: CD68+CD3+Tryptase+,2.284,0.602
+Unassigned-Leiden: Ki67+CD147+CD45RA+,0.015,1.183

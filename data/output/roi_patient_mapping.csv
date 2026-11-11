@@ -1,0 +1,50 @@
+roi,patient,group,stratification,acquisition
+Machine B_SN177_ROI_10,NR-P1,Non-relapse,CR MRD+ no relapse,NPM1_MRD_06_2024
+Machine B_SN177_ROI_11,NR-P1,Non-relapse,CR MRD+ no relapse,NPM1_MRD_06_2024
+Machine B_SN177_ROI_12,NR-P1,Non-relapse,CR MRD+ no relapse,NPM1_MRD_06_2024
+Machine B_SN177_ROI_16,NR-P1,Non-relapse,CR MRD+ no relapse,NPM1_MRD_06_2024
+Machine A_Slides2_ROI_10,NR-P2,Non-relapse,MRD+ no relapse,NPM1_MRD_04_2025
+Machine A_Slides2_ROI_11,NR-P2,Non-relapse,MRD+ no relapse,NPM1_MRD_04_2025
+Machine A_Slides2_ROI_12,NR-P2,Non-relapse,MRD+ no relapse,NPM1_MRD_04_2025
+Machine A_Slides2_ROI_13,NR-P2,Non-relapse,MRD+ no relapse,NPM1_MRD_04_2025
+Machine A_Slides2_ROI_14,NR-P2,Non-relapse,MRD+ no relapse,NPM1_MRD_04_2025
+Machine A_Slides2_ROI_15,NR-P2,Non-relapse,MRD+ no relapse,NPM1_MRD_04_2025
+Machine A_Slides2_ROI_16,NR-P2,Non-relapse,MRD+ no relapse,NPM1_MRD_04_2025
+Machine B_SN177_ROI_13,NR-P3,Non-relapse,CR MRD+ no relapse,NPM1_MRD_06_2024
+Machine B_SN177_ROI_14,NR-P3,Non-relapse,CR MRD+ no relapse,NPM1_MRD_06_2024
+Machine B_SN177_ROI_15,NR-P3,Non-relapse,CR MRD+ no relapse,NPM1_MRD_06_2024
+Machine A_Slides1_ROI_15,NR-P4,Non-relapse,CR MRD+ no relapse post HCT,NPM1_MRD_02_2025
+Machine A_Slides1_ROI_16,NR-P4,Non-relapse,CR MRD+ no relapse post HCT,NPM1_MRD_02_2025
+Machine B_SN177_ROI_06,NR-P5,Non-relapse,PR MRD+ no relapse post allo; in sample CR,NPM1_MRD_06_2024
+Machine B_SN177_ROI_07,NR-P5,Non-relapse,PR MRD+ no relapse post allo; in sample CR,NPM1_MRD_06_2024
+Machine B_SN177_ROI_08,NR-P5,Non-relapse,PR MRD+ no relapse post allo; in sample CR,NPM1_MRD_06_2024
+Machine B_SN177_ROI_09,NR-P5,Non-relapse,PR MRD+ no relapse post allo; in sample CR,NPM1_MRD_06_2024
+Machine A_Slides1_ROI_12,NR-P6,Non-relapse,CR MRD+ no relapse,NPM1_MRD_02_2025
+Machine A_Slides1_ROI_13,NR-P6,Non-relapse,CR MRD+ no relapse,NPM1_MRD_02_2025
+Machine A_Slides1_ROI_14,NR-P6,Non-relapse,CR MRD+ no relapse,NPM1_MRD_02_2025
+Machine B_SN177_ROI_01,R-P1,Relapse,CR MRD+ relapse,NPM1_MRD_06_2024
+Machine B_SN177_ROI_02,R-P1,Relapse,CR MRD+ relapse,NPM1_MRD_06_2024
+Machine B_SN177_ROI_03,R-P1,Relapse,CR MRD+ relapse,NPM1_MRD_06_2024
+Machine B_SN177_ROI_05,R-P1,Relapse,CR MRD+ relapse,NPM1_MRD_06_2024
+Machine A_Slides2_ROI_01,R-P2,Relapse,CR MRD+ relapse,NPM1_MRD_04_2025
+Machine A_Slides2_ROI_02,R-P2,Relapse,CR MRD+ relapse,NPM1_MRD_04_2025
+Machine A_Slides2_ROI_03,R-P2,Relapse,CR MRD+ relapse,NPM1_MRD_04_2025
+Machine A_Slides2_ROI_04,R-P2,Relapse,CR MRD+ relapse,NPM1_MRD_04_2025
+Machine A_Slides2_ROI_05,R-P2,Relapse,CR MRD+ relapse,NPM1_MRD_04_2025
+Machine A_Slides2_ROI_06,R-P2,Relapse,CR MRD+ relapse,NPM1_MRD_04_2025
+Machine A_Slides2_ROI_07,R-P2,Relapse,CR MRD+ relapse,NPM1_MRD_04_2025
+Machine A_Slides2_ROI_08,R-P2,Relapse,CR MRD+ relapse,NPM1_MRD_04_2025
+Machine A_Slides2_ROI_09,R-P2,Relapse,CR MRD+ relapse,NPM1_MRD_04_2025
+Machine A_Slides1_ROI_01,R-P3,Relapse,CR MRD+ relapse,NPM1_MRD_02_2025
+Machine A_Slides1_ROI_02,R-P3,Relapse,CR MRD+ relapse,NPM1_MRD_02_2025
+Machine A_Slides1_ROI_03,R-P3,Relapse,CR MRD+ relapse,NPM1_MRD_02_2025
+Machine A_Slides1_ROI_04,R-P3,Relapse,CR MRD+ relapse,NPM1_MRD_02_2025
+Machine A_Slides1_ROI_05,R-P3,Relapse,CR MRD+ relapse,NPM1_MRD_02_2025
+Machine A_Slides1_ROI_06,R-P3,Relapse,CR MRD+ relapse,NPM1_MRD_02_2025
+Machine A_Slides1_ROI_07,R-P3,Relapse,CR MRD+ relapse,NPM1_MRD_02_2025
+Machine A_Slides2_ROI_17,R-P4,Relapse,CR MRD+ relapse,NPM1_MRD_04_2025
+Machine A_Slides2_ROI_18,R-P4,Relapse,CR MRD+ relapse,NPM1_MRD_04_2025
+Machine A_Slides1_ROI_08,R-P5,Relapse,CR MRD+ relapse,NPM1_MRD_02_2025
+Machine A_Slides1_ROI_09,R-P5,Relapse,CR MRD+ relapse,NPM1_MRD_02_2025
+Machine A_Slides1_ROI_10,R-P5,Relapse,CR MRD+ relapse,NPM1_MRD_02_2025
+Machine A_Slides1_ROI_11,R-P5,Relapse,CR MRD+ relapse,NPM1_MRD_02_2025

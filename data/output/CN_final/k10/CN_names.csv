@@ -1,0 +1,11 @@
+CN,name,n_cells
+CN0,NPM1_blasts + Granulocyte,42655
+CN1,Granulocyte + HLA-DR-hi APC (CD1c+),32522
+CN2,MSC + CD4+ T,27569
+CN3,Granulocyte,24136
+CN4,Erythroid + Macrophages,22760
+CN5,Mast cells + Monocytes,21442
+CN6,Macrophages + Monocytes,20506
+CN7,Endothelial + Monocytes,13137
+CN8,Plasma cells + NPM1_blasts,7772
+CN9,Megakaryocyte + Erythroid,5988
