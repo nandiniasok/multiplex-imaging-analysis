@@ -1,0 +1,1017 @@
+unique_region,Cell Id,v2_final_label_integer,v76_label,final_label,final_coarse,tumour_recovery_reason,machine,Nuc X,Nuc Y Inv,final_label_int
+Machine A/Slides1_ROI_05,1@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,3282.429931640625,2635.064453125,1
+Machine A/Slides1_ROI_05,2@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,3197.258056640625,2634.585205078125,3
+Machine A/Slides1_ROI_05,3@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,3245.767333984375,2617.447509765625,1
+Machine A/Slides1_ROI_05,4@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,3248.4697265625,2572.939453125,1
+Machine A/Slides1_ROI_05,5@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,3227.5029296875,2532.103759765625,10
+Machine A/Slides1_ROI_05,6@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,3260.901123046875,2527.5849609375,10
+Machine A/Slides1_ROI_05,7@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,298.7727355957031,2364.540283203125,10
+Machine A/Slides1_ROI_05,8@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,345.9578552246094,2363.392333984375,1
+Machine A/Slides1_ROI_05,9@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,226.90328979492188,2340.97900390625,1
+Machine A/Slides1_ROI_05,10@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,403.0705261230469,2333.740966796875,10
+Machine A/Slides1_ROI_05,11@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,258.68817138671875,2331.679443359375,10
+Machine A/Slides1_ROI_05,12@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,143.6872406005859,2323.9658203125,10
+Machine A/Slides1_ROI_05,13@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,345.99127197265625,2316.373291015625,10
+Machine A/Slides1_ROI_05,14@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,299.6101989746094,2311.2890625,10
+Machine A/Slides1_ROI_05,15@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,388.8316040039063,2303.69140625,1
+Machine A/Slides1_ROI_05,16@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,444.9415283203125,2305.546875,9
+Machine A/Slides1_ROI_05,17@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,220.8290100097656,2296.5068359375,9
+Machine A/Slides1_ROI_05,18@1,26.0,Megakaryocyte,Megakaryocyte,Megakaryocyte,,machine_A,367.8165283203125,2285.084716796875,14
+Machine A/Slides1_ROI_05,19@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,170.02011108398435,2278.912841796875,10
+Machine A/Slides1_ROI_05,20@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,255.35025024414065,2277.70556640625,9
+Machine A/Slides1_ROI_05,21@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,110.62539672851562,2261.418701171875,3
+Machine A/Slides1_ROI_05,22@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1945.8302001953125,2257.163818359375,10
+Machine A/Slides1_ROI_05,23@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,403.5798034667969,2256.619140625,1
+Machine A/Slides1_ROI_05,24@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,287.859619140625,2247.075927734375,3
+Machine A/Slides1_ROI_05,25@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,141.48902893066406,2244.650634765625,0
+Machine A/Slides1_ROI_05,26@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1870.58642578125,2236.04736328125,10
+Machine A/Slides1_ROI_05,27@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,235.5642852783203,2230.755126953125,9
+Machine A/Slides1_ROI_05,28@1,,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,2005.685302734375,2223.317138671875,15
+Machine A/Slides1_ROI_05,29@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,336.0599670410156,2221.42138671875,10
+Machine A/Slides1_ROI_05,30@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,436.031982421875,2222.581298828125,9
+Machine A/Slides1_ROI_05,31@1,8.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,1924.4520263671875,2212.45654296875,0
+Machine A/Slides1_ROI_05,32@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,159.54507446289062,2209.8330078125,3
+Machine A/Slides1_ROI_05,33@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,390.6227111816406,2211.10546875,1
+Machine A/Slides1_ROI_05,34@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,2106.5830078125,2209.32861328125,1
+Machine A/Slides1_ROI_05,35@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2063.727783203125,2202.562744140625,10
+Machine A/Slides1_ROI_05,36@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,288.3431396484375,2198.74658203125,1
+Machine A/Slides1_ROI_05,37@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,219.23260498046875,2197.40283203125,7
+Machine A/Slides1_ROI_05,38@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,186.14900207519528,2181.853271484375,4
+Machine A/Slides1_ROI_05,39@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2026.9202880859373,2174.924560546875,10
+Machine A/Slides1_ROI_05,40@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,137.7465057373047,2170.261962890625,9
+Machine A/Slides1_ROI_05,41@1,15.0,Mast cells,Mast cells,Myeloid,,machine_A,1884.0687255859373,2165.593017578125,7
+Machine A/Slides1_ROI_05,42@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1971.2835693359373,2168.8046875,10
+Machine A/Slides1_ROI_05,43@1,8.0,Mast cells,Mast cells,Myeloid,,machine_A,270.92938232421875,2160.63916015625,7
+Machine A/Slides1_ROI_05,44@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2444.184326171875,2164.26953125,10
+Machine A/Slides1_ROI_05,45@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,844.55224609375,2158.287109375,10
+Machine A/Slides1_ROI_05,46@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1113.2476806640625,2158.806884765625,10
+Machine A/Slides1_ROI_05,47@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1280.5870361328125,2151.813232421875,3
+Machine A/Slides1_ROI_05,48@1,18.0,NPM1_blasts,NPM1_blasts,Leukemia,(a) v2 Tumor: Proliferating AML blast,machine_A,1668.3839111328125,2155.063232421875,10
+Machine A/Slides1_ROI_05,49@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1172.6309814453125,2140.115966796875,10
+Machine A/Slides1_ROI_05,50@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1345.931884765625,2140.871826171875,10
+Machine A/Slides1_ROI_05,51@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,1861.9586181640625,2133.567626953125,8
+Machine A/Slides1_ROI_05,52@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,2548.71533203125,2135.64990234375,9
+Machine A/Slides1_ROI_05,53@1,8.0,Mast cells,Mast cells,Myeloid,,machine_A,185.20968627929688,2132.92529296875,7
+Machine A/Slides1_ROI_05,54@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,256.570556640625,2133.564453125,3
+Machine A/Slides1_ROI_05,55@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2072.410888671875,2134.43994140625,4
+Machine A/Slides1_ROI_05,56@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,109.87979888916016,2123.958984375,9
+Machine A/Slides1_ROI_05,57@1,16.0,Erythroid,Erythroid,Erythroid,,machine_A,888.867431640625,2122.043212890625,9
+Machine A/Slides1_ROI_05,58@1,19.0,NPM1_blasts,NPM1_blasts,Leukemia,(a) v2 Tumor: Quiescent AML blast,machine_A,1912.638916015625,2123.233154296875,10
+Machine A/Slides1_ROI_05,59@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,3229.060302734375,2121.897216796875,10
+Machine A/Slides1_ROI_05,60@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1121.2701416015625,2119.071533203125,10
+Machine A/Slides1_ROI_05,61@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1308.536376953125,2119.550048828125,10
+Machine A/Slides1_ROI_05,62@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1210.6090087890625,2114.839599609375,10
+Machine A/Slides1_ROI_05,63@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1257.8709716796875,2117.1083984375,10
+Machine A/Slides1_ROI_05,64@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,2452.75244140625,2114.70849609375,3
+Machine A/Slides1_ROI_05,65@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,2509.125732421875,2110.568603515625,3
+Machine A/Slides1_ROI_05,66@1,16.0,Erythroid,Erythroid,Erythroid,,machine_A,2605.887939453125,2110.570556640625,9
+Machine A/Slides1_ROI_05,67@1,16.0,Erythroid,Erythroid,Erythroid,,machine_A,234.7386016845703,2109.316162109375,9
+Machine A/Slides1_ROI_05,68@1,19.0,NPM1_blasts,NPM1_blasts,Leukemia,(a) v2 Tumor: Quiescent AML blast,machine_A,1652.1612548828125,2106.934814453125,10
+Machine A/Slides1_ROI_05,69@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,2381.60400390625,2108.51416015625,9
+Machine A/Slides1_ROI_05,70@1,17.0,Macrophages,Macrophages,Myeloid,,machine_A,1714.40234375,2104.85107421875,6
+Machine A/Slides1_ROI_05,71@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,2667.301513671875,2102.550048828125,3
+Machine A/Slides1_ROI_05,72@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,163.1402130126953,2100.08447265625,9
+Machine A/Slides1_ROI_05,73@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1058.0023193359375,2097.28759765625,3
+Machine A/Slides1_ROI_05,74@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2552.78564453125,2098.194580078125,10
+Machine A/Slides1_ROI_05,75@1,16.0,Erythroid,Erythroid,Erythroid,,machine_A,1150.3707275390625,2096.872314453125,9
+Machine A/Slides1_ROI_05,76@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,3270.891357421875,2096.26220703125,4
+Machine A/Slides1_ROI_05,77@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,826.667724609375,2091.785888671875,10
+Machine A/Slides1_ROI_05,78@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,1682.532470703125,2086.803466796875,6
+Machine A/Slides1_ROI_05,79@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1739.2054443359375,2084.547607421875,10
+Machine A/Slides1_ROI_05,80@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,94.57490539550781,2080.054931640625,1
+Machine A/Slides1_ROI_05,81@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1107.1025390625,2077.008056640625,3
+Machine A/Slides1_ROI_05,82@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,1833.9462890625,2075.683349609375,6
+Machine A/Slides1_ROI_05,83@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,203.73997497558597,2073.6044921875,10
+Machine A/Slides1_ROI_05,84@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2646.933837890625,2074.723388671875,10
+Machine A/Slides1_ROI_05,85@1,6.0,MSC,MSC,Stromal,,machine_A,1866.9036865234373,2068.63720703125,13
+Machine A/Slides1_ROI_05,86@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1767.00634765625,2059.92431640625,10
+Machine A/Slides1_ROI_05,87@1,4.0,NPM1_blasts,NPM1_blasts,Leukemia,,machine_A,1923.35009765625,2060.392578125,10
+Machine A/Slides1_ROI_05,88@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1704.1759033203125,2055.180908203125,10
+Machine A/Slides1_ROI_05,89@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2448.9775390625,2055.313720703125,10
+Machine A/Slides1_ROI_05,90@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,606.7125854492188,2052.216064453125,1
+Machine A/Slides1_ROI_05,91@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,703.3190307617188,2047.8221435546875,10
+Machine A/Slides1_ROI_05,92@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,2686.050537109375,2049.285888671875,3
+Machine A/Slides1_ROI_05,93@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1178.7486572265625,2047.73828125,10
+Machine A/Slides1_ROI_05,94@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,1667.0714111328125,2045.7994384765625,9
+Machine A/Slides1_ROI_05,95@1,,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2260.1865234375,2045.6715087890625,4
+Machine A/Slides1_ROI_05,96@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1076.595703125,2045.2896728515625,10
+Machine A/Slides1_ROI_05,97@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2590.400146484375,2039.913330078125,10
+Machine A/Slides1_ROI_05,98@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,813.2750854492188,2036.8983154296875,3
+Machine A/Slides1_ROI_05,99@1,18.0,NPM1_blasts,NPM1_blasts,Leukemia,(a) v2 Tumor: Proliferating AML blast,machine_A,1117.75390625,2029.0792236328125,10
+Machine A/Slides1_ROI_05,100@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,662.0679321289064,2024.9197998046875,4
+Machine A/Slides1_ROI_05,101@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,1741.7850341796875,2025.9747314453125,1
+Machine A/Slides1_ROI_05,102@1,26.0,Megakaryocyte,Megakaryocyte,Megakaryocyte,,machine_A,2725.267333984375,2021.479248046875,14
+Machine A/Slides1_ROI_05,103@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2642.403076171875,2014.4862060546875,4
+Machine A/Slides1_ROI_05,104@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,2542.58740234375,2011.10205078125,3
+Machine A/Slides1_ROI_05,105@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,779.542724609375,2009.562255859375,10
+Machine A/Slides1_ROI_05,106@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,2764.768310546875,2008.75,9
+Machine A/Slides1_ROI_05,107@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,690.9754028320312,2006.2532958984373,10
+Machine A/Slides1_ROI_05,108@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,2229.656494140625,2003.110107421875,9
+Machine A/Slides1_ROI_05,109@1,26.0,Megakaryocyte,Megakaryocyte,Megakaryocyte,,machine_A,2329.874267578125,2002.16259765625,14
+Machine A/Slides1_ROI_05,110@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,2684.0751953125,2005.21875,3
+Machine A/Slides1_ROI_05,111@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1641.8348388671875,1995.9854736328125,3
+Machine A/Slides1_ROI_05,112@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1068.066650390625,1995.803466796875,10
+Machine A/Slides1_ROI_05,113@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,2421.6591796875,1993.161376953125,0
+Machine A/Slides1_ROI_05,114@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2491.299072265625,1992.85791015625,10
+Machine A/Slides1_ROI_05,115@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2586.3544921875,1985.9014892578125,4
+Machine A/Slides1_ROI_05,116@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,644.92431640625,1979.122314453125,1
+Machine A/Slides1_ROI_05,117@1,16.0,Erythroid,Erythroid,Erythroid,,machine_A,2646.90771484375,1980.458740234375,9
+Machine A/Slides1_ROI_05,118@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,2820.498779296875,1969.8077392578125,0
+Machine A/Slides1_ROI_05,119@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2858.31005859375,1973.64306640625,10
+Machine A/Slides1_ROI_05,120@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1109.9461669921875,1966.5491943359373,10
+Machine A/Slides1_ROI_05,121@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2243.232177734375,1967.8900146484373,10
+Machine A/Slides1_ROI_05,122@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,2199.79443359375,1956.037109375,1
+Machine A/Slides1_ROI_05,123@1,16.0,Erythroid,Erythroid,Erythroid,,machine_A,2488.071044921875,1956.275146484375,9
+Machine A/Slides1_ROI_05,124@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2326.99462890625,1955.782958984375,4
+Machine A/Slides1_ROI_05,125@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,2073.921630859375,1950.1688232421875,1
+Machine A/Slides1_ROI_05,126@1,9.0,MSC,MSC,Stromal,,machine_A,2953.246337890625,1950.6461181640625,13
+Machine A/Slides1_ROI_05,127@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,608.463134765625,1948.30029296875,1
+Machine A/Slides1_ROI_05,128@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1061.9913330078125,1941.0255126953125,10
+Machine A/Slides1_ROI_05,129@1,10.0,NPM1_blasts,NPM1_blasts,Leukemia,,machine_A,2162.337158203125,1942.7008056640625,10
+Machine A/Slides1_ROI_05,130@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2380.23193359375,1941.640380859375,4
+Machine A/Slides1_ROI_05,131@1,8.0,Mast cells,Mast cells,Myeloid,,machine_A,2536.9423828125,1941.5400390625,7
+Machine A/Slides1_ROI_05,132@1,8.0,MSC,MSC,Stromal,,machine_A,2862.39892578125,1927.4373779296875,13
+Machine A/Slides1_ROI_05,133@1,8.0,MSC,MSC,Stromal,,machine_A,2114.1474609375,1931.0419921875,13
+Machine A/Slides1_ROI_05,134@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2780.21484375,1931.7828369140625,4
+Machine A/Slides1_ROI_05,135@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,3005.12841796875,1929.515380859375,10
+Machine A/Slides1_ROI_05,136@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,2028.6341552734373,1923.0933837890625,1
+Machine A/Slides1_ROI_05,137@1,1.0,MSC,MSC,Stromal,,machine_A,2907.48388671875,1925.67919921875,13
+Machine A/Slides1_ROI_05,138@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,2941.4208984375,1928.6571044921875,9
+Machine A/Slides1_ROI_05,139@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1817.0631103515625,1920.5318603515625,3
+Machine A/Slides1_ROI_05,140@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2268.709716796875,1921.7021484375,10
+Machine A/Slides1_ROI_05,141@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1098.0726318359375,1918.212158203125,3
+Machine A/Slides1_ROI_05,142@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2443.909423828125,1913.205810546875,10
+Machine A/Slides1_ROI_05,143@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,3074.99267578125,1912.8546142578125,10
+Machine A/Slides1_ROI_05,144@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1977.9317626953125,1907.986572265625,3
+Machine A/Slides1_ROI_05,145@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,2493.811767578125,1910.4957275390625,1
+Machine A/Slides1_ROI_05,146@1,16.0,Erythroid,Erythroid,Erythroid,,machine_A,1913.0904541015625,1904.6920166015625,9
+Machine A/Slides1_ROI_05,147@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2826.63525390625,1907.67822265625,4
+Machine A/Slides1_ROI_05,148@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,593.0301513671875,1904.7681884765625,6
+Machine A/Slides1_ROI_05,149@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,2300.98486328125,1902.821533203125,1
+Machine A/Slides1_ROI_05,150@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,2352.86669921875,1903.1846923828125,9
+Machine A/Slides1_ROI_05,151@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,222.15182495117188,1897.0526123046875,10
+Machine A/Slides1_ROI_05,152@1,10.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,1854.1669921875,1894.179443359375,4
+Machine A/Slides1_ROI_05,153@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,3003.0,1895.420166015625,10
+Machine A/Slides1_ROI_05,154@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,374.4070129394531,1891.3525390625,10
+Machine A/Slides1_ROI_05,155@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1043.54296875,1893.0712890625,10
+Machine A/Slides1_ROI_05,156@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1111.91455078125,1887.5882568359373,10
+Machine A/Slides1_ROI_05,157@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,2024.8426513671875,1888.962646484375,6
+Machine A/Slides1_ROI_05,158@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,2071.013671875,1887.620361328125,1
+Machine A/Slides1_ROI_05,159@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,2472.22509765625,1880.1739501953125,1
+Machine A/Slides1_ROI_05,160@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,3056.96630859375,1877.2420654296875,10
+Machine A/Slides1_ROI_05,161@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,415.5804748535156,1872.93994140625,9
+Machine A/Slides1_ROI_05,162@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2974.807373046875,1878.7235107421875,10
+Machine A/Slides1_ROI_05,163@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,321.1703491210937,1871.2359619140625,1
+Machine A/Slides1_ROI_05,164@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,534.7692260742188,1873.076904296875,6
+Machine A/Slides1_ROI_05,165@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,2282.364990234375,1869.255126953125,0
+Machine A/Slides1_ROI_05,166@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,138.5694580078125,1865.194580078125,10
+Machine A/Slides1_ROI_05,167@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2156.221923828125,1865.977294921875,10
+Machine A/Slides1_ROI_05,168@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2848.575927734375,1868.2303466796875,10
+Machine A/Slides1_ROI_05,169@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2234.832763671875,1861.8162841796875,10
+Machine A/Slides1_ROI_05,170@1,15.0,Mast cells,Mast cells,Myeloid,,machine_A,482.40032958984375,1861.8411865234373,7
+Machine A/Slides1_ROI_05,171@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,1891.9638671875,1859.005859375,1
+Machine A/Slides1_ROI_05,172@1,8.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2420.472412109375,1863.07568359375,4
+Machine A/Slides1_ROI_05,173@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,3101.333251953125,1861.1517333984373,10
+Machine A/Slides1_ROI_05,174@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1935.709716796875,1857.72705078125,3
+Machine A/Slides1_ROI_05,175@1,9.0,MSC,MSC,Stromal,,machine_A,2890.6435546875,1858.6876220703125,13
+Machine A/Slides1_ROI_05,176@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1980.707275390625,1854.3621826171875,3
+Machine A/Slides1_ROI_05,177@1,23.0,MSC,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2939.188720703125,1857.0478515625,10
+Machine A/Slides1_ROI_05,178@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,210.49861145019528,1853.775634765625,4
+Machine A/Slides1_ROI_05,179@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,272.485107421875,1851.728515625,1
+Machine A/Slides1_ROI_05,180@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,987.5113525390624,1852.392822265625,9
+Machine A/Slides1_ROI_05,181@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1028.9639892578125,1852.8673095703125,3
+Machine A/Slides1_ROI_05,182@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,1205.644775390625,1851.1239013671875,1
+Machine A/Slides1_ROI_05,183@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2035.9732666015625,1852.632080078125,10
+Machine A/Slides1_ROI_05,184@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,2347.608642578125,1851.71142578125,0
+Machine A/Slides1_ROI_05,185@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1091.2164306640625,1850.044921875,3
+Machine A/Slides1_ROI_05,186@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,1154.738525390625,1848.4515380859373,1
+Machine A/Slides1_ROI_05,187@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,11.828157424926756,1840.401611328125,1
+Machine A/Slides1_ROI_05,188@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,321.18167114257807,1839.3563232421875,1
+Machine A/Slides1_ROI_05,189@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2454.246337890625,1840.7772216796875,4
+Machine A/Slides1_ROI_05,190@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,3062.641845703125,1840.5645751953125,10
+Machine A/Slides1_ROI_05,191@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2094.864990234375,1831.478271484375,10
+Machine A/Slides1_ROI_05,192@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1838.56103515625,1830.788330078125,3
+Machine A/Slides1_ROI_05,193@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,2988.923095703125,1832.3326416015625,9
+Machine A/Slides1_ROI_05,194@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2305.31005859375,1828.53662109375,10
+Machine A/Slides1_ROI_05,195@1,8.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,2412.493408203125,1825.28759765625,0
+Machine A/Slides1_ROI_05,196@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2158.421875,1824.6832275390625,10
+Machine A/Slides1_ROI_05,197@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2861.14501953125,1823.31298828125,10
+Machine A/Slides1_ROI_05,198@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,3099.158935546875,1824.42236328125,9
+Machine A/Slides1_ROI_05,199@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,1191.477783203125,1821.3985595703125,9
+Machine A/Slides1_ROI_05,200@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2211.178466796875,1822.54638671875,10
+Machine A/Slides1_ROI_05,201@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,3037.525390625,1819.0875244140625,10
+Machine A/Slides1_ROI_05,202@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,362.3093872070313,1823.4005126953125,10
+Machine A/Slides1_ROI_05,203@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,277.10595703125,1817.0377197265625,10
+Machine A/Slides1_ROI_05,204@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1264.711669921875,1815.2298583984373,3
+Machine A/Slides1_ROI_05,205@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,2890.386474609375,1811.8214111328125,6
+Machine A/Slides1_ROI_05,206@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,653.0047607421875,1806.654296875,8
+Machine A/Slides1_ROI_05,207@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2252.407470703125,1805.2425537109373,10
+Machine A/Slides1_ROI_05,208@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,321.7314147949219,1804.9949951171875,1
+Machine A/Slides1_ROI_05,209@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1873.6971435546875,1804.7728271484373,10
+Machine A/Slides1_ROI_05,210@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2105.513916015625,1806.7022705078125,10
+Machine A/Slides1_ROI_05,211@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,3066.906494140625,1800.0830078125,10
+Machine A/Slides1_ROI_05,212@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,716.333740234375,1793.61962890625,8
+Machine A/Slides1_ROI_05,213@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,2288.626953125,1791.681640625,3
+Machine A/Slides1_ROI_05,214@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2927.745849609375,1788.88720703125,10
+Machine A/Slides1_ROI_05,215@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,353.3763427734375,1779.5728759765625,10
+Machine A/Slides1_ROI_05,216@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,809.3394165039062,1781.46533203125,4
+Machine A/Slides1_ROI_05,217@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,3026.877197265625,1782.218017578125,10
+Machine A/Slides1_ROI_05,218@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,3148.66357421875,1776.1021728515625,10
+Machine A/Slides1_ROI_05,219@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,2349.392822265625,1774.8526611328125,1
+Machine A/Slides1_ROI_05,220@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,754.6688842773436,1774.08544921875,4
+Machine A/Slides1_ROI_05,221@1,8.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2415.125,1776.353759765625,4
+Machine A/Slides1_ROI_05,222@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,3062.342041015625,1774.320556640625,10
+Machine A/Slides1_ROI_05,223@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2062.76416015625,1768.2225341796875,10
+Machine A/Slides1_ROI_05,224@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2461.59130859375,1768.226318359375,4
+Machine A/Slides1_ROI_05,225@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,1909.8006591796875,1767.2554931640625,6
+Machine A/Slides1_ROI_05,226@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1998.7567138671875,1765.1676025390625,10
+Machine A/Slides1_ROI_05,227@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2884.95654296875,1766.4713134765625,10
+Machine A/Slides1_ROI_05,228@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1320.4515380859375,1764.755615234375,10
+Machine A/Slides1_ROI_05,229@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1845.50732421875,1765.7490234375,10
+Machine A/Slides1_ROI_05,230@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1207.81982421875,1762.7325439453125,3
+Machine A/Slides1_ROI_05,231@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1277.919677734375,1761.6588134765625,10
+Machine A/Slides1_ROI_05,232@1,13.0,Erythroid,Erythroid,Erythroid,,machine_A,2274.113037109375,1757.5233154296875,9
+Machine A/Slides1_ROI_05,233@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,3025.8603515625,1752.26904296875,10
+Machine A/Slides1_ROI_05,234@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,2323.483642578125,1745.4224853515625,3
+Machine A/Slides1_ROI_05,235@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,333.3019714355469,1744.4005126953125,3
+Machine A/Slides1_ROI_05,236@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,384.56936645507807,1743.828369140625,18
+Machine A/Slides1_ROI_05,237@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,781.1276245117188,1745.19580078125,4
+Machine A/Slides1_ROI_05,238@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2434.80224609375,1743.3427734375,4
+Machine A/Slides1_ROI_05,239@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,3087.67724609375,1742.3875732421875,10
+Machine A/Slides1_ROI_05,240@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,417.32958984375,1734.1923828125,4
+Machine A/Slides1_ROI_05,241@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2026.3077392578125,1737.1549072265625,10
+Machine A/Slides1_ROI_05,242@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,2100.28173828125,1734.856689453125,9
+Machine A/Slides1_ROI_05,243@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,2148.034423828125,1734.63623046875,3
+Machine A/Slides1_ROI_05,244@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,3141.105224609375,1736.629638671875,0
+Machine A/Slides1_ROI_05,245@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1818.4158935546875,1733.0574951171875,10
+Machine A/Slides1_ROI_05,246@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,2355.039794921875,1734.402099609375,3
+Machine A/Slides1_ROI_05,247@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,1853.3026123046875,1727.7896728515625,6
+Machine A/Slides1_ROI_05,248@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1271.7706298828125,1719.4599609375,10
+Machine A/Slides1_ROI_05,249@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,3200.28173828125,1716.604736328125,10
+Machine A/Slides1_ROI_05,250@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,371.6546936035156,1710.4351806640625,3
+Machine A/Slides1_ROI_05,251@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,335.9148254394531,1700.8531494140625,10
+Machine A/Slides1_ROI_05,252@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1238.8470458984375,1699.4713134765625,10
+Machine A/Slides1_ROI_05,253@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1205.8702392578125,1700.18603515625,3
+Machine A/Slides1_ROI_05,254@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,1949.49267578125,1698.0582275390625,6
+Machine A/Slides1_ROI_05,255@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,2112.534423828125,1701.301513671875,3
+Machine A/Slides1_ROI_05,256@1,,NPM1_blasts,NPM1_blasts,Leukemia,,machine_A,3082.918701171875,1696.9456787109375,10
+Machine A/Slides1_ROI_05,257@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,3132.737548828125,1699.0,9
+Machine A/Slides1_ROI_05,258@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,1893.356689453125,1695.619384765625,6
+Machine A/Slides1_ROI_05,259@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2496.467041015625,1688.5604248046875,4
+Machine A/Slides1_ROI_05,260@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,3187.89794921875,1685.387939453125,9
+Machine A/Slides1_ROI_05,261@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,766.827880859375,1685.5206298828125,10
+Machine A/Slides1_ROI_05,262@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2145.357421875,1684.8402099609375,4
+Machine A/Slides1_ROI_05,263@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,2243.893798828125,1682.505126953125,6
+Machine A/Slides1_ROI_05,264@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,2032.088134765625,1675.088134765625,0
+Machine A/Slides1_ROI_05,265@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1273.5338134765625,1666.25830078125,10
+Machine A/Slides1_ROI_05,266@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,3144.01171875,1662.1412353515625,10
+Machine A/Slides1_ROI_05,267@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,1965.53759765625,1657.6209716796875,6
+Machine A/Slides1_ROI_05,268@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,2189.614013671875,1660.106201171875,6
+Machine A/Slides1_ROI_05,269@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,1829.628662109375,1656.4349365234375,6
+Machine A/Slides1_ROI_05,270@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2469.418212890625,1655.3004150390625,10
+Machine A/Slides1_ROI_05,271@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1177.3128662109375,1649.8653564453125,3
+Machine A/Slides1_ROI_05,272@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,2392.09326171875,1649.828125,1
+Machine A/Slides1_ROI_05,273@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,3094.1337890625,1649.5841064453125,10
+Machine A/Slides1_ROI_05,274@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,2325.73779296875,1640.3153076171875,1
+Machine A/Slides1_ROI_05,275@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,2023.8582763671875,1636.2669677734375,1
+Machine A/Slides1_ROI_05,276@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,1242.70263671875,1631.8765869140625,8
+Machine A/Slides1_ROI_05,277@1,5.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,3281.3564453125,1639.1981201171875,2
+Machine A/Slides1_ROI_05,278@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1311.718994140625,1635.0623779296875,10
+Machine A/Slides1_ROI_05,279@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1924.3614501953125,1631.0369873046875,10
+Machine A/Slides1_ROI_05,280@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2838.1171875,1629.142333984375,4
+Machine A/Slides1_ROI_05,281@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,2450.268798828125,1621.0999755859375,6
+Machine A/Slides1_ROI_05,282@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1131.384521484375,1614.932861328125,3
+Machine A/Slides1_ROI_05,283@1,18.0,NPM1_blasts,NPM1_blasts,Leukemia,(a) v2 Tumor: Proliferating AML blast,machine_A,2392.316162109375,1616.5054931640625,10
+Machine A/Slides1_ROI_05,284@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1268.0565185546875,1613.3837890625,10
+Machine A/Slides1_ROI_05,285@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2146.019287109375,1610.169677734375,4
+Machine A/Slides1_ROI_05,286@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2545.48779296875,1611.0797119140625,4
+Machine A/Slides1_ROI_05,287@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,763.9774780273436,1609.806884765625,1
+Machine A/Slides1_ROI_05,288@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1178.7867431640625,1611.384521484375,3
+Machine A/Slides1_ROI_05,289@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,1821.5706787109373,1608.7716064453125,6
+Machine A/Slides1_ROI_05,290@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,2000.37939453125,1610.545166015625,6
+Machine A/Slides1_ROI_05,291@1,8.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,2094.31640625,1606.738037109375,0
+Machine A/Slides1_ROI_05,292@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,840.9329833984375,1601.6329345703125,10
+Machine A/Slides1_ROI_05,293@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,1961.6446533203125,1600.2950439453125,6
+Machine A/Slides1_ROI_05,294@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,2275.442626953125,1601.084228515625,1
+Machine A/Slides1_ROI_05,295@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,2470.03466796875,1601.14599609375,6
+Machine A/Slides1_ROI_05,296@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,2804.80419921875,1599.1312255859375,1
+Machine A/Slides1_ROI_05,297@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,3077.584228515625,1581.3853759765625,1
+Machine A/Slides1_ROI_05,298@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1304.4102783203125,1583.777099609375,10
+Machine A/Slides1_ROI_05,299@1,,Unassigned-Leiden: Ki67+CD147+CD45RA+,Unassigned-Leiden: Ki67+CD147+CD45RA+,Unassigned-derived,,machine_A,1920.9779052734373,1587.8531494140625,16
+Machine A/Slides1_ROI_05,300@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1776.9664306640625,1583.9156494140625,10
+Machine A/Slides1_ROI_05,301@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,2540.448974609375,1583.536865234375,1
+Machine A/Slides1_ROI_05,302@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,803.3396606445312,1584.2257080078125,1
+Machine A/Slides1_ROI_05,303@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2838.698486328125,1581.6732177734375,4
+Machine A/Slides1_ROI_05,304@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,302.4207763671875,1572.7908935546875,4
+Machine A/Slides1_ROI_05,305@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1186.4559326171875,1573.9139404296875,10
+Machine A/Slides1_ROI_05,306@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1886.818603515625,1572.4405517578125,10
+Machine A/Slides1_ROI_05,307@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2022.728515625,1574.4312744140625,10
+Machine A/Slides1_ROI_05,308@1,8.0,Macrophages,Macrophages,Myeloid,,machine_A,2445.181396484375,1573.7388916015625,6
+Machine A/Slides1_ROI_05,309@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1101.1475830078125,1571.6710205078125,3
+Machine A/Slides1_ROI_05,310@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,2232.9443359375,1574.0423583984375,1
+Machine A/Slides1_ROI_05,311@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2579.636474609375,1567.9083251953125,10
+Machine A/Slides1_ROI_05,312@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,2114.421630859375,1570.9161376953125,3
+Machine A/Slides1_ROI_05,313@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,2195.336669921875,1567.80712890625,1
+Machine A/Slides1_ROI_05,314@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,2336.212646484375,1564.6619873046875,9
+Machine A/Slides1_ROI_05,315@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,254.17193603515625,1565.41357421875,10
+Machine A/Slides1_ROI_05,316@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,2060.42822265625,1569.093017578125,3
+Machine A/Slides1_ROI_05,317@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,1720.1134033203125,1559.66455078125,6
+Machine A/Slides1_ROI_05,318@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1991.3416748046875,1561.6239013671875,10
+Machine A/Slides1_ROI_05,319@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,2156.844482421875,1559.2071533203125,1
+Machine A/Slides1_ROI_05,320@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2476.870849609375,1556.5128173828125,4
+Machine A/Slides1_ROI_05,321@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2755.176025390625,1555.9967041015625,4
+Machine A/Slides1_ROI_05,322@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,836.0650024414062,1554.1123046875,10
+Machine A/Slides1_ROI_05,323@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1151.5277099609375,1553.509521484375,3
+Machine A/Slides1_ROI_05,324@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1807.5506591796875,1554.537353515625,10
+Machine A/Slides1_ROI_05,325@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1933.0137939453125,1553.8995361328125,10
+Machine A/Slides1_ROI_05,326@1,20.0,NPM1_blasts,NPM1_blasts,Leukemia,(a) v2 Tumor: AML monocytic differentiated,machine_A,2275.035400390625,1551.5560302734375,10
+Machine A/Slides1_ROI_05,327@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2405.413818359375,1549.9542236328125,10
+Machine A/Slides1_ROI_05,328@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2526.36181640625,1550.783447265625,10
+Machine A/Slides1_ROI_05,329@1,20.0,NPM1_blasts,NPM1_blasts,Leukemia,(a) v2 Tumor: AML monocytic differentiated,machine_A,2792.614501953125,1551.2977294921875,10
+Machine A/Slides1_ROI_05,330@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1338.5478515625,1549.6517333984375,10
+Machine A/Slides1_ROI_05,331@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1856.39501953125,1544.356689453125,10
+Machine A/Slides1_ROI_05,332@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1283.45654296875,1547.318359375,3
+Machine A/Slides1_ROI_05,333@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,882.4800415039062,1538.5693359375,10
+Machine A/Slides1_ROI_05,334@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1216.864990234375,1538.7366943359375,3
+Machine A/Slides1_ROI_05,335@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1964.56787109375,1541.0447998046875,10
+Machine A/Slides1_ROI_05,336@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,2618.8759765625,1536.7135009765625,6
+Machine A/Slides1_ROI_05,337@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,273.3391418457031,1530.14892578125,4
+Machine A/Slides1_ROI_05,338@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,2699.45751953125,1526.26953125,6
+Machine A/Slides1_ROI_05,339@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2557.405517578125,1526.504638671875,4
+Machine A/Slides1_ROI_05,340@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2307.7001953125,1522.6622314453125,10
+Machine A/Slides1_ROI_05,341@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,2794.635498046875,1521.4322509765625,1
+Machine A/Slides1_ROI_05,342@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,2844.939453125,1525.9454345703125,1
+Machine A/Slides1_ROI_05,343@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1922.3115234375,1517.7579345703125,10
+Machine A/Slides1_ROI_05,344@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,2018.595458984375,1519.067138671875,1
+Machine A/Slides1_ROI_05,345@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1241.94140625,1513.1943359375,10
+Machine A/Slides1_ROI_05,346@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1350.799560546875,1512.5966796875,10
+Machine A/Slides1_ROI_05,347@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,2395.009765625,1511.4678955078125,3
+Machine A/Slides1_ROI_05,348@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1189.5711669921875,1504.7655029296875,3
+Machine A/Slides1_ROI_05,349@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1982.56689453125,1505.9327392578125,10
+Machine A/Slides1_ROI_05,350@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,2673.6806640625,1501.4642333984375,1
+Machine A/Slides1_ROI_05,351@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,338.7520751953125,1501.57177734375,10
+Machine A/Slides1_ROI_05,352@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,1552.8399658203125,1503.5,4
+Machine A/Slides1_ROI_05,353@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1847.434326171875,1501.591064453125,10
+Machine A/Slides1_ROI_05,354@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,1586.103515625,1496.6795654296875,4
+Machine A/Slides1_ROI_05,355@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,1684.1744384765625,1495.69921875,4
+Machine A/Slides1_ROI_05,356@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,2802.43505859375,1492.3209228515625,3
+Machine A/Slides1_ROI_05,357@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,1623.1966552734375,1489.7451171875,4
+Machine A/Slides1_ROI_05,358@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,1729.951171875,1492.6597900390625,6
+Machine A/Slides1_ROI_05,359@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2761.658447265625,1491.0411376953125,10
+Machine A/Slides1_ROI_05,360@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1371.5828857421875,1487.9576416015625,3
+Machine A/Slides1_ROI_05,361@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1890.1822509765625,1486.2984619140625,10
+Machine A/Slides1_ROI_05,362@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,2260.7236328125,1482.683837890625,6
+Machine A/Slides1_ROI_05,363@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2352.359619140625,1481.9764404296875,4
+Machine A/Slides1_ROI_05,364@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,7.0,1477.729736328125,4
+Machine A/Slides1_ROI_05,365@1,10.0,Erythroid,Erythroid,Erythroid,,machine_A,253.81918334960935,1475.41162109375,9
+Machine A/Slides1_ROI_05,366@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,215.29302978515625,1474.8134765625,10
+Machine A/Slides1_ROI_05,367@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,303.5036926269531,1471.8548583984375,10
+Machine A/Slides1_ROI_05,368@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,1953.59814453125,1469.1177978515625,6
+Machine A/Slides1_ROI_05,369@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1819.8890380859373,1464.9295654296875,10
+Machine A/Slides1_ROI_05,370@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1198.3077392578125,1463.0384521484375,3
+Machine A/Slides1_ROI_05,371@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1322.7105712890625,1458.9451904296875,10
+Machine A/Slides1_ROI_05,372@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,1916.7752685546875,1463.495361328125,6
+Machine A/Slides1_ROI_05,373@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1245.7176513671875,1455.783447265625,10
+Machine A/Slides1_ROI_05,374@1,8.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2301.704345703125,1458.688232421875,4
+Machine A/Slides1_ROI_05,375@1,8.0,Macrophages,Macrophages,Myeloid,,machine_A,2791.114990234375,1459.2418212890625,6
+Machine A/Slides1_ROI_05,376@1,8.0,Macrophages,Macrophages,Myeloid,,machine_A,2838.807861328125,1459.9720458984375,6
+Machine A/Slides1_ROI_05,377@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,70.86368560791016,1454.190185546875,4
+Machine A/Slides1_ROI_05,378@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,386.41452026367193,1449.1507568359375,4
+Machine A/Slides1_ROI_05,379@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1289.3406982421875,1449.52392578125,10
+Machine A/Slides1_ROI_05,380@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1862.4560546875,1450.0765380859375,10
+Machine A/Slides1_ROI_05,381@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,1647.7755126953125,1437.9658203125,4
+Machine A/Slides1_ROI_05,382@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,1697.252685546875,1448.608642578125,6
+Machine A/Slides1_ROI_05,383@1,8.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2537.074951171875,1446.6563720703125,4
+Machine A/Slides1_ROI_05,384@1,17.0,Macrophages,Macrophages,Myeloid,,machine_A,1790.7166748046875,1448.148193359375,6
+Machine A/Slides1_ROI_05,385@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2686.108642578125,1445.1185302734375,4
+Machine A/Slides1_ROI_05,386@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2753.809814453125,1445.863037109375,4
+Machine A/Slides1_ROI_05,387@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,131.33131408691406,1440.9107666015625,4
+Machine A/Slides1_ROI_05,388@1,17.0,Macrophages,Macrophages,Myeloid,,machine_A,1738.05078125,1441.7982177734375,6
+Machine A/Slides1_ROI_05,389@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,438.0391540527344,1436.25830078125,10
+Machine A/Slides1_ROI_05,390@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1585.3551025390625,1437.570068359375,10
+Machine A/Slides1_ROI_05,391@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,1895.5574951171875,1439.0299072265625,6
+Machine A/Slides1_ROI_05,392@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2485.354248046875,1427.6676025390625,4
+Machine A/Slides1_ROI_05,393@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,336.85321044921875,1431.1702880859375,4
+Machine A/Slides1_ROI_05,394@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2573.47607421875,1424.09765625,4
+Machine A/Slides1_ROI_05,395@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2861.775390625,1425.1964111328125,4
+Machine A/Slides1_ROI_05,396@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2618.826171875,1422.348388671875,4
+Machine A/Slides1_ROI_05,397@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1825.3741455078125,1420.061279296875,10
+Machine A/Slides1_ROI_05,398@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2336.9775390625,1420.3131103515625,4
+Machine A/Slides1_ROI_05,399@1,8.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,471.0288696289063,1418.4771728515625,4
+Machine A/Slides1_ROI_05,400@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1208.9974365234375,1419.22412109375,10
+Machine A/Slides1_ROI_05,401@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,1934.8809814453125,1416.122314453125,6
+Machine A/Slides1_ROI_05,402@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,2259.089599609375,1416.853759765625,6
+Machine A/Slides1_ROI_05,403@1,8.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,82.23819732666014,1411.3701171875,4
+Machine A/Slides1_ROI_05,404@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1253.0738525390625,1415.0738525390625,10
+Machine A/Slides1_ROI_05,405@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,34.11833572387695,1408.7548828125,4
+Machine A/Slides1_ROI_05,406@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,1694.094970703125,1410.6881103515625,1
+Machine A/Slides1_ROI_05,407@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1745.151123046875,1408.85107421875,10
+Machine A/Slides1_ROI_05,408@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2522.087890625,1409.982421875,4
+Machine A/Slides1_ROI_05,409@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2828.59130859375,1412.956787109375,4
+Machine A/Slides1_ROI_05,410@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1176.5386962890625,1409.9586181640625,10
+Machine A/Slides1_ROI_05,411@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,1871.652587890625,1403.337646484375,6
+Machine A/Slides1_ROI_05,412@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2445.341064453125,1445.5565185546875,4
+Machine A/Slides1_ROI_05,413@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,144.60891723632812,1406.0245361328125,9
+Machine A/Slides1_ROI_05,414@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2623.95849609375,1394.19482421875,4
+Machine A/Slides1_ROI_05,415@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,473.6085205078125,1387.507080078125,3
+Machine A/Slides1_ROI_05,416@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1310.661376953125,1402.862060546875,3
+Machine A/Slides1_ROI_05,417@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,2293.948486328125,1392.1771240234375,6
+Machine A/Slides1_ROI_05,418@1,10.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,1531.31298828125,1387.7169189453125,4
+Machine A/Slides1_ROI_05,419@1,8.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,339.4364318847656,1387.9183349609375,1
+Machine A/Slides1_ROI_05,420@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,387.8479309082031,1380.1707763671875,1
+Machine A/Slides1_ROI_05,421@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,429.7102355957031,1387.0673828125,6
+Machine A/Slides1_ROI_05,422@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1350.4393310546875,1382.212890625,3
+Machine A/Slides1_ROI_05,423@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1800.755859375,1377.423828125,10
+Machine A/Slides1_ROI_05,424@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1948.8128662109373,1382.46337890625,3
+Machine A/Slides1_ROI_05,425@1,8.0,Artifact,Artifact,Other,,machine_A,2737.39697265625,1383.6795654296875,17
+Machine A/Slides1_ROI_05,426@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1839.204345703125,1379.5601806640625,10
+Machine A/Slides1_ROI_05,427@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1754.7113037109375,1375.47509765625,10
+Machine A/Slides1_ROI_05,428@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2537.918701171875,1373.005126953125,4
+Machine A/Slides1_ROI_05,429@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,125.49288940429688,1370.9217529296875,1
+Machine A/Slides1_ROI_05,430@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1270.4010009765625,1374.2091064453125,10
+Machine A/Slides1_ROI_05,431@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1653.156005859375,1373.59912109375,10
+Machine A/Slides1_ROI_05,432@1,26.0,Megakaryocyte,Megakaryocyte,Megakaryocyte,,machine_A,1713.55712890625,1375.2210693359375,14
+Machine A/Slides1_ROI_05,433@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1085.6666259765625,1367.73779296875,3
+Machine A/Slides1_ROI_05,434@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,245.62193298339844,1362.870849609375,9
+Machine A/Slides1_ROI_05,435@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,898.0758056640625,1363.2305908203125,15
+Machine A/Slides1_ROI_05,436@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,46.05915451049805,1361.16064453125,6
+Machine A/Slides1_ROI_05,437@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,178.7354278564453,1358.3350830078125,1
+Machine A/Slides1_ROI_05,438@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,461.6854553222656,1358.493408203125,6
+Machine A/Slides1_ROI_05,439@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2622.949951171875,1358.1416015625,10
+Machine A/Slides1_ROI_05,440@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1485.328857421875,1350.341552734375,10
+Machine A/Slides1_ROI_05,441@1,17.0,Macrophages,Macrophages,Myeloid,,machine_A,1898.9986572265625,1350.6221923828125,6
+Machine A/Slides1_ROI_05,442@1,8.0,Macrophages,Macrophages,Myeloid,,machine_A,9.159601211547853,1349.08349609375,6
+Machine A/Slides1_ROI_05,443@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1362.774169921875,1349.4417724609375,10
+Machine A/Slides1_ROI_05,444@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,386.9632873535156,1346.7137451171875,6
+Machine A/Slides1_ROI_05,445@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2801.738037109375,1344.31787109375,4
+Machine A/Slides1_ROI_05,446@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,88.37799835205078,1343.845947265625,10
+Machine A/Slides1_ROI_05,447@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,1430.6810302734375,1341.844482421875,6
+Machine A/Slides1_ROI_05,448@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2572.370849609375,1342.881591796875,4
+Machine A/Slides1_ROI_05,449@1,22.0,NPM1_blasts,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Leukemic erythroid blast,machine_A,312.20556640625,1335.357421875,10
+Machine A/Slides1_ROI_05,450@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,1318.58984375,1342.0618896484375,1
+Machine A/Slides1_ROI_05,451@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1861.970703125,1340.638427734375,3
+Machine A/Slides1_ROI_05,452@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,344.60302734375,1336.5501708984375,1
+Machine A/Slides1_ROI_05,453@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1165.067138671875,1333.7535400390625,10
+Machine A/Slides1_ROI_05,454@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1548.4368896484375,1337.1617431640625,10
+Machine A/Slides1_ROI_05,455@1,23.0,MSC,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1667.6737060546875,1337.3740234375,10
+Machine A/Slides1_ROI_05,456@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1940.759765625,1337.2083740234375,10
+Machine A/Slides1_ROI_05,457@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2720.65576171875,1337.213623046875,4
+Machine A/Slides1_ROI_05,458@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,221.2987823486328,1334.45751953125,1
+Machine A/Slides1_ROI_05,459@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1971.867431640625,1334.2674560546875,10
+Machine A/Slides1_ROI_05,460@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,258.7848205566406,1332.588134765625,3
+Machine A/Slides1_ROI_05,461@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,1060.6607666015625,1332.30859375,9
+Machine A/Slides1_ROI_05,462@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2761.868896484375,1332.533935546875,4
+Machine A/Slides1_ROI_05,463@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,893.9703979492188,1327.37548828125,10
+Machine A/Slides1_ROI_05,464@1,9.0,MSC,MSC,Stromal,,machine_A,1831.1551513671875,1330.6873779296875,13
+Machine A/Slides1_ROI_05,465@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,59.20572280883789,1326.19677734375,9
+Machine A/Slides1_ROI_05,466@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,114.81683349609376,1327.9686279296875,1
+Machine A/Slides1_ROI_05,467@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1208.8070068359375,1324.7742919921875,10
+Machine A/Slides1_ROI_05,468@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1276.490478515625,1327.865478515625,10
+Machine A/Slides1_ROI_05,469@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,2919.734375,1325.4537353515625,1
+Machine A/Slides1_ROI_05,470@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,191.81455993652344,1318.411376953125,3
+Machine A/Slides1_ROI_05,471@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,454.34710693359375,1321.5198974609375,6
+Machine A/Slides1_ROI_05,472@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,844.501220703125,1319.0335693359375,10
+Machine A/Slides1_ROI_05,473@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1585.219482421875,1320.796875,10
+Machine A/Slides1_ROI_05,474@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1724.9449462890625,1316.909423828125,10
+Machine A/Slides1_ROI_05,475@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1454.219970703125,1316.77392578125,10
+Machine A/Slides1_ROI_05,476@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1770.547607421875,1312.299072265625,10
+Machine A/Slides1_ROI_05,477@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,2868.413330078125,1311.21337890625,1
+Machine A/Slides1_ROI_05,478@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1369.5421142578125,1311.9625244140625,10
+Machine A/Slides1_ROI_05,479@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,1684.53759765625,1308.7786865234375,4
+Machine A/Slides1_ROI_05,480@1,18.0,NPM1_blasts,NPM1_blasts,Leukemia,(a) v2 Tumor: Proliferating AML blast,machine_A,1299.54541015625,1307.8668212890625,10
+Machine A/Slides1_ROI_05,481@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,2821.990966796875,1308.827880859375,1
+Machine A/Slides1_ROI_05,482@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,2953.465087890625,1301.427734375,1
+Machine A/Slides1_ROI_05,483@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,142.7606658935547,1304.917236328125,6
+Machine A/Slides1_ROI_05,484@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,17.928468704223633,1298.243896484375,10
+Machine A/Slides1_ROI_05,485@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,413.9119262695313,1294.1842041015625,6
+Machine A/Slides1_ROI_05,486@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,784.3571166992188,1296.2144775390625,3
+Machine A/Slides1_ROI_05,487@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,1153.4537353515625,1294.2650146484375,1
+Machine A/Slides1_ROI_05,488@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,226.306396484375,1294.384765625,10
+Machine A/Slides1_ROI_05,489@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1961.8695068359373,1291.9112548828125,10
+Machine A/Slides1_ROI_05,490@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1061.208984375,1291.6595458984375,3
+Machine A/Slides1_ROI_05,491@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,333.31207275390625,1286.7503662109375,6
+Machine A/Slides1_ROI_05,492@1,9.0,Erythroid,Erythroid,Erythroid,,machine_A,2283.102783203125,1285.505126953125,9
+Machine A/Slides1_ROI_05,493@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,2997.37060546875,1285.6168212890625,1
+Machine A/Slides1_ROI_05,494@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,289.02911376953125,1283.9285888671875,10
+Machine A/Slides1_ROI_05,495@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,957.828125,1281.185546875,10
+Machine A/Slides1_ROI_05,496@1,8.0,Mast cells,Mast cells,Myeloid,,machine_A,1800.591796875,1284.6944580078125,7
+Machine A/Slides1_ROI_05,497@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,2834.09033203125,1278.8748779296875,1
+Machine A/Slides1_ROI_05,498@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,2878.049560546875,1280.8558349609375,1
+Machine A/Slides1_ROI_05,499@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,2919.35595703125,1280.0362548828125,1
+Machine A/Slides1_ROI_05,500@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2021.100830078125,1277.2186279296875,10
+Machine A/Slides1_ROI_05,501@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1189.7052001953125,1276.5859375,10
+Machine A/Slides1_ROI_05,502@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,2963.739990234375,1271.760009765625,1
+Machine A/Slides1_ROI_05,503@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1678.413330078125,1274.972900390625,3
+Machine A/Slides1_ROI_05,504@1,8.0,Macrophages,Macrophages,Myeloid,,machine_A,486.5374450683594,1266.88037109375,6
+Machine A/Slides1_ROI_05,505@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,183.19866943359372,1265.5675048828125,10
+Machine A/Slides1_ROI_05,506@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,64.42327880859375,1267.138427734375,10
+Machine A/Slides1_ROI_05,507@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,110.73900604248045,1262.5836181640625,6
+Machine A/Slides1_ROI_05,508@1,,Megakaryocyte,Megakaryocyte,Megakaryocyte,,machine_A,1235.48486328125,1265.54248046875,14
+Machine A/Slides1_ROI_05,509@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1323.5772705078125,1263.1463623046875,10
+Machine A/Slides1_ROI_05,510@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,3212.0,1264.034912109375,10
+Machine A/Slides1_ROI_05,511@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,439.5427551269531,1258.7618408203125,4
+Machine A/Slides1_ROI_05,512@1,8.0,Macrophages,Macrophages,Myeloid,,machine_A,1390.3758544921875,1258.3111572265625,6
+Machine A/Slides1_ROI_05,513@1,8.0,Macrophages,Macrophages,Myeloid,,machine_A,2890.43359375,1255.0419921875,6
+Machine A/Slides1_ROI_05,514@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,946.9902954101561,1250.0836181640625,1
+Machine A/Slides1_ROI_05,515@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1750.494873046875,1247.2181396484375,10
+Machine A/Slides1_ROI_05,516@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,1645.6204833984375,1239.4765625,1
+Machine A/Slides1_ROI_05,517@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1992.56396484375,1242.533447265625,3
+Machine A/Slides1_ROI_05,518@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,2039.65087890625,1240.816650390625,6
+Machine A/Slides1_ROI_05,519@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,2213.691162109375,1240.118408203125,1
+Machine A/Slides1_ROI_05,520@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,1778.094482421875,1239.04638671875,4
+Machine A/Slides1_ROI_05,521@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2806.471435546875,1238.5496826171875,10
+Machine A/Slides1_ROI_05,522@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2851.552001953125,1237.917724609375,4
+Machine A/Slides1_ROI_05,523@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,240.7803192138672,1233.36376953125,10
+Machine A/Slides1_ROI_05,524@1,23.0,MSC,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1704.5511474609375,1234.2265625,10
+Machine A/Slides1_ROI_05,525@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,3004.343994140625,1234.3226318359375,1
+Machine A/Slides1_ROI_05,526@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,105.44691467285156,1231.9144287109375,10
+Machine A/Slides1_ROI_05,527@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1936.623779296875,1232.572265625,10
+Machine A/Slides1_ROI_05,528@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2618.08935546875,1235.5018310546875,10
+Machine A/Slides1_ROI_05,529@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,1610.2034912109375,1231.1771240234375,4
+Machine A/Slides1_ROI_05,530@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,986.66162109375,1227.05712890625,0
+Machine A/Slides1_ROI_05,531@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,269.8788757324219,1221.88818359375,1
+Machine A/Slides1_ROI_05,532@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,692.8202514648438,1224.1087646484375,4
+Machine A/Slides1_ROI_05,533@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1102.8836669921875,1215.3255615234375,3
+Machine A/Slides1_ROI_05,534@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2596.9072265625,1216.2801513671875,10
+Machine A/Slides1_ROI_05,535@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,185.1490173339844,1213.061279296875,3
+Machine A/Slides1_ROI_05,536@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,326.073486328125,1213.9031982421875,1
+Machine A/Slides1_ROI_05,537@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,1827.4398193359373,1213.5892333984375,4
+Machine A/Slides1_ROI_05,538@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,138.46414184570312,1205.4207763671875,3
+Machine A/Slides1_ROI_05,539@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,382.8189086914063,1202.43701171875,4
+Machine A/Slides1_ROI_05,540@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,1724.30322265625,1196.6602783203125,4
+Machine A/Slides1_ROI_05,541@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2100.435791015625,1201.0213623046875,4
+Machine A/Slides1_ROI_05,542@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1285.0299072265625,1201.173095703125,3
+Machine A/Slides1_ROI_05,543@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2817.76953125,1198.12890625,10
+Machine A/Slides1_ROI_05,544@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,2975.81005859375,1196.8092041015625,3
+Machine A/Slides1_ROI_05,545@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,3034.077392578125,1195.4947509765625,0
+Machine A/Slides1_ROI_05,546@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2022.1300048828125,1189.2020263671875,4
+Machine A/Slides1_ROI_05,547@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1009.8571166992188,1185.6588134765625,10
+Machine A/Slides1_ROI_05,548@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,1656.43994140625,1183.6434326171875,4
+Machine A/Slides1_ROI_05,549@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2150.29150390625,1181.2711181640625,10
+Machine A/Slides1_ROI_05,550@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,200.81544494628903,1177.892333984375,10
+Machine A/Slides1_ROI_05,551@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,377.6152038574218,1177.813232421875,1
+Machine A/Slides1_ROI_05,552@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1223.4725341796875,1176.244873046875,10
+Machine A/Slides1_ROI_05,553@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,276.6048889160156,1171.3863525390625,1
+Machine A/Slides1_ROI_05,554@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2772.552978515625,1170.87451171875,10
+Machine A/Slides1_ROI_05,555@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,1254.6661376953125,1168.404296875,4
+Machine A/Slides1_ROI_05,556@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2603.45751953125,1169.187255859375,10
+Machine A/Slides1_ROI_05,557@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2650.666259765625,1168.8067626953125,4
+Machine A/Slides1_ROI_05,558@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1974.5438232421875,1166.234130859375,3
+Machine A/Slides1_ROI_05,559@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2825.523193359375,1157.2723388671875,10
+Machine A/Slides1_ROI_05,560@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,3047.6494140625,1159.5433349609375,4
+Machine A/Slides1_ROI_05,561@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,3285.728515625,1157.257568359375,1
+Machine A/Slides1_ROI_05,562@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,980.7156982421876,1155.834716796875,1
+Machine A/Slides1_ROI_05,563@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,1935.268798828125,1154.4764404296875,6
+Machine A/Slides1_ROI_05,564@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1313.1031494140625,1153.628173828125,10
+Machine A/Slides1_ROI_05,565@1,26.0,Megakaryocyte,Megakaryocyte,Megakaryocyte,,machine_A,3116.56201171875,1149.8804931640625,14
+Machine A/Slides1_ROI_05,566@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,3186.947998046875,1143.005615234375,4
+Machine A/Slides1_ROI_05,567@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,3227.4833984375,1147.8746337890625,4
+Machine A/Slides1_ROI_05,568@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,220.54107666015625,1147.3809814453125,9
+Machine A/Slides1_ROI_05,569@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,1117.946533203125,1146.487060546875,15
+Machine A/Slides1_ROI_05,570@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,1700.516357421875,1150.3084716796875,4
+Machine A/Slides1_ROI_05,571@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2076.322021484375,1145.9063720703125,4
+Machine A/Slides1_ROI_05,572@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2784.619140625,1140.501220703125,10
+Machine A/Slides1_ROI_05,573@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,2624.538818359375,1139.287841796875,1
+Machine A/Slides1_ROI_05,574@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1619.38232421875,1133.5120849609375,10
+Machine A/Slides1_ROI_05,575@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2590.73681640625,1128.5592041015625,10
+Machine A/Slides1_ROI_05,576@1,26.0,Megakaryocyte,Megakaryocyte,Megakaryocyte,,machine_A,3081.107421875,1133.80078125,14
+Machine A/Slides1_ROI_05,577@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,2254.280517578125,1130.4256591796875,3
+Machine A/Slides1_ROI_05,578@1,9.0,Erythroid,Erythroid,Erythroid,,machine_A,2726.852783203125,1125.4124755859375,9
+Machine A/Slides1_ROI_05,579@1,26.0,Megakaryocyte,Megakaryocyte,Megakaryocyte,,machine_A,3161.638916015625,1125.87109375,14
+Machine A/Slides1_ROI_05,580@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,3045.18603515625,1123.7823486328125,4
+Machine A/Slides1_ROI_05,581@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,3273.37255859375,1125.721923828125,1
+Machine A/Slides1_ROI_05,582@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,159.3232879638672,1120.773193359375,1
+Machine A/Slides1_ROI_05,583@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,270.5828552246094,1123.0303955078125,10
+Machine A/Slides1_ROI_05,584@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,1780.5081787109375,1120.226806640625,4
+Machine A/Slides1_ROI_05,585@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,2152.298095703125,1119.4097900390625,3
+Machine A/Slides1_ROI_05,586@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,2660.82470703125,1119.4737548828125,9
+Machine A/Slides1_ROI_05,587@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,308.8798217773437,1117.193115234375,3
+Machine A/Slides1_ROI_05,588@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,3228.147216796875,1117.25537109375,4
+Machine A/Slides1_ROI_05,589@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2824.63720703125,1117.7711181640625,10
+Machine A/Slides1_ROI_05,590@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,1925.5245361328125,1108.3162841796875,6
+Machine A/Slides1_ROI_05,591@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2627.592529296875,1101.552734375,4
+Machine A/Slides1_ROI_05,592@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,2766.16650390625,1101.662841796875,9
+Machine A/Slides1_ROI_05,593@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1299.79931640625,1098.4423828125,10
+Machine A/Slides1_ROI_05,594@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,1961.3641357421875,1097.7998046875,9
+Machine A/Slides1_ROI_05,595@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,3067.00537109375,1097.0526123046875,1
+Machine A/Slides1_ROI_05,596@1,8.0,MSC,MSC,Stromal,,machine_A,3160.69677734375,1093.37548828125,13
+Machine A/Slides1_ROI_05,597@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,3285.7216796875,1090.2025146484375,4
+Machine A/Slides1_ROI_05,598@1,16.0,Erythroid,Erythroid,Erythroid,,machine_A,1998.0982666015625,1085.9964599609375,9
+Machine A/Slides1_ROI_05,599@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2184.419921875,1084.23974609375,10
+Machine A/Slides1_ROI_05,600@1,8.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,3192.15771484375,1087.56103515625,0
+Machine A/Slides1_ROI_05,601@1,8.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,3228.302734375,1082.6029052734375,1
+Machine A/Slides1_ROI_05,602@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,2075.568603515625,1075.846435546875,9
+Machine A/Slides1_ROI_05,603@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2587.65087890625,1079.626708984375,10
+Machine A/Slides1_ROI_05,604@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,2720.672607421875,1078.700927734375,1
+Machine A/Slides1_ROI_05,605@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,223.64126586914065,1077.31982421875,1
+Machine A/Slides1_ROI_05,606@1,8.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,1772.986328125,1077.800537109375,1
+Machine A/Slides1_ROI_05,607@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,2227.177490234375,1074.911865234375,3
+Machine A/Slides1_ROI_05,608@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2970.713623046875,1076.919189453125,4
+Machine A/Slides1_ROI_05,609@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,2817.687744140625,1073.527587890625,6
+Machine A/Slides1_ROI_05,610@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,2681.510009765625,1069.768798828125,9
+Machine A/Slides1_ROI_05,611@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1251.753173828125,1067.689208984375,10
+Machine A/Slides1_ROI_05,612@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,2132.83837890625,1062.1385498046875,1
+Machine A/Slides1_ROI_05,613@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,3035.868408203125,1066.0045166015625,10
+Machine A/Slides1_ROI_05,614@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,3078.383056640625,1061.61328125,0
+Machine A/Slides1_ROI_05,615@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,3263.379150390625,1061.896240234375,4
+Machine A/Slides1_ROI_05,616@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,1873.5982666015625,1058.6815185546875,6
+Machine A/Slides1_ROI_05,617@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,2323.351318359375,1053.463623046875,9
+Machine A/Slides1_ROI_05,618@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,2619.204833984375,1055.748046875,9
+Machine A/Slides1_ROI_05,619@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,159.88404846191406,1055.78369140625,10
+Machine A/Slides1_ROI_05,620@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,1838.120361328125,1053.0250244140625,4
+Machine A/Slides1_ROI_05,621@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1966.30126953125,1055.065185546875,3
+Machine A/Slides1_ROI_05,622@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,224.4929962158203,1047.9906005859375,1
+Machine A/Slides1_ROI_05,623@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,2766.732421875,1048.1448974609375,1
+Machine A/Slides1_ROI_05,624@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,2853.422607421875,1055.9185791015625,6
+Machine A/Slides1_ROI_05,625@1,9.0,MSC,MSC,Stromal,,machine_A,3184.438720703125,1044.6500244140625,13
+Machine A/Slides1_ROI_05,626@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,3217.796630859375,1045.746826171875,4
+Machine A/Slides1_ROI_05,627@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2997.1923828125,1039.9581298828125,4
+Machine A/Slides1_ROI_05,628@1,16.0,Erythroid,Erythroid,Erythroid,,machine_A,2204.191650390625,1034.477294921875,9
+Machine A/Slides1_ROI_05,629@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,2793.302001953125,1031.080322265625,6
+Machine A/Slides1_ROI_05,630@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,3284.96533203125,1034.092529296875,4
+Machine A/Slides1_ROI_05,631@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2106.15966796875,1027.521240234375,10
+Machine A/Slides1_ROI_05,632@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,3096.224853515625,1027.9984130859375,1
+Machine A/Slides1_ROI_05,633@1,9.0,Erythroid,Erythroid,Erythroid,,machine_A,2029.23046875,1020.8424682617188,9
+Machine A/Slides1_ROI_05,634@1,8.0,MSC,MSC,Stromal,,machine_A,3153.116943359375,1023.6832885742188,13
+Machine A/Slides1_ROI_05,635@1,8.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,1245.249267578125,1025.22265625,0
+Machine A/Slides1_ROI_05,636@1,8.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,3050.087158203125,1023.5348510742188,0
+Machine A/Slides1_ROI_05,637@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,3252.929931640625,1020.7391967773436,4
+Machine A/Slides1_ROI_05,638@1,8.0,Macrophages,Macrophages,Myeloid,,machine_A,2878.68798828125,1020.4210815429688,6
+Machine A/Slides1_ROI_05,639@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1979.751220703125,1015.779052734375,10
+Machine A/Slides1_ROI_05,640@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1322.7176513671875,1012.082763671875,3
+Machine A/Slides1_ROI_05,641@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,1895.663330078125,1008.5218505859376,4
+Machine A/Slides1_ROI_05,642@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,1181.626953125,1011.7868041992188,1
+Machine A/Slides1_ROI_05,643@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2060.77734375,1004.4037475585936,4
+Machine A/Slides1_ROI_05,644@1,8.0,Macrophages,Macrophages,Myeloid,,machine_A,2822.68212890625,1001.494873046875,6
+Machine A/Slides1_ROI_05,645@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1047.0357666015625,1002.081298828125,10
+Machine A/Slides1_ROI_05,646@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1938.8486328125,998.6947021484376,10
+Machine A/Slides1_ROI_05,647@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,2983.858642578125,998.5527954101561,15
+Machine A/Slides1_ROI_05,648@1,8.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,3122.78271484375,998.5,4
+Machine A/Slides1_ROI_05,649@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,2533.147705078125,997.0555419921876,1
+Machine A/Slides1_ROI_05,650@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,2638.187255859375,995.9579467773436,9
+Machine A/Slides1_ROI_05,651@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1279.6778564453125,995.0328979492189,10
+Machine A/Slides1_ROI_05,652@1,16.0,Erythroid,Erythroid,Erythroid,,machine_A,2577.72705078125,995.3084106445312,9
+Machine A/Slides1_ROI_05,653@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2026.1680908203125,990.278076171875,4
+Machine A/Slides1_ROI_05,654@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,1115.2354736328125,984.372802734375,1
+Machine A/Slides1_ROI_05,655@1,26.0,Megakaryocyte,Megakaryocyte,Megakaryocyte,,machine_A,1143.1075439453125,988.2943115234376,14
+Machine A/Slides1_ROI_05,656@1,8.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,3027.846435546875,988.1919555664062,4
+Machine A/Slides1_ROI_05,657@1,23.0,MSC,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,3234.469970703125,987.19091796875,10
+Machine A/Slides1_ROI_05,658@1,9.0,Erythroid,Erythroid,Erythroid,,machine_A,977.9854125976561,983.2572631835936,9
+Machine A/Slides1_ROI_05,659@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,1236.6771240234375,985.0369873046876,1
+Machine A/Slides1_ROI_05,660@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,2722.7099609375,980.0897827148435,0
+Machine A/Slides1_ROI_05,661@1,5.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,2780.433837890625,984.0033569335936,2
+Machine A/Slides1_ROI_05,662@1,9.0,MSC,MSC,Stromal,,machine_A,3288.709716796875,974.1910400390624,13
+Machine A/Slides1_ROI_05,663@1,9.0,MSC,MSC,Stromal,,machine_A,2097.169921875,974.7149658203124,13
+Machine A/Slides1_ROI_05,664@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,3208.817626953125,971.1864624023436,4
+Machine A/Slides1_ROI_05,665@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,738.7139892578125,968.56005859375,4
+Machine A/Slides1_ROI_05,666@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,1079.4210205078125,970.1270141601561,1
+Machine A/Slides1_ROI_05,667@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2557.368408203125,968.5723876953124,10
+Machine A/Slides1_ROI_05,668@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,3092.025390625,967.0802001953124,4
+Machine A/Slides1_ROI_05,669@1,8.0,MSC,MSC,Stromal,,machine_A,3175.386962890625,970.0097045898435,13
+Machine A/Slides1_ROI_05,670@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,780.0726928710938,960.4107666015624,4
+Machine A/Slides1_ROI_05,671@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,1327.0902099609375,968.117919921875,4
+Machine A/Slides1_ROI_05,672@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,701.2402954101562,960.8672485351561,4
+Machine A/Slides1_ROI_05,673@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,832.0187377929686,961.243408203125,4
+Machine A/Slides1_ROI_05,674@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,2015.4251708984373,962.1275634765624,9
+Machine A/Slides1_ROI_05,675@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,2127.985595703125,964.6907348632812,6
+Machine A/Slides1_ROI_05,676@1,8.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,3147.40283203125,965.9877319335936,4
+Machine A/Slides1_ROI_05,677@1,9.0,MSC,MSC,Stromal,,machine_A,3241.83935546875,958.9142456054688,13
+Machine A/Slides1_ROI_05,678@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,914.7991943359376,953.4396362304688,10
+Machine A/Slides1_ROI_05,679@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2669.703857421875,957.7697143554688,10
+Machine A/Slides1_ROI_05,680@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1104.430419921875,953.6327514648435,3
+Machine A/Slides1_ROI_05,681@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,1941.888916015625,955.51708984375,4
+Machine A/Slides1_ROI_05,682@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,1987.6815185546875,951.0900268554688,9
+Machine A/Slides1_ROI_05,683@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,1238.5643310546875,945.4779052734376,4
+Machine A/Slides1_ROI_05,684@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,870.664794921875,934.1166381835936,3
+Machine A/Slides1_ROI_05,685@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2034.008544921875,939.8731689453124,4
+Machine A/Slides1_ROI_05,686@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,980.6339721679688,937.6353149414062,10
+Machine A/Slides1_ROI_05,687@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,2105.384765625,938.3731079101561,3
+Machine A/Slides1_ROI_05,688@1,5.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,2713.28369140625,938.5596923828124,2
+Machine A/Slides1_ROI_05,689@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1375.238037109375,931.6680908203124,10
+Machine A/Slides1_ROI_05,690@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,3267.73388671875,935.364013671875,10
+Machine A/Slides1_ROI_05,691@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,161.81927490234375,928.0841064453124,1
+Machine A/Slides1_ROI_05,692@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,653.2240600585938,930.7027587890624,10
+Machine A/Slides1_ROI_05,693@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,1070.7681884765625,930.5751953125,0
+Machine A/Slides1_ROI_05,694@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,2855.703857421875,924.4000244140624,9
+Machine A/Slides1_ROI_05,695@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,3228.969970703125,927.524169921875,4
+Machine A/Slides1_ROI_05,696@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,743.1182861328125,920.1149291992189,10
+Machine A/Slides1_ROI_05,697@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,1435.284423828125,919.500732421875,4
+Machine A/Slides1_ROI_05,698@1,6.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,2770.214111328125,917.3193359375,2
+Machine A/Slides1_ROI_05,699@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,1208.18896484375,913.2347412109376,4
+Machine A/Slides1_ROI_05,700@1,23.0,MSC,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2069.0654296875,913.7635498046876,10
+Machine A/Slides1_ROI_05,701@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,2815.071044921875,914.1447143554688,1
+Machine A/Slides1_ROI_05,702@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,925.0078735351561,909.6162719726561,3
+Machine A/Slides1_ROI_05,703@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,2658.583740234375,907.8394775390624,9
+Machine A/Slides1_ROI_05,704@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,1013.5919799804688,908.1253051757811,9
+Machine A/Slides1_ROI_05,705@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,1149.88720703125,901.1607055664062,4
+Machine A/Slides1_ROI_05,706@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,889.1346435546875,902.8626098632812,4
+Machine A/Slides1_ROI_05,707@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1098.23095703125,898.8197021484375,10
+Machine A/Slides1_ROI_05,708@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,523.6575317382812,893.4039306640625,4
+Machine A/Slides1_ROI_05,709@1,10.0,Macrophages,Macrophages,Myeloid,,machine_A,694.6410522460938,888.8515625,6
+Machine A/Slides1_ROI_05,710@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2024.748779296875,888.7079467773436,10
+Machine A/Slides1_ROI_05,711@1,14.0,HLA-DR-hi APC (CD1c+),Immature myeloid CD11c+,Myeloid,,machine_A,570.476318359375,883.7533569335938,5
+Machine A/Slides1_ROI_05,712@1,26.0,Megakaryocyte,Megakaryocyte,Megakaryocyte,,machine_A,646.1102294921875,879.7362060546875,14
+Machine A/Slides1_ROI_05,713@1,,CD4+ T,CD4+ T,Lymphoid,,machine_A,975.6648559570312,879.562744140625,0
+Machine A/Slides1_ROI_05,714@1,5.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,2710.326416015625,875.9148559570312,2
+Machine A/Slides1_ROI_05,715@1,8.0,NPM1_blasts,NPM1_blasts,Leukemia,,machine_A,1180.049072265625,878.1802368164062,10
+Machine A/Slides1_ROI_05,716@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,3065.699951171875,876.1885986328125,1
+Machine A/Slides1_ROI_05,717@1,8.0,Erythroid,Erythroid,Erythroid,,machine_A,1226.9610595703125,869.7249145507811,9
+Machine A/Slides1_ROI_05,718@1,5.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,2759.211181640625,870.4910278320312,2
+Machine A/Slides1_ROI_05,719@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,931.584228515625,869.425048828125,7
+Machine A/Slides1_ROI_05,720@1,15.0,Mast cells,Mast cells,Myeloid,,machine_A,817.301025390625,863.8582763671875,7
+Machine A/Slides1_ROI_05,721@1,26.0,Megakaryocyte,Megakaryocyte,Megakaryocyte,,machine_A,1010.9794921875,860.8167724609375,14
+Machine A/Slides1_ROI_05,722@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1129.3365478515625,859.8114624023436,10
+Machine A/Slides1_ROI_05,723@1,23.0,MSC,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2077.9345703125,860.6058959960938,10
+Machine A/Slides1_ROI_05,724@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,2024.3575439453125,850.3496704101561,9
+Machine A/Slides1_ROI_05,725@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,664.2576904296875,845.1414184570312,3
+Machine A/Slides1_ROI_05,726@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,1972.86181640625,844.8801879882812,9
+Machine A/Slides1_ROI_05,727@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,944.3339233398435,844.3425903320312,0
+Machine A/Slides1_ROI_05,728@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1083.8594970703125,839.1876831054686,10
+Machine A/Slides1_ROI_05,729@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,3092.112548828125,836.6043090820312,3
+Machine A/Slides1_ROI_05,730@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,526.5264282226562,833.2391967773436,4
+Machine A/Slides1_ROI_05,731@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,2687.114013671875,829.5107421875,1
+Machine A/Slides1_ROI_05,732@1,10.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,736.0593872070312,824.9981689453125,4
+Machine A/Slides1_ROI_05,733@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2050.525390625,826.6734008789062,10
+Machine A/Slides1_ROI_05,734@1,26.0,Megakaryocyte,Megakaryocyte,Megakaryocyte,,machine_A,590.2332153320312,825.4169311523436,14
+Machine A/Slides1_ROI_05,735@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,483.99517822265625,819.6435546875,10
+Machine A/Slides1_ROI_05,736@1,16.0,Erythroid,Erythroid,Erythroid,,machine_A,628.8755493164064,816.4830932617188,9
+Machine A/Slides1_ROI_05,737@1,9.0,MSC,MSC,Stromal,,machine_A,983.4190063476561,813.1196899414062,13
+Machine A/Slides1_ROI_05,738@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,1040.0394287109375,811.9370727539062,4
+Machine A/Slides1_ROI_05,739@1,23.0,MSC,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2087.16162109375,811.1181640625,10
+Machine A/Slides1_ROI_05,740@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,668.90576171875,807.3961791992188,4
+Machine A/Slides1_ROI_05,741@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2923.714111328125,799.99072265625,10
+Machine A/Slides1_ROI_05,742@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,752.6384887695312,800.0380249023436,3
+Machine A/Slides1_ROI_05,743@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,936.8637084960936,797.7134399414062,10
+Machine A/Slides1_ROI_05,744@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1888.0604248046875,794.031494140625,10
+Machine A/Slides1_ROI_05,745@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1922.26513671875,791.435791015625,10
+Machine A/Slides1_ROI_05,746@1,16.0,MSC,MSC,Stromal,,machine_A,2116.7646484375,792.8658447265625,13
+Machine A/Slides1_ROI_05,747@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,595.4218139648438,792.4937744140625,1
+Machine A/Slides1_ROI_05,748@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2060.40771484375,791.0481567382812,10
+Machine A/Slides1_ROI_05,749@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2889.22998046875,790.0559692382812,10
+Machine A/Slides1_ROI_05,750@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,519.2088623046875,784.5496215820312,10
+Machine A/Slides1_ROI_05,751@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,561.3152465820312,781.0880126953125,3
+Machine A/Slides1_ROI_05,752@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,462.1343383789063,778.4913330078125,10
+Machine A/Slides1_ROI_05,753@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,1981.4334716796875,772.6541137695312,1
+Machine A/Slides1_ROI_05,754@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,975.2964477539062,766.1058959960938,10
+Machine A/Slides1_ROI_05,755@1,16.0,Erythroid,Erythroid,Erythroid,,machine_A,1947.2574462890625,763.9691162109375,9
+Machine A/Slides1_ROI_05,756@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,1462.6873779296875,763.2088012695312,1
+Machine A/Slides1_ROI_05,757@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,2062.191162109375,758.2217407226561,6
+Machine A/Slides1_ROI_05,758@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,392.9757690429688,755.1339721679686,10
+Machine A/Slides1_ROI_05,759@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,695.6360473632812,754.0274658203125,10
+Machine A/Slides1_ROI_05,760@1,8.0,Artifact,Artifact,Other,,machine_A,761.928466796875,747.9971313476561,17
+Machine A/Slides1_ROI_05,761@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,1025.2337646484375,743.9306030273436,4
+Machine A/Slides1_ROI_05,762@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1895.5125732421875,743.8841552734375,10
+Machine A/Slides1_ROI_05,763@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2182.525146484375,740.0222778320312,10
+Machine A/Slides1_ROI_05,764@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,564.6028442382812,739.0949096679686,9
+Machine A/Slides1_ROI_05,765@1,6.0,Artifact,Artifact,Other,,machine_A,452.4424743652344,732.4097290039062,17
+Machine A/Slides1_ROI_05,766@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,2036.8824462890625,730.206298828125,1
+Machine A/Slides1_ROI_05,767@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,283.0,728.3217163085938,3
+Machine A/Slides1_ROI_05,768@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,1946.9456787109373,726.6282958984375,4
+Machine A/Slides1_ROI_05,769@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,340.451904296875,723.4234008789062,15
+Machine A/Slides1_ROI_05,770@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,2657.0927734375,721.7939453125,1
+Machine A/Slides1_ROI_05,771@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,1479.523681640625,715.2539672851562,9
+Machine A/Slides1_ROI_05,772@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1842.603759765625,715.5759887695312,10
+Machine A/Slides1_ROI_05,773@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,2083.871337890625,716.7031860351562,12
+Machine A/Slides1_ROI_05,774@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,522.228759765625,710.3125,3
+Machine A/Slides1_ROI_05,775@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,419.74169921875,707.6845092773438,3
+Machine A/Slides1_ROI_05,776@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,810.9862060546875,705.3455200195312,4
+Machine A/Slides1_ROI_05,777@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,760.6239013671875,703.14111328125,9
+Machine A/Slides1_ROI_05,778@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,1654.7115478515625,704.0093383789064,1
+Machine A/Slides1_ROI_05,779@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,2149.906982421875,702.11181640625,9
+Machine A/Slides1_ROI_05,780@1,10.0,Erythroid,Erythroid,Erythroid,,machine_A,387.4185485839844,698.531982421875,9
+Machine A/Slides1_ROI_05,781@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,693.298583984375,700.5449829101562,10
+Machine A/Slides1_ROI_05,782@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,2000.660888671875,701.3642578125,9
+Machine A/Slides1_ROI_05,783@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,613.4995727539064,692.87841796875,9
+Machine A/Slides1_ROI_05,784@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1747.3333740234375,694.4871826171875,10
+Machine A/Slides1_ROI_05,785@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,2666.640380859375,696.3744506835938,0
+Machine A/Slides1_ROI_05,786@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,538.4745483398438,689.2385864257812,3
+Machine A/Slides1_ROI_05,787@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,1808.162109375,694.4581298828125,9
+Machine A/Slides1_ROI_05,788@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1879.209716796875,691.6097412109375,10
+Machine A/Slides1_ROI_05,789@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,1023.1466674804688,687.7352294921875,4
+Machine A/Slides1_ROI_05,790@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,1916.4971923828125,686.3348999023438,9
+Machine A/Slides1_ROI_05,791@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,467.1553649902344,676.4910888671875,4
+Machine A/Slides1_ROI_05,792@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,505.5535583496094,675.960693359375,4
+Machine A/Slides1_ROI_05,793@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,578.2352294921875,672.1320190429688,12
+Machine A/Slides1_ROI_05,794@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,1502.7532958984375,673.9036254882812,9
+Machine A/Slides1_ROI_05,795@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,2721.945068359375,667.208251953125,9
+Machine A/Slides1_ROI_05,796@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,1786.4769287109375,667.4279174804688,6
+Machine A/Slides1_ROI_05,797@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,2683.7578125,665.570068359375,0
+Machine A/Slides1_ROI_05,798@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,2170.974365234375,660.4225463867188,3
+Machine A/Slides1_ROI_05,799@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,2055.1396484375,651.2205200195312,0
+Machine A/Slides1_ROI_05,800@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,1972.0506591796875,649.3175659179688,4
+Machine A/Slides1_ROI_05,801@1,16.0,Erythroid,Erythroid,Erythroid,,machine_A,2111.431884765625,646.3958740234375,9
+Machine A/Slides1_ROI_05,802@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1538.85791015625,643.4754638671875,10
+Machine A/Slides1_ROI_05,803@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1018.6734619140624,643.4314575195312,10
+Machine A/Slides1_ROI_05,804@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,407.9342041015625,639.6818237304688,4
+Machine A/Slides1_ROI_05,805@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1581.908935546875,639.0733032226562,10
+Machine A/Slides1_ROI_05,806@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,1869.376953125,638.2036743164064,6
+Machine A/Slides1_ROI_05,807@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1929.833740234375,635.4030151367188,10
+Machine A/Slides1_ROI_05,808@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1618.895751953125,635.3840942382812,10
+Machine A/Slides1_ROI_05,809@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1677.7061767578125,634.3952026367188,10
+Machine A/Slides1_ROI_05,810@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,2008.9219970703125,632.6417846679688,9
+Machine A/Slides1_ROI_05,811@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,2614.321044921875,635.873046875,3
+Machine A/Slides1_ROI_05,812@1,16.0,Erythroid,Erythroid,Erythroid,,machine_A,1465.3475341796875,627.218017578125,9
+Machine A/Slides1_ROI_05,813@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,619.9386596679688,626.2880859375,12
+Machine A/Slides1_ROI_05,814@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,970.2974243164062,626.5823364257812,10
+Machine A/Slides1_ROI_05,815@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,2039.43212890625,625.1046752929688,0
+Machine A/Slides1_ROI_05,816@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,2070.678466796875,626.178466796875,3
+Machine A/Slides1_ROI_05,817@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,2155.6796875,626.8850708007812,1
+Machine A/Slides1_ROI_05,818@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1511.5318603515625,619.9213256835938,3
+Machine A/Slides1_ROI_05,819@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,445.9319152832031,605.1102294921875,4
+Machine A/Slides1_ROI_05,820@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,1581.0399169921875,605.6036376953125,9
+Machine A/Slides1_ROI_05,821@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1709.785400390625,607.0641479492188,3
+Machine A/Slides1_ROI_05,822@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,2201.8447265625,601.4723510742188,0
+Machine A/Slides1_ROI_05,823@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1429.8060302734375,595.6131591796875,10
+Machine A/Slides1_ROI_05,824@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2535.9736328125,599.9683227539064,10
+Machine A/Slides1_ROI_05,825@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,1671.62060546875,596.996337890625,9
+Machine A/Slides1_ROI_05,826@1,16.0,Erythroid,Erythroid,Erythroid,,machine_A,1531.3902587890625,589.9734497070312,9
+Machine A/Slides1_ROI_05,827@1,16.0,Erythroid,Erythroid,Erythroid,,machine_A,1480.6749267578125,589.223388671875,9
+Machine A/Slides1_ROI_05,828@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1985.5638427734373,586.1390991210938,10
+Machine A/Slides1_ROI_05,829@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,2154.386474609375,581.9425659179688,12
+Machine A/Slides1_ROI_05,830@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,2058.223388671875,582.4367065429688,0
+Machine A/Slides1_ROI_05,831@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,1608.9427490234375,574.46337890625,9
+Machine A/Slides1_ROI_05,832@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,12.77739143371582,574.4817504882812,1
+Machine A/Slides1_ROI_05,833@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,67.52449798583984,573.1943359375,4
+Machine A/Slides1_ROI_05,834@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,1449.853759765625,570.3596801757812,9
+Machine A/Slides1_ROI_05,835@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,969.0039672851561,568.1617431640625,10
+Machine A/Slides1_ROI_05,836@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,1383.8831787109375,561.1585083007812,9
+Machine A/Slides1_ROI_05,837@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,1647.2652587890625,560.1386108398438,9
+Machine A/Slides1_ROI_05,838@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,2028.72900390625,560.989013671875,9
+Machine A/Slides1_ROI_05,839@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,2140.45068359375,556.8306884765625,3
+Machine A/Slides1_ROI_05,840@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2213.191162109375,551.3653564453125,4
+Machine A/Slides1_ROI_05,841@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,1002.0150756835936,546.6682739257812,9
+Machine A/Slides1_ROI_05,842@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1051.6856689453125,548.3822631835938,10
+Machine A/Slides1_ROI_05,843@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,1561.0166015625,544.3505249023438,9
+Machine A/Slides1_ROI_05,844@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,1473.7764892578125,538.0611572265625,6
+Machine A/Slides1_ROI_05,845@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,1437.2802734375,540.8846435546875,1
+Machine A/Slides1_ROI_05,846@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,1364.2147216796875,534.4097900390625,1
+Machine A/Slides1_ROI_05,847@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,978.7698364257811,533.298095703125,10
+Machine A/Slides1_ROI_05,848@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,2182.570556640625,529.8363647460938,3
+Machine A/Slides1_ROI_05,849@1,,Unassigned/Other,NPM1_blasts,Leukemia,(c) Unassigned/Artifact NPM1_mut+,machine_A,2684.21240234375,524.3388061523438,10
+Machine A/Slides1_ROI_05,850@1,16.0,Erythroid,Erythroid,Erythroid,,machine_A,1661.370849609375,522.3485107421875,9
+Machine A/Slides1_ROI_05,851@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,1600.6820068359375,509.6640319824218,9
+Machine A/Slides1_ROI_05,852@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,1005.327392578125,498.0257263183594,9
+Machine A/Slides1_ROI_05,853@1,8.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2270.037841796875,498.56686401367193,4
+Machine A/Slides1_ROI_05,854@1,20.0,NPM1_blasts,NPM1_blasts,Leukemia,(a) v2 Tumor: AML monocytic differentiated,machine_A,1072.4364013671875,491.6354675292969,10
+Machine A/Slides1_ROI_05,855@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,1362.85888671875,493.35208129882807,4
+Machine A/Slides1_ROI_05,856@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,1549.181396484375,471.83248901367193,9
+Machine A/Slides1_ROI_05,857@1,12.0,Erythroid,Erythroid,Erythroid,,machine_A,1573.9052734375,473.9261779785156,9
+Machine A/Slides1_ROI_05,858@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1120.55126953125,474.0397033691406,10
+Machine A/Slides1_ROI_05,859@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1298.7005615234375,463.508544921875,3
+Machine A/Slides1_ROI_05,860@1,15.0,Mast cells,Mast cells,Myeloid,,machine_A,1612.7369384765625,473.72760009765625,7
+Machine A/Slides1_ROI_05,861@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,709.0863647460938,470.85494995117193,1
+Machine A/Slides1_ROI_05,862@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,1263.6146240234375,467.4706726074218,1
+Machine A/Slides1_ROI_05,863@1,26.0,Megakaryocyte,Megakaryocyte,Megakaryocyte,,machine_A,1511.2445068359375,468.64566040039057,14
+Machine A/Slides1_ROI_05,864@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2468.196044921875,458.5296630859375,10
+Machine A/Slides1_ROI_05,865@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2288.735107421875,456.8053588867188,10
+Machine A/Slides1_ROI_05,866@1,8.0,Macrophages,Macrophages,Myeloid,,machine_A,2329.10498046875,450.2542419433594,6
+Machine A/Slides1_ROI_05,867@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2372.1640625,445.36077880859375,4
+Machine A/Slides1_ROI_05,868@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1032.2967529296875,446.00534057617193,10
+Machine A/Slides1_ROI_05,869@1,15.0,Mast cells,Mast cells,Myeloid,,machine_A,1688.0831298828125,444.6183776855469,7
+Machine A/Slides1_ROI_05,870@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2501.35595703125,444.7429504394531,4
+Machine A/Slides1_ROI_05,871@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1546.37353515625,441.54302978515625,3
+Machine A/Slides1_ROI_05,872@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,987.7183227539062,437.8791809082031,9
+Machine A/Slides1_ROI_05,873@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,724.6829223632812,432.30422973632807,1
+Machine A/Slides1_ROI_05,874@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,1392.100830078125,431.0311279296875,9
+Machine A/Slides1_ROI_05,875@1,15.0,Mast cells,Mast cells,Myeloid,,machine_A,1583.634033203125,432.5730590820313,7
+Machine A/Slides1_ROI_05,876@1,15.0,Mast cells,Mast cells,Myeloid,,machine_A,1647.5152587890625,432.13623046875,7
+Machine A/Slides1_ROI_05,877@1,16.0,Erythroid,Erythroid,Erythroid,,machine_A,1348.369384765625,424.23538208007807,9
+Machine A/Slides1_ROI_05,878@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,61.00298690795898,426.8567199707031,10
+Machine A/Slides1_ROI_05,879@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,96.17369079589844,420.9957885742188,10
+Machine A/Slides1_ROI_05,880@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1553.4921875,413.3550415039063,3
+Machine A/Slides1_ROI_05,881@1,20.0,MSC,NPM1_blasts,Leukemia,(a) v2 Tumor: AML monocytic differentiated,machine_A,2343.193359375,410.7448425292969,10
+Machine A/Slides1_ROI_05,882@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2409.547607421875,406.1306762695313,10
+Machine A/Slides1_ROI_05,883@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,1473.3267822265625,403.6377868652344,6
+Machine A/Slides1_ROI_05,884@1,15.0,Mast cells,Mast cells,Myeloid,,machine_A,1684.681640625,407.1803894042969,7
+Machine A/Slides1_ROI_05,885@1,27.0,Erythroid,Erythroid,Erythroid,,machine_A,903.7140502929688,398.4063415527344,9
+Machine A/Slides1_ROI_05,886@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1001.8390502929688,394.5650634765625,10
+Machine A/Slides1_ROI_05,887@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1516.9254150390625,401.17526245117193,3
+Machine A/Slides1_ROI_05,888@1,8.0,Erythroid,Erythroid,Erythroid,,machine_A,2311.749755859375,392.62448120117193,9
+Machine A/Slides1_ROI_05,889@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1591.7578125,389.8395080566406,3
+Machine A/Slides1_ROI_05,890@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1714.7298583984375,385.2864990234375,3
+Machine A/Slides1_ROI_05,891@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,26.06362533569336,376.6838684082031,12
+Machine A/Slides1_ROI_05,892@1,20.0,NPM1_blasts,NPM1_blasts,Leukemia,(a) v2 Tumor: AML monocytic differentiated,machine_A,2387.7392578125,376.15725708007807,10
+Machine A/Slides1_ROI_05,893@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,116.8405990600586,371.9798278808594,3
+Machine A/Slides1_ROI_05,894@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,264.29351806640625,368.2649230957031,3
+Machine A/Slides1_ROI_05,895@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,972.8253173828124,368.4094848632813,10
+Machine A/Slides1_ROI_05,896@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,1417.5699462890625,368.4504699707031,6
+Machine A/Slides1_ROI_05,897@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,319.1170349121094,360.0250549316406,10
+Machine A/Slides1_ROI_05,898@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,1370.1976318359375,361.7047729492188,9
+Machine A/Slides1_ROI_05,899@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,1488.4630126953125,361.0495300292969,6
+Machine A/Slides1_ROI_05,900@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,78.24845123291014,357.11309814453125,9
+Machine A/Slides1_ROI_05,901@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,154.1789093017578,353.4952392578125,3
+Machine A/Slides1_ROI_05,902@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,1335.0069580078125,352.1474609375,9
+Machine A/Slides1_ROI_05,903@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,200.82568359375,348.5202941894531,10
+Machine A/Slides1_ROI_05,904@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1729.1937255859375,348.939453125,3
+Machine A/Slides1_ROI_05,905@1,15.0,Mast cells,Mast cells,Myeloid,,machine_A,1608.130615234375,344.1324768066406,7
+Machine A/Slides1_ROI_05,906@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,1458.841796875,334.213134765625,6
+Machine A/Slides1_ROI_05,907@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,110.87873840332033,323.71307373046875,9
+Machine A/Slides1_ROI_05,908@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2389.5888671875,327.7637939453125,4
+Machine A/Slides1_ROI_05,909@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,961.5071411132812,321.7586669921875,10
+Machine A/Slides1_ROI_05,910@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1419.4525146484375,313.1146545410156,10
+Machine A/Slides1_ROI_05,911@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,141.90078735351562,311.8220520019531,3
+Machine A/Slides1_ROI_05,912@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,254.11845397949216,310.0209655761719,10
+Machine A/Slides1_ROI_05,913@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,302.5140686035156,309.0072326660156,10
+Machine A/Slides1_ROI_05,914@1,22.0,NPM1_blasts,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Leukemic erythroid blast,machine_A,1353.781005859375,310.4312438964844,10
+Machine A/Slides1_ROI_05,915@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,1661.205322265625,307.6695861816406,9
+Machine A/Slides1_ROI_05,916@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,58.292747497558594,300.002685546875,6
+Machine A/Slides1_ROI_05,917@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,920.0936279296876,298.4909362792969,9
+Machine A/Slides1_ROI_05,918@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,220.79689025878903,291.41339111328125,10
+Machine A/Slides1_ROI_05,919@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,354.7756652832031,292.88043212890625,10
+Machine A/Slides1_ROI_05,920@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,18.77765846252441,288.1928100585937,12
+Machine A/Slides1_ROI_05,921@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,944.2891845703124,287.0183410644531,9
+Machine A/Slides1_ROI_05,922@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,125.72254943847656,287.2553100585937,9
+Machine A/Slides1_ROI_05,923@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,188.9361724853516,285.7234191894531,10
+Machine A/Slides1_ROI_05,924@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,1903.2767333984373,284.2569885253906,9
+Machine A/Slides1_ROI_05,925@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1432.263916015625,278.4183959960937,3
+Machine A/Slides1_ROI_05,926@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2375.222412109375,281.5938720703125,4
+Machine A/Slides1_ROI_05,927@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,269.24041748046875,275.0848693847656,10
+Machine A/Slides1_ROI_05,928@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,420.6019287109375,266.0125732421875,10
+Machine A/Slides1_ROI_05,929@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1371.3404541015625,270.0,10
+Machine A/Slides1_ROI_05,930@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1396.3184814453125,266.871826171875,3
+Machine A/Slides1_ROI_05,931@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2483.6552734375,258.34719848632807,10
+Machine A/Slides1_ROI_05,932@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,879.6585083007811,252.3560943603516,9
+Machine A/Slides1_ROI_05,933@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,924.283935546875,252.1702423095703,9
+Machine A/Slides1_ROI_05,934@1,22.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Leukemic erythroid blast,machine_A,960.7762451171876,246.30622863769528,10
+Machine A/Slides1_ROI_05,935@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,377.34808349609375,251.09431457519528,10
+Machine A/Slides1_ROI_05,936@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1442.214599609375,239.4872894287109,10
+Machine A/Slides1_ROI_05,937@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,604.0941772460938,230.16734313964844,10
+Machine A/Slides1_ROI_05,938@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,273.19403076171875,221.3633728027344,10
+Machine A/Slides1_ROI_05,939@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,19.179214477539062,216.2733154296875,12
+Machine A/Slides1_ROI_05,940@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,212.302001953125,220.7068634033203,10
+Machine A/Slides1_ROI_05,941@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,929.9617919921876,214.66915893554688,9
+Machine A/Slides1_ROI_05,942@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,62.188526153564446,205.02972412109372,10
+Machine A/Slides1_ROI_05,943@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,637.9918823242188,198.9724884033203,10
+Machine A/Slides1_ROI_05,944@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,596.7462768554688,199.5373077392578,3
+Machine A/Slides1_ROI_05,945@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,996.416015625,198.21270751953125,1
+Machine A/Slides1_ROI_05,946@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1463.927734375,197.2198181152344,10
+Machine A/Slides1_ROI_05,947@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,135.44244384765625,196.7617645263672,4
+Machine A/Slides1_ROI_05,948@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,323.22637939453125,195.7914886474609,10
+Machine A/Slides1_ROI_05,949@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,354.37600708007807,195.2611541748047,10
+Machine A/Slides1_ROI_05,950@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1425.8621826171875,195.36363220214844,10
+Machine A/Slides1_ROI_05,951@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,950.1302490234376,193.5010986328125,10
+Machine A/Slides1_ROI_05,952@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,678.28662109375,185.32872009277344,10
+Machine A/Slides1_ROI_05,953@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,10.477272987365723,175.38636779785156,12
+Machine A/Slides1_ROI_05,954@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,895.7217407226561,181.24725341796875,10
+Machine A/Slides1_ROI_05,955@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,380.2189636230469,177.1602325439453,3
+Machine A/Slides1_ROI_05,956@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,742.2763671875,173.17236328125,9
+Machine A/Slides1_ROI_05,957@1,16.0,Erythroid,Erythroid,Erythroid,,machine_A,591.1118774414064,173.81396484375,9
+Machine A/Slides1_ROI_05,958@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,831.0239868164062,165.26199340820312,1
+Machine A/Slides1_ROI_05,959@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,932.0301513671876,162.20909118652344,10
+Machine A/Slides1_ROI_05,960@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,778.0025024414062,157.7209014892578,10
+Machine A/Slides1_ROI_05,961@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,258.0750427246094,163.0390167236328,10
+Machine A/Slides1_ROI_05,962@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1434.0010986328125,149.348388671875,10
+Machine A/Slides1_ROI_05,963@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1390.9771728515625,142.85250854492188,10
+Machine A/Slides1_ROI_05,964@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,686.377197265625,144.5611114501953,10
+Machine A/Slides1_ROI_05,965@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,732.7122192382812,134.0414886474609,0
+Machine A/Slides1_ROI_05,966@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,891.7462768554686,134.46600341796875,10
+Machine A/Slides1_ROI_05,967@1,8.0,Mast cells,Mast cells,Myeloid,,machine_A,2051.46875,130.80381774902344,7
+Machine A/Slides1_ROI_05,968@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,844.0228881835938,126.9780502319336,6
+Machine A/Slides1_ROI_05,969@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,237.61268615722656,126.7011032104492,10
+Machine A/Slides1_ROI_05,970@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,997.8377075195312,111.76043701171876,9
+Machine A/Slides1_ROI_05,971@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,950.1838989257811,108.14502716064452,9
+Machine A/Slides1_ROI_05,972@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1456.2625732421875,109.17078399658205,10
+Machine A/Slides1_ROI_05,973@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,1369.4248046875,103.18272399902344,6
+Machine A/Slides1_ROI_05,974@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,865.6937255859375,98.99771118164062,10
+Machine A/Slides1_ROI_05,975@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,753.8109130859375,94.58856964111328,10
+Machine A/Slides1_ROI_05,976@1,8.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2086.9638671875,83.0441207885742,4
+Machine A/Slides1_ROI_05,977@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,1043.87353515625,77.35227203369139,9
+Machine A/Slides1_ROI_05,978@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,790.2160034179686,73.23572540283203,9
+Machine A/Slides1_ROI_05,979@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,909.6827392578124,76.83684539794922,10
+Machine A/Slides1_ROI_05,980@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1301.787353515625,74.56878662109375,10
+Machine A/Slides1_ROI_05,981@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,956.5493774414062,72.60829162597656,9
+Machine A/Slides1_ROI_05,982@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1450.52392578125,69.76539611816406,10
+Machine A/Slides1_ROI_05,983@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,271.2662658691406,73.0456771850586,10
+Machine A/Slides1_ROI_05,984@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,73.95440673828125,66.7059555053711,4
+Machine A/Slides1_ROI_05,985@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,724.9301147460938,65.6126708984375,9
+Machine A/Slides1_ROI_05,986@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2203.04736328125,59.3464241027832,10
+Machine A/Slides1_ROI_05,987@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2146.081298828125,54.3779296875,4
+Machine A/Slides1_ROI_05,988@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1064.2646484375,52.6329345703125,3
+Machine A/Slides1_ROI_05,989@1,18.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor: Proliferating AML blast,machine_A,1005.174072265625,50.535694122314446,10
+Machine A/Slides1_ROI_05,990@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,1230.3770751953125,42.499866485595696,6
+Machine A/Slides1_ROI_05,991@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,1338.4459228515625,45.043479919433594,6
+Machine A/Slides1_ROI_05,992@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,479.6580810546875,46.26632308959961,4
+Machine A/Slides1_ROI_05,993@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,764.0314331054686,41.634521484375,10
+Machine A/Slides1_ROI_05,994@1,4.0,MSC,MSC,Stromal,,machine_A,2175.591552734375,41.082637786865234,13
+Machine A/Slides1_ROI_05,995@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2321.557861328125,40.067546844482415,10
+Machine A/Slides1_ROI_05,996@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,683.6129150390625,37.2691535949707,9
+Machine A/Slides1_ROI_05,997@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,812.820556640625,36.91555404663086,10
+Machine A/Slides1_ROI_05,998@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1123.274169921875,44.65293884277344,10
+Machine A/Slides1_ROI_05,999@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,1300.923828125,34.36266326904297,6
+Machine A/Slides1_ROI_05,1000@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,925.0289916992189,28.420515060424805,10
+Machine A/Slides1_ROI_05,1001@1,8.0,NPM1_blasts,NPM1_blasts,Leukemia,,machine_A,2246.17578125,32.19501876831055,10
+Machine A/Slides1_ROI_05,1002@1,15.0,Mast cells,Mast cells,Myeloid,,machine_A,506.0821228027344,22.43028259277344,7
+Machine A/Slides1_ROI_05,1003@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,1439.97021484375,23.4312801361084,10
+Machine A/Slides1_ROI_05,1004@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2100.8154296875,25.106969833374023,4
+Machine A/Slides1_ROI_05,1005@1,15.0,Mast cells,Mast cells,Myeloid,,machine_A,2281.054443359375,23.88088798522949,7
+Machine A/Slides1_ROI_05,1006@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,2055.885498046875,20.23712921142578,4
+Machine A/Slides1_ROI_05,1007@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,860.3306274414062,14.50567626953125,9
+Machine A/Slides1_ROI_05,1008@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,1391.9869384765625,19.21512031555176,6
+Machine A/Slides1_ROI_05,1009@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,707.9721069335938,13.701306343078612,3
+Machine A/Slides1_ROI_05,1010@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,2145.2451171875,15.699012756347656,9
+Machine A/Slides1_ROI_05,1011@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,1332.1494140625,12.33734893798828,6
+Machine A/Slides1_ROI_05,1012@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,2804.0,12.178509712219238,1
+Machine A/Slides1_ROI_05,1013@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,1030.267333984375,11.413589477539062,3
+Machine A/Slides1_ROI_05,1014@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,2325.197021484375,11.961194038391112,10
+Machine A/Slides1_ROI_05,1015@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,141.54258728027344,10.303383827209473,4
+Machine A/Slides1_ROI_05,1016@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,776.477294921875,8.181818008422852,3

@@ -1,0 +1,38 @@
+v76_label,final_label,n_cells,changed
+Artifact,Artifact,1012,unchanged
+Artifact,NPM1_blasts,531,moved
+CD4+ T,CD4+ T,7788,unchanged
+CD4+ T,NPM1_blasts,13,moved
+CD8+ T,CD8+ T,7048,unchanged
+CD8+ T,NPM1_blasts,22,moved
+Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),6770,renamed
+Dendritic cells (CD11c+HLA-DR+),NPM1_blasts,12,moved
+Endothelial,Endothelial,10378,unchanged
+Endothelial,NPM1_blasts,69,moved
+Erythroid,Erythroid,21796,unchanged
+Erythroid,NPM1_blasts,2935,moved
+Granulocyte,Granulocyte,44100,unchanged
+Granulocyte,NPM1_blasts,1,moved
+HLA-DR-hi APC (CD1c+),Immature myeloid CD11c+,1975,renamed
+HLA-DR-hi APC (CD1c+),NPM1_blasts,3,moved
+MSC,MSC,7847,unchanged
+MSC,NPM1_blasts,1297,moved
+Macrophages,Macrophages,19328,unchanged
+Macrophages,NPM1_blasts,374,moved
+Mast cells,Mast cells,14102,unchanged
+Mast cells,NPM1_blasts,637,moved
+Megakaryocyte,Megakaryocyte,5125,unchanged
+Megakaryocyte,NPM1_blasts,10,moved
+Mixed progenitors,Mixed progenitors,198,unchanged
+Mixed progenitors,NPM1_blasts,13092,moved
+Monocytes,Monocytes,15038,unchanged
+Monocytes,NPM1_blasts,49,moved
+NPM1_blasts,NPM1_blasts,16222,unchanged
+Plasma cells,NPM1_blasts,38,moved
+Plasma cells,Plasma cells,9510,unchanged
+Unassigned-Leiden: CD68+CD3+Tryptase+,NPM1_blasts,1,moved
+Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,1584,unchanged
+Unassigned-Leiden: Ki67+CD147+CD45RA+,NPM1_blasts,2,moved
+Unassigned-Leiden: Ki67+CD147+CD45RA+,Unassigned-Leiden: Ki67+CD147+CD45RA+,2407,unchanged
+Unassigned/Other,NPM1_blasts,8185,moved
+Unassigned/Other,Unassigned/Other,14450,unchanged

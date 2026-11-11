@@ -1,0 +1,20 @@
+final_label_int,final_label,final_coarse,n_cells
+0,CD4+ T,Lymphoid,7788
+1,CD8+ T,Lymphoid,7048
+2,Plasma cells,Lymphoid,9510
+3,Granulocyte,Myeloid,44100
+4,HLA-DR-hi APC (CD1c+),Myeloid,6770
+5,Immature myeloid CD11c+,Myeloid,1975
+6,Macrophages,Myeloid,19328
+7,Mast cells,Myeloid,14102
+8,Monocytes,Myeloid,15038
+9,Erythroid,Erythroid,21796
+10,NPM1_blasts,Leukemia,43493
+11,Mixed progenitors,Immature,198
+12,Endothelial,Stromal,10378
+13,MSC,Stromal,7847
+14,Megakaryocyte,Megakaryocyte,5125
+15,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,1584
+16,Unassigned-Leiden: Ki67+CD147+CD45RA+,Unassigned-derived,2407
+17,Artifact,Other,1012
+18,Unassigned/Other,Other,14450

@@ -1,0 +1,1811 @@
+unique_region,Cell Id,v2_final_label_integer,v76_label,final_label,final_coarse,tumour_recovery_reason,machine,Nuc X,Nuc Y Inv,final_label_int
+Machine A/Slides2_ROI_09,1@1,4.0,MSC,MSC,Stromal,,machine_A,128397.609375,-198040.0,13
+Machine A/Slides2_ROI_09,2@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128362.6796875,-198042.125,8
+Machine A/Slides2_ROI_09,3@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,128558.34375,-198040.859375,3
+Machine A/Slides2_ROI_09,4@1,2.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,128629.2265625,-198043.578125,15
+Machine A/Slides2_ROI_09,5@1,4.0,MSC,MSC,Stromal,,machine_A,128442.796875,-198049.4375,13
+Machine A/Slides2_ROI_09,6@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128727.7890625,-198046.25,6
+Machine A/Slides2_ROI_09,7@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128509.8828125,-198053.609375,6
+Machine A/Slides2_ROI_09,8@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128603.2578125,-198058.484375,6
+Machine A/Slides2_ROI_09,9@1,,Unassigned/Other,Unassigned/Other,Other,,machine_A,128324.2109375,-198058.140625,18
+Machine A/Slides2_ROI_09,10@1,24.0,MSC,MSC,Stromal,,machine_A,131578.296875,-198064.265625,13
+Machine A/Slides2_ROI_09,11@1,18.0,NPM1_blasts,NPM1_blasts,Leukemia,(a) v2 Tumor: Proliferating AML blast,machine_A,128489.2578125,-198077.265625,10
+Machine A/Slides2_ROI_09,12@1,24.0,Macrophages,Macrophages,Myeloid,,machine_A,131519.5,-198076.765625,6
+Machine A/Slides2_ROI_09,13@1,5.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,128420.59375,-198081.9375,2
+Machine A/Slides2_ROI_09,14@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128543.3515625,-198084.953125,6
+Machine A/Slides2_ROI_09,15@1,1.0,Unassigned/Other,NPM1_blasts,Leukemia,(c) Unassigned/Artifact NPM1_mut+,machine_A,128456.90625,-198091.171875,10
+Machine A/Slides2_ROI_09,16@1,,MSC,MSC,Stromal,,machine_A,128322.5703125,-198095.984375,13
+Machine A/Slides2_ROI_09,17@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,128502.765625,-198103.046875,18
+Machine A/Slides2_ROI_09,18@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128697.4375,-198124.09375,6
+Machine A/Slides2_ROI_09,19@1,5.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,128519.265625,-198127.53125,2
+Machine A/Slides2_ROI_09,20@1,,Macrophages,Macrophages,Myeloid,,machine_A,128782.0234375,-198127.6875,6
+Machine A/Slides2_ROI_09,21@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128349.640625,-198137.609375,6
+Machine A/Slides2_ROI_09,22@1,24.0,Macrophages,Macrophages,Myeloid,,machine_A,131585.03125,-198139.828125,6
+Machine A/Slides2_ROI_09,23@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128643.7734375,-198143.171875,6
+Machine A/Slides2_ROI_09,24@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,128457.390625,-198158.796875,10
+Machine A/Slides2_ROI_09,25@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128539.140625,-198163.0625,6
+Machine A/Slides2_ROI_09,26@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128672.296875,-198162.015625,6
+Machine A/Slides2_ROI_09,27@1,24.0,Mast cells,Mast cells,Myeloid,,machine_A,131522.734375,-198172.171875,7
+Machine A/Slides2_ROI_09,28@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128327.515625,-198178.140625,6
+Machine A/Slides2_ROI_09,29@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128725.0,-198207.984375,6
+Machine A/Slides2_ROI_09,30@1,18.0,NPM1_blasts,NPM1_blasts,Leukemia,(a) v2 Tumor: Proliferating AML blast,machine_A,128341.5546875,-198215.359375,10
+Machine A/Slides2_ROI_09,31@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129071.9609375,-198222.125,6
+Machine A/Slides2_ROI_09,32@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128413.5546875,-198230.265625,6
+Machine A/Slides2_ROI_09,33@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128373.140625,-198234.5,6
+Machine A/Slides2_ROI_09,34@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128477.1640625,-198250.125,6
+Machine A/Slides2_ROI_09,35@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,128338.140625,-198257.578125,3
+Machine A/Slides2_ROI_09,36@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128456.671875,-198265.890625,8
+Machine A/Slides2_ROI_09,37@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128378.390625,-198278.078125,8
+Machine A/Slides2_ROI_09,38@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128324.5078125,-198289.578125,8
+Machine A/Slides2_ROI_09,39@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128668.265625,-198294.90625,6
+Machine A/Slides2_ROI_09,40@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128416.328125,-198296.328125,8
+Machine A/Slides2_ROI_09,41@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128520.5703125,-198298.015625,6
+Machine A/Slides2_ROI_09,42@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128598.84375,-198308.421875,6
+Machine A/Slides2_ROI_09,43@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128659.0390625,-198357.328125,6
+Machine A/Slides2_ROI_09,44@1,,Macrophages,Macrophages,Myeloid,,machine_A,128362.8515625,-198380.671875,6
+Machine A/Slides2_ROI_09,45@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130015.28125,-198467.4375,6
+Machine A/Slides2_ROI_09,46@1,,Unassigned/Other,Unassigned/Other,Other,,machine_A,130123.703125,-198473.78125,18
+Machine A/Slides2_ROI_09,47@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,129922.953125,-198482.5625,1
+Machine A/Slides2_ROI_09,48@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128572.234375,-198496.359375,6
+Machine A/Slides2_ROI_09,49@1,18.0,NPM1_blasts,NPM1_blasts,Leukemia,(a) v2 Tumor: Proliferating AML blast,machine_A,130483.8046875,-198500.34375,10
+Machine A/Slides2_ROI_09,50@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128597.046875,-198504.78125,6
+Machine A/Slides2_ROI_09,51@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,129843.7890625,-198520.875,12
+Machine A/Slides2_ROI_09,52@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130044.171875,-198521.546875,3
+Machine A/Slides2_ROI_09,53@1,24.0,Mast cells,Mast cells,Myeloid,,machine_A,129781.984375,-198527.5,7
+Machine A/Slides2_ROI_09,54@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130494.578125,-198533.28125,6
+Machine A/Slides2_ROI_09,55@1,,Unassigned/Other,Unassigned/Other,Other,,machine_A,129686.5703125,-198534.140625,18
+Machine A/Slides2_ROI_09,56@1,15.0,Mast cells,Mast cells,Myeloid,,machine_A,130576.65625,-198562.203125,7
+Machine A/Slides2_ROI_09,57@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,129907.3203125,-198576.015625,1
+Machine A/Slides2_ROI_09,58@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130489.3671875,-198574.390625,6
+Machine A/Slides2_ROI_09,59@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129617.28125,-198576.21875,3
+Machine A/Slides2_ROI_09,60@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,129873.875,-198594.109375,18
+Machine A/Slides2_ROI_09,61@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130427.3671875,-198600.203125,6
+Machine A/Slides2_ROI_09,62@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130591.59375,-198600.109375,8
+Machine A/Slides2_ROI_09,63@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129581.8203125,-198599.671875,6
+Machine A/Slides2_ROI_09,64@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129954.5859375,-198602.140625,6
+Machine A/Slides2_ROI_09,65@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130274.9375,-198601.421875,6
+Machine A/Slides2_ROI_09,66@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130101.5859375,-198605.484375,6
+Machine A/Slides2_ROI_09,67@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129997.8046875,-198609.015625,6
+Machine A/Slides2_ROI_09,68@1,,Macrophages,Macrophages,Myeloid,,machine_A,128514.9296875,-198614.578125,6
+Machine A/Slides2_ROI_09,69@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130523.9765625,-198617.78125,6
+Machine A/Slides2_ROI_09,70@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130160.515625,-198621.03125,6
+Machine A/Slides2_ROI_09,71@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130380.0625,-198629.34375,6
+Machine A/Slides2_ROI_09,72@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130212.890625,-198627.34375,12
+Machine A/Slides2_ROI_09,73@1,,NPM1_blasts,NPM1_blasts,Leukemia,,machine_A,130639.9453125,-198627.671875,10
+Machine A/Slides2_ROI_09,74@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129635.6640625,-198627.84375,6
+Machine A/Slides2_ROI_09,75@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129836.1484375,-198630.234375,6
+Machine A/Slides2_ROI_09,76@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130030.7421875,-198628.515625,6
+Machine A/Slides2_ROI_09,77@1,,Mast cells,Mast cells,Myeloid,,machine_A,130948.328125,-198629.703125,7
+Machine A/Slides2_ROI_09,78@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129483.625,-198633.28125,6
+Machine A/Slides2_ROI_09,79@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129546.125,-198636.421875,6
+Machine A/Slides2_ROI_09,80@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129867.203125,-198635.96875,6
+Machine A/Slides2_ROI_09,81@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130305.546875,-198635.0625,6
+Machine A/Slides2_ROI_09,82@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130561.625,-198639.953125,6
+Machine A/Slides2_ROI_09,83@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129936.109375,-198643.703125,6
+Machine A/Slides2_ROI_09,84@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130338.7578125,-198640.265625,6
+Machine A/Slides2_ROI_09,85@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129904.0078125,-198644.859375,6
+Machine A/Slides2_ROI_09,86@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129404.1875,-198647.609375,6
+Machine A/Slides2_ROI_09,87@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130101.9921875,-198647.6875,3
+Machine A/Slides2_ROI_09,88@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130365.984375,-198660.578125,3
+Machine A/Slides2_ROI_09,89@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128454.2578125,-198663.671875,6
+Machine A/Slides2_ROI_09,90@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130806.1875,-198668.453125,6
+Machine A/Slides2_ROI_09,91@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130880.5859375,-198667.828125,6
+Machine A/Slides2_ROI_09,92@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130080.171875,-198672.140625,3
+Machine A/Slides2_ROI_09,93@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130031.0,-198673.0,6
+Machine A/Slides2_ROI_09,94@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130266.5078125,-198678.15625,6
+Machine A/Slides2_ROI_09,95@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129674.0625,-198678.640625,6
+Machine A/Slides2_ROI_09,96@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129822.4921875,-198680.546875,6
+Machine A/Slides2_ROI_09,97@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130534.2578125,-198678.75,3
+Machine A/Slides2_ROI_09,98@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129739.8125,-198681.3125,6
+Machine A/Slides2_ROI_09,99@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130056.71875,-198688.078125,3
+Machine A/Slides2_ROI_09,100@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129380.4375,-198690.359375,6
+Machine A/Slides2_ROI_09,101@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130369.8515625,-198688.0625,3
+Machine A/Slides2_ROI_09,102@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130855.8359375,-198693.125,6
+Machine A/Slides2_ROI_09,103@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129882.7109375,-198696.484375,6
+Machine A/Slides2_ROI_09,104@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130777.3203125,-198694.03125,8
+Machine A/Slides2_ROI_09,105@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129781.5,-198702.34375,6
+Machine A/Slides2_ROI_09,106@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130239.796875,-198699.25,3
+Machine A/Slides2_ROI_09,107@1,,Macrophages,Macrophages,Myeloid,,machine_A,129593.8125,-198705.3125,6
+Machine A/Slides2_ROI_09,108@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130439.8203125,-198704.65625,6
+Machine A/Slides2_ROI_09,109@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130696.2265625,-198705.71875,6
+Machine A/Slides2_ROI_09,110@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130101.3828125,-198706.625,12
+Machine A/Slides2_ROI_09,111@1,16.0,MSC,MSC,Stromal,,machine_A,130201.8828125,-198708.5625,13
+Machine A/Slides2_ROI_09,112@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130353.1875,-198708.140625,3
+Machine A/Slides2_ROI_09,113@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129328.3984375,-198709.859375,6
+Machine A/Slides2_ROI_09,114@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130938.6328125,-198711.1875,6
+Machine A/Slides2_ROI_09,115@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130601.8359375,-198720.765625,8
+Machine A/Slides2_ROI_09,116@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129541.484375,-198721.15625,6
+Machine A/Slides2_ROI_09,117@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129615.6953125,-198719.34375,6
+Machine A/Slides2_ROI_09,118@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129960.0,-198717.859375,6
+Machine A/Slides2_ROI_09,119@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130023.015625,-198717.6875,6
+Machine A/Slides2_ROI_09,120@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130145.4375,-198720.796875,8
+Machine A/Slides2_ROI_09,121@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130055.1875,-198720.171875,3
+Machine A/Slides2_ROI_09,122@1,,Endothelial,Endothelial,Stromal,,machine_A,130818.4296875,-198720.984375,12
+Machine A/Slides2_ROI_09,123@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130316.9296875,-198729.625,8
+Machine A/Slides2_ROI_09,124@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129786.1796875,-198731.734375,6
+Machine A/Slides2_ROI_09,125@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130656.2421875,-198736.453125,12
+Machine A/Slides2_ROI_09,126@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130874.6796875,-198733.046875,6
+Machine A/Slides2_ROI_09,127@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129392.6015625,-198734.71875,6
+Machine A/Slides2_ROI_09,128@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130199.9921875,-198732.53125,6
+Machine A/Slides2_ROI_09,129@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130505.203125,-198736.171875,6
+Machine A/Slides2_ROI_09,130@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130726.046875,-198731.96875,12
+Machine A/Slides2_ROI_09,131@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130117.4921875,-198736.5,3
+Machine A/Slides2_ROI_09,132@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130773.0546875,-198745.0,12
+Machine A/Slides2_ROI_09,133@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129532.5625,-198746.0625,6
+Machine A/Slides2_ROI_09,134@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130090.0078125,-198748.125,8
+Machine A/Slides2_ROI_09,135@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129849.1796875,-198753.125,6
+Machine A/Slides2_ROI_09,136@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130275.046875,-198753.546875,8
+Machine A/Slides2_ROI_09,137@1,4.0,MSC,MSC,Stromal,,machine_A,129621.6796875,-198756.3125,13
+Machine A/Slides2_ROI_09,138@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130004.1171875,-198757.140625,3
+Machine A/Slides2_ROI_09,139@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130317.28125,-198757.296875,8
+Machine A/Slides2_ROI_09,140@1,27.0,MSC,MSC,Stromal,,machine_A,130577.8984375,-198757.296875,13
+Machine A/Slides2_ROI_09,141@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130153.0390625,-198764.515625,6
+Machine A/Slides2_ROI_09,142@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130449.984375,-198763.0625,6
+Machine A/Slides2_ROI_09,143@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130647.0546875,-198764.375,12
+Machine A/Slides2_ROI_09,144@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130879.125,-198763.15625,12
+Machine A/Slides2_ROI_09,145@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129335.859375,-198768.65625,6
+Machine A/Slides2_ROI_09,146@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129795.71875,-198765.28125,6
+Machine A/Slides2_ROI_09,147@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130493.9375,-198767.828125,6
+Machine A/Slides2_ROI_09,148@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129458.7265625,-198772.1875,6
+Machine A/Slides2_ROI_09,149@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130535.0234375,-198772.96875,6
+Machine A/Slides2_ROI_09,150@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130743.1328125,-198773.90625,12
+Machine A/Slides2_ROI_09,151@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129643.5,-198777.40625,6
+Machine A/Slides2_ROI_09,152@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130039.0078125,-198779.359375,3
+Machine A/Slides2_ROI_09,153@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130075.7421875,-198780.4375,6
+Machine A/Slides2_ROI_09,154@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130257.3671875,-198783.53125,3
+Machine A/Slides2_ROI_09,155@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130789.5234375,-198781.328125,12
+Machine A/Slides2_ROI_09,156@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131071.65625,-198780.71875,6
+Machine A/Slides2_ROI_09,157@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130386.2734375,-198779.859375,6
+Machine A/Slides2_ROI_09,158@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131184.375,-198785.734375,6
+Machine A/Slides2_ROI_09,159@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128303.6015625,-198787.09375,6
+Machine A/Slides2_ROI_09,160@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130465.328125,-198786.875,6
+Machine A/Slides2_ROI_09,161@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130558.4609375,-198784.15625,12
+Machine A/Slides2_ROI_09,162@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129315.40625,-198787.546875,6
+Machine A/Slides2_ROI_09,163@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129393.0625,-198793.4375,3
+Machine A/Slides2_ROI_09,164@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130130.765625,-198795.796875,6
+Machine A/Slides2_ROI_09,165@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130316.6796875,-198800.046875,3
+Machine A/Slides2_ROI_09,166@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130649.296875,-198796.203125,12
+Machine A/Slides2_ROI_09,167@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129261.125,-198801.75,6
+Machine A/Slides2_ROI_09,168@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131028.5625,-198801.421875,6
+Machine A/Slides2_ROI_09,169@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130097.484375,-198804.546875,3
+Machine A/Slides2_ROI_09,170@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,130348.3828125,-198805.265625,4
+Machine A/Slides2_ROI_09,171@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130525.9609375,-198802.25,8
+Machine A/Slides2_ROI_09,172@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130707.28125,-198814.609375,12
+Machine A/Slides2_ROI_09,173@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130064.0859375,-198804.703125,6
+Machine A/Slides2_ROI_09,174@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129698.953125,-198810.984375,6
+Machine A/Slides2_ROI_09,175@1,10.0,Erythroid,Erythroid,Erythroid,,machine_A,130219.8125,-198810.078125,9
+Machine A/Slides2_ROI_09,176@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130269.3671875,-198809.328125,3
+Machine A/Slides2_ROI_09,177@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129881.25,-198816.109375,3
+Machine A/Slides2_ROI_09,178@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129972.140625,-198814.5,6
+Machine A/Slides2_ROI_09,179@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129813.015625,-198809.515625,6
+Machine A/Slides2_ROI_09,180@1,,Macrophages,Macrophages,Myeloid,,machine_A,129175.3203125,-198819.546875,6
+Machine A/Slides2_ROI_09,181@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129360.9609375,-198819.671875,3
+Machine A/Slides2_ROI_09,182@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130161.3828125,-198825.28125,0
+Machine A/Slides2_ROI_09,183@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130675.9296875,-198825.1875,6
+Machine A/Slides2_ROI_09,184@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129207.828125,-198823.921875,6
+Machine A/Slides2_ROI_09,185@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130637.09375,-198823.03125,12
+Machine A/Slides2_ROI_09,186@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129750.359375,-198832.3125,6
+Machine A/Slides2_ROI_09,187@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129843.625,-198832.828125,6
+Machine A/Slides2_ROI_09,188@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129320.90625,-198832.8125,3
+Machine A/Slides2_ROI_09,189@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129994.015625,-198831.625,6
+Machine A/Slides2_ROI_09,190@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130606.46875,-198831.515625,6
+Machine A/Slides2_ROI_09,191@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130976.4765625,-198832.234375,12
+Machine A/Slides2_ROI_09,192@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129914.734375,-198835.875,3
+Machine A/Slides2_ROI_09,193@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,130324.9921875,-198835.375,4
+Machine A/Slides2_ROI_09,194@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131106.125,-198841.734375,6
+Machine A/Slides2_ROI_09,195@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130279.765625,-198841.0625,6
+Machine A/Slides2_ROI_09,196@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,130436.8203125,-198845.4375,10
+Machine A/Slides2_ROI_09,197@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,130127.75,-198842.25,10
+Machine A/Slides2_ROI_09,198@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130206.84375,-198850.859375,6
+Machine A/Slides2_ROI_09,199@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130799.453125,-198844.140625,3
+Machine A/Slides2_ROI_09,200@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131146.671875,-198846.203125,8
+Machine A/Slides2_ROI_09,201@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129537.875,-198850.109375,6
+Machine A/Slides2_ROI_09,202@1,4.0,MSC,MSC,Stromal,,machine_A,129720.4609375,-198846.84375,13
+Machine A/Slides2_ROI_09,203@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129784.734375,-198850.859375,6
+Machine A/Slides2_ROI_09,204@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129951.4140625,-198850.640625,6
+Machine A/Slides2_ROI_09,205@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,129862.40625,-198849.71875,12
+Machine A/Slides2_ROI_09,206@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129690.59375,-198852.40625,6
+Machine A/Slides2_ROI_09,207@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130525.3046875,-198861.59375,6
+Machine A/Slides2_ROI_09,208@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130633.3125,-198856.578125,8
+Machine A/Slides2_ROI_09,209@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129421.203125,-198860.671875,6
+Machine A/Slides2_ROI_09,210@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129343.9140625,-198866.171875,6
+Machine A/Slides2_ROI_09,211@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130472.8359375,-198865.09375,3
+Machine A/Slides2_ROI_09,212@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130731.5546875,-198865.453125,6
+Machine A/Slides2_ROI_09,213@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131089.71875,-198868.484375,6
+Machine A/Slides2_ROI_09,214@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,130351.4609375,-198874.125,4
+Machine A/Slides2_ROI_09,215@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130576.2265625,-198886.734375,6
+Machine A/Slides2_ROI_09,216@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130854.0390625,-198873.875,12
+Machine A/Slides2_ROI_09,217@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131000.5078125,-198871.046875,6
+Machine A/Slides2_ROI_09,218@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129272.46875,-198872.71875,6
+Machine A/Slides2_ROI_09,219@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129501.578125,-198873.9375,6
+Machine A/Slides2_ROI_09,220@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130081.2109375,-198874.0,6
+Machine A/Slides2_ROI_09,221@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129120.0234375,-198877.5625,6
+Machine A/Slides2_ROI_09,222@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129586.0546875,-198883.265625,6
+Machine A/Slides2_ROI_09,223@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129938.796875,-198877.03125,6
+Machine A/Slides2_ROI_09,224@1,,Unassigned/Other,NPM1_blasts,Leukemia,(c) Unassigned/Artifact NPM1_mut+,machine_A,131137.9375,-198875.484375,10
+Machine A/Slides2_ROI_09,225@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,129818.03125,-198868.296875,12
+Machine A/Slides2_ROI_09,226@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129198.4140625,-198888.328125,3
+Machine A/Slides2_ROI_09,227@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130392.953125,-198885.3125,8
+Machine A/Slides2_ROI_09,228@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129648.890625,-198888.09375,6
+Machine A/Slides2_ROI_09,229@1,19.0,Macrophages,NPM1_blasts,Leukemia,(a) v2 Tumor: Quiescent AML blast,machine_A,129962.265625,-198885.890625,10
+Machine A/Slides2_ROI_09,230@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130317.296875,-198883.234375,3
+Machine A/Slides2_ROI_09,231@1,13.0,MSC,MSC,Stromal,,machine_A,130701.421875,-198894.703125,13
+Machine A/Slides2_ROI_09,232@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129229.453125,-198898.984375,6
+Machine A/Slides2_ROI_09,233@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129389.6484375,-198902.109375,6
+Machine A/Slides2_ROI_09,234@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130844.8671875,-198900.3125,6
+Machine A/Slides2_ROI_09,235@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129353.796875,-198901.734375,6
+Machine A/Slides2_ROI_09,236@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131284.265625,-198901.703125,6
+Machine A/Slides2_ROI_09,237@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130207.6484375,-198895.515625,6
+Machine A/Slides2_ROI_09,238@1,20.0,NPM1_blasts,NPM1_blasts,Leukemia,(a) v2 Tumor: AML monocytic differentiated,machine_A,130073.3671875,-198908.1875,10
+Machine A/Slides2_ROI_09,239@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130246.4375,-198910.890625,6
+Machine A/Slides2_ROI_09,240@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131034.5,-198908.5,6
+Machine A/Slides2_ROI_09,241@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129947.1796875,-198913.78125,6
+Machine A/Slides2_ROI_09,242@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130741.96875,-198909.1875,6
+Machine A/Slides2_ROI_09,243@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131227.5,-198912.34375,6
+Machine A/Slides2_ROI_09,244@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130514.640625,-198914.515625,6
+Machine A/Slides2_ROI_09,245@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130802.9921875,-198915.875,3
+Machine A/Slides2_ROI_09,246@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129527.296875,-198917.671875,6
+Machine A/Slides2_ROI_09,247@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129630.7734375,-198917.578125,6
+Machine A/Slides2_ROI_09,248@1,4.0,MSC,MSC,Stromal,,machine_A,129727.5546875,-198921.84375,13
+Machine A/Slides2_ROI_09,249@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129796.6484375,-198923.3125,3
+Machine A/Slides2_ROI_09,250@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129883.40625,-198922.390625,8
+Machine A/Slides2_ROI_09,251@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130645.109375,-198924.203125,8
+Machine A/Slides2_ROI_09,252@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129083.90625,-198925.015625,6
+Machine A/Slides2_ROI_09,253@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130182.96875,-198924.421875,3
+Machine A/Slides2_ROI_09,254@1,19.0,NPM1_blasts,NPM1_blasts,Leukemia,(a) v2 Tumor: Quiescent AML blast,machine_A,129965.0078125,-198928.3125,10
+Machine A/Slides2_ROI_09,255@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130283.8203125,-198931.96875,8
+Machine A/Slides2_ROI_09,256@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129120.8203125,-198933.28125,6
+Machine A/Slides2_ROI_09,257@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129177.1171875,-198934.015625,3
+Machine A/Slides2_ROI_09,258@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129336.296875,-198941.125,8
+Machine A/Slides2_ROI_09,259@1,18.0,NPM1_blasts,NPM1_blasts,Leukemia,(a) v2 Tumor: Proliferating AML blast,machine_A,129996.7109375,-198933.859375,10
+Machine A/Slides2_ROI_09,260@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,130327.3671875,-198935.59375,1
+Machine A/Slides2_ROI_09,261@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131299.359375,-198934.28125,8
+Machine A/Slides2_ROI_09,262@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129404.140625,-198934.296875,6
+Machine A/Slides2_ROI_09,263@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129670.46875,-198937.0625,6
+Machine A/Slides2_ROI_09,264@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129816.75,-198939.453125,3
+Machine A/Slides2_ROI_09,265@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130677.3671875,-198930.765625,8
+Machine A/Slides2_ROI_09,266@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129484.890625,-198942.40625,8
+Machine A/Slides2_ROI_09,267@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131193.375,-198939.5,6
+Machine A/Slides2_ROI_09,268@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130760.1484375,-198940.578125,8
+Machine A/Slides2_ROI_09,269@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130246.1953125,-198949.875,3
+Machine A/Slides2_ROI_09,270@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130615.2578125,-198944.765625,3
+Machine A/Slides2_ROI_09,271@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129777.4765625,-198949.546875,3
+Machine A/Slides2_ROI_09,272@1,4.0,Mast cells,Mast cells,Myeloid,,machine_A,129951.4765625,-198951.34375,7
+Machine A/Slides2_ROI_09,273@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131385.953125,-198947.5625,6
+Machine A/Slides2_ROI_09,274@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130032.046875,-198950.328125,3
+Machine A/Slides2_ROI_09,275@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,130370.328125,-198952.625,1
+Machine A/Slides2_ROI_09,276@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130518.125,-198950.453125,8
+Machine A/Slides2_ROI_09,277@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130562.1953125,-198953.65625,8
+Machine A/Slides2_ROI_09,278@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130869.2578125,-198953.046875,3
+Machine A/Slides2_ROI_09,279@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129604.0703125,-198956.421875,3
+Machine A/Slides2_ROI_09,280@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130129.7578125,-198955.765625,8
+Machine A/Slides2_ROI_09,281@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130795.2265625,-198951.59375,8
+Machine A/Slides2_ROI_09,282@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130421.9375,-198961.0,6
+Machine A/Slides2_ROI_09,283@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131012.5390625,-198957.09375,8
+Machine A/Slides2_ROI_09,284@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131168.09375,-198956.234375,6
+Machine A/Slides2_ROI_09,285@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129375.7578125,-198959.84375,6
+Machine A/Slides2_ROI_09,286@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129188.7890625,-198966.5625,6
+Machine A/Slides2_ROI_09,287@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129736.1640625,-198966.609375,6
+Machine A/Slides2_ROI_09,288@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129911.3515625,-198968.046875,6
+Machine A/Slides2_ROI_09,289@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130226.5,-198968.09375,8
+Machine A/Slides2_ROI_09,290@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131286.671875,-198968.171875,6
+Machine A/Slides2_ROI_09,291@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129471.203125,-198971.984375,6
+Machine A/Slides2_ROI_09,292@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129763.9375,-198973.078125,3
+Machine A/Slides2_ROI_09,293@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130059.453125,-198974.34375,8
+Machine A/Slides2_ROI_09,294@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130334.140625,-198973.640625,6
+Machine A/Slides2_ROI_09,295@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130260.3984375,-198975.28125,8
+Machine A/Slides2_ROI_09,296@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129583.15625,-198980.0,8
+Machine A/Slides2_ROI_09,297@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,129972.765625,-198983.390625,1
+Machine A/Slides2_ROI_09,298@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130090.5703125,-198983.59375,6
+Machine A/Slides2_ROI_09,299@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130376.3046875,-198981.25,6
+Machine A/Slides2_ROI_09,300@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130537.234375,-198977.59375,0
+Machine A/Slides2_ROI_09,301@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129288.2265625,-198984.09375,6
+Machine A/Slides2_ROI_09,302@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129445.109375,-198982.234375,8
+Machine A/Slides2_ROI_09,303@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129802.2421875,-198986.71875,3
+Machine A/Slides2_ROI_09,304@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130467.1484375,-198976.34375,6
+Machine A/Slides2_ROI_09,305@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129051.2421875,-198985.546875,6
+Machine A/Slides2_ROI_09,306@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129517.40625,-198986.25,8
+Machine A/Slides2_ROI_09,307@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129611.6484375,-198988.25,3
+Machine A/Slides2_ROI_09,308@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130693.515625,-198989.203125,6
+Machine A/Slides2_ROI_09,309@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129839.421875,-198991.1875,6
+Machine A/Slides2_ROI_09,310@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129946.9921875,-198987.96875,8
+Machine A/Slides2_ROI_09,311@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130420.53125,-198990.046875,6
+Machine A/Slides2_ROI_09,312@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129901.9375,-198993.3125,6
+Machine A/Slides2_ROI_09,313@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130820.921875,-198991.71875,8
+Machine A/Slides2_ROI_09,314@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129667.78125,-198997.25,6
+Machine A/Slides2_ROI_09,315@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131183.78125,-198997.078125,6
+Machine A/Slides2_ROI_09,316@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130219.6796875,-199002.375,8
+Machine A/Slides2_ROI_09,317@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130576.171875,-198999.890625,8
+Machine A/Slides2_ROI_09,318@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131007.625,-198999.1875,6
+Machine A/Slides2_ROI_09,319@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131106.234375,-199001.0625,6
+Machine A/Slides2_ROI_09,320@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,129186.3125,-199012.6875,12
+Machine A/Slides2_ROI_09,321@1,11.0,MSC,MSC,Stromal,,machine_A,130042.328125,-199008.875,13
+Machine A/Slides2_ROI_09,322@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130535.6640625,-199007.109375,8
+Machine A/Slides2_ROI_09,323@1,,Macrophages,Macrophages,Myeloid,,machine_A,129130.953125,-199013.0,6
+Machine A/Slides2_ROI_09,324@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130115.5390625,-199010.46875,6
+Machine A/Slides2_ROI_09,325@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130650.28125,-199012.375,8
+Machine A/Slides2_ROI_09,326@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,131062.1328125,-199012.15625,3
+Machine A/Slides2_ROI_09,327@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130080.9453125,-199011.53125,8
+Machine A/Slides2_ROI_09,328@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130149.4453125,-199015.53125,6
+Machine A/Slides2_ROI_09,329@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129053.5234375,-199016.578125,6
+Machine A/Slides2_ROI_09,330@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130365.671875,-199011.15625,6
+Machine A/Slides2_ROI_09,331@1,,Macrophages,Macrophages,Myeloid,,machine_A,131313.5,-199015.40625,6
+Machine A/Slides2_ROI_09,332@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130247.6953125,-199021.734375,8
+Machine A/Slides2_ROI_09,333@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130455.3984375,-199017.890625,8
+Machine A/Slides2_ROI_09,334@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129561.0,-199022.71875,6
+Machine A/Slides2_ROI_09,335@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129098.671875,-199029.609375,8
+Machine A/Slides2_ROI_09,336@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129238.4140625,-199029.34375,6
+Machine A/Slides2_ROI_09,337@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130211.859375,-199027.078125,6
+Machine A/Slides2_ROI_09,338@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129804.03125,-199030.3125,3
+Machine A/Slides2_ROI_09,339@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129897.984375,-199028.484375,6
+Machine A/Slides2_ROI_09,340@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131429.140625,-199030.78125,6
+Machine A/Slides2_ROI_09,341@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129448.296875,-199035.34375,8
+Machine A/Slides2_ROI_09,342@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129967.296875,-199030.90625,6
+Machine A/Slides2_ROI_09,343@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130997.15625,-199035.15625,6
+Machine A/Slides2_ROI_09,344@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131047.5625,-199037.234375,6
+Machine A/Slides2_ROI_09,345@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129480.8203125,-199041.890625,8
+Machine A/Slides2_ROI_09,346@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130289.4375,-199040.640625,8
+Machine A/Slides2_ROI_09,347@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130520.890625,-199040.359375,8
+Machine A/Slides2_ROI_09,348@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130642.953125,-199038.53125,6
+Machine A/Slides2_ROI_09,349@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129595.15625,-199039.90625,8
+Machine A/Slides2_ROI_09,350@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130000.390625,-199042.796875,3
+Machine A/Slides2_ROI_09,351@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131209.484375,-199038.984375,6
+Machine A/Slides2_ROI_09,352@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131475.984375,-199037.875,6
+Machine A/Slides2_ROI_09,353@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129322.7265625,-199050.703125,6
+Machine A/Slides2_ROI_09,354@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131095.71875,-199048.5,6
+Machine A/Slides2_ROI_09,355@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131252.15625,-199046.34375,6
+Machine A/Slides2_ROI_09,356@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,129113.3125,-199055.0625,12
+Machine A/Slides2_ROI_09,357@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129054.03125,-199054.390625,8
+Machine A/Slides2_ROI_09,358@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130888.171875,-199059.28125,8
+Machine A/Slides2_ROI_09,359@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130961.6484375,-199056.90625,6
+Machine A/Slides2_ROI_09,360@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131519.0,-199052.125,6
+Machine A/Slides2_ROI_09,361@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129023.9375,-199058.28125,8
+Machine A/Slides2_ROI_09,362@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129279.703125,-199063.109375,6
+Machine A/Slides2_ROI_09,363@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129751.21875,-199059.0625,6
+Machine A/Slides2_ROI_09,364@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129897.515625,-199061.65625,6
+Machine A/Slides2_ROI_09,365@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129176.828125,-199060.515625,6
+Machine A/Slides2_ROI_09,366@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130144.359375,-199064.578125,8
+Machine A/Slides2_ROI_09,367@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130323.8671875,-199062.8125,6
+Machine A/Slides2_ROI_09,368@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130357.625,-199061.59375,3
+Machine A/Slides2_ROI_09,369@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130464.71875,-199063.515625,8
+Machine A/Slides2_ROI_09,370@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130749.15625,-199064.515625,8
+Machine A/Slides2_ROI_09,371@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131319.71875,-199064.78125,6
+Machine A/Slides2_ROI_09,372@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129338.5703125,-199066.75,6
+Machine A/Slides2_ROI_09,373@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129810.890625,-199066.28125,3
+Machine A/Slides2_ROI_09,374@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130565.5078125,-199067.640625,8
+Machine A/Slides2_ROI_09,375@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130720.40625,-199064.953125,6
+Machine A/Slides2_ROI_09,376@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129559.359375,-199068.015625,3
+Machine A/Slides2_ROI_09,377@1,13.0,MSC,MSC,Stromal,,machine_A,129944.03125,-199065.015625,13
+Machine A/Slides2_ROI_09,378@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130395.71875,-199068.421875,8
+Machine A/Slides2_ROI_09,379@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,130923.7578125,-199058.46875,18
+Machine A/Slides2_ROI_09,380@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131000.15625,-199065.09375,8
+Machine A/Slides2_ROI_09,381@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131030.328125,-199065.28125,6
+Machine A/Slides2_ROI_09,382@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130596.828125,-199073.0,6
+Machine A/Slides2_ROI_09,383@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130804.2265625,-199072.234375,8
+Machine A/Slides2_ROI_09,384@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131202.375,-199069.203125,6
+Machine A/Slides2_ROI_09,385@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129998.3359375,-199074.625,3
+Machine A/Slides2_ROI_09,386@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130494.46875,-199076.90625,0
+Machine A/Slides2_ROI_09,387@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129451.3125,-199077.640625,6
+Machine A/Slides2_ROI_09,388@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130688.4765625,-199080.6875,6
+Machine A/Slides2_ROI_09,389@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130842.0546875,-199076.640625,8
+Machine A/Slides2_ROI_09,390@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131475.390625,-199081.453125,6
+Machine A/Slides2_ROI_09,391@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129490.359375,-199082.5625,6
+Machine A/Slides2_ROI_09,392@1,15.0,Mast cells,Mast cells,Myeloid,,machine_A,129709.625,-199082.625,7
+Machine A/Slides2_ROI_09,393@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129834.203125,-199085.46875,6
+Machine A/Slides2_ROI_09,394@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131547.140625,-199083.484375,8
+Machine A/Slides2_ROI_09,395@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129365.359375,-199085.125,8
+Machine A/Slides2_ROI_09,396@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129308.8984375,-199089.6875,8
+Machine A/Slides2_ROI_09,397@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129883.0703125,-199090.875,6
+Machine A/Slides2_ROI_09,398@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131149.375,-199090.171875,6
+Machine A/Slides2_ROI_09,399@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129205.46875,-199093.453125,8
+Machine A/Slides2_ROI_09,400@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130940.0078125,-199090.546875,8
+Machine A/Slides2_ROI_09,401@1,10.0,Erythroid,Erythroid,Erythroid,,machine_A,131084.03125,-199091.46875,9
+Machine A/Slides2_ROI_09,402@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,128994.609375,-199095.515625,18
+Machine A/Slides2_ROI_09,403@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129607.859375,-199099.75,8
+Machine A/Slides2_ROI_09,404@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129773.203125,-199097.21875,6
+Machine A/Slides2_ROI_09,405@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130208.7109375,-199095.140625,6
+Machine A/Slides2_ROI_09,406@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130793.703125,-199100.328125,8
+Machine A/Slides2_ROI_09,407@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131576.828125,-199103.28125,8
+Machine A/Slides2_ROI_09,408@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130411.6328125,-199096.6875,8
+Machine A/Slides2_ROI_09,409@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130516.4140625,-199101.0625,8
+Machine A/Slides2_ROI_09,410@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130655.859375,-199100.640625,3
+Machine A/Slides2_ROI_09,411@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130141.796875,-199105.890625,6
+Machine A/Slides2_ROI_09,412@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,128908.4140625,-199105.53125,3
+Machine A/Slides2_ROI_09,413@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129531.0703125,-199107.859375,3
+Machine A/Slides2_ROI_09,414@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131312.734375,-199105.796875,8
+Machine A/Slides2_ROI_09,415@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130551.1953125,-199110.6875,8
+Machine A/Slides2_ROI_09,416@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,131181.0625,-199110.390625,3
+Machine A/Slides2_ROI_09,417@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131231.671875,-199109.578125,6
+Machine A/Slides2_ROI_09,418@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,130006.296875,-199110.8125,18
+Machine A/Slides2_ROI_09,419@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130097.3203125,-199108.671875,6
+Machine A/Slides2_ROI_09,420@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130345.1328125,-199115.96875,6
+Machine A/Slides2_ROI_09,421@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129269.84375,-199110.546875,6
+Machine A/Slides2_ROI_09,422@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,131392.375,-199113.671875,3
+Machine A/Slides2_ROI_09,423@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129890.5859375,-199120.84375,6
+Machine A/Slides2_ROI_09,424@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130736.8359375,-199124.234375,3
+Machine A/Slides2_ROI_09,425@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129560.7109375,-199122.640625,3
+Machine A/Slides2_ROI_09,426@1,15.0,Mast cells,Mast cells,Myeloid,,machine_A,130588.3125,-199125.609375,7
+Machine A/Slides2_ROI_09,427@1,10.0,Erythroid,Erythroid,Erythroid,,machine_A,131076.859375,-199123.46875,9
+Machine A/Slides2_ROI_09,428@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129921.8671875,-199129.21875,3
+Machine A/Slides2_ROI_09,429@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129959.8984375,-199128.09375,3
+Machine A/Slides2_ROI_09,430@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130249.609375,-199127.9375,3
+Machine A/Slides2_ROI_09,431@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130410.9609375,-199128.453125,6
+Machine A/Slides2_ROI_09,432@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129361.46875,-199131.78125,3
+Machine A/Slides2_ROI_09,433@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129434.453125,-199128.875,6
+Machine A/Slides2_ROI_09,434@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129590.9921875,-199128.375,3
+Machine A/Slides2_ROI_09,435@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130500.9921875,-199129.578125,8
+Machine A/Slides2_ROI_09,436@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130883.0625,-199132.953125,6
+Machine A/Slides2_ROI_09,437@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,131519.96875,-199130.375,10
+Machine A/Slides2_ROI_09,438@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129173.453125,-199132.5625,8
+Machine A/Slides2_ROI_09,439@1,15.0,Mast cells,Mast cells,Myeloid,,machine_A,129761.1171875,-199132.625,7
+Machine A/Slides2_ROI_09,440@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131043.984375,-199133.203125,6
+Machine A/Slides2_ROI_09,441@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129491.8046875,-199133.921875,3
+Machine A/Slides2_ROI_09,442@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129862.96875,-199138.1875,6
+Machine A/Slides2_ROI_09,443@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130291.75,-199138.65625,8
+Machine A/Slides2_ROI_09,444@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131103.765625,-199135.625,6
+Machine A/Slides2_ROI_09,445@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131333.0625,-199133.5625,8
+Machine A/Slides2_ROI_09,446@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130617.03125,-199141.0625,6
+Machine A/Slides2_ROI_09,447@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130690.9296875,-199143.0625,3
+Machine A/Slides2_ROI_09,448@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129319.734375,-199149.578125,6
+Machine A/Slides2_ROI_09,449@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129629.515625,-199149.5,6
+Machine A/Slides2_ROI_09,450@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130064.9609375,-199149.90625,3
+Machine A/Slides2_ROI_09,451@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130652.9453125,-199147.6875,6
+Machine A/Slides2_ROI_09,452@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,128849.1328125,-199150.921875,3
+Machine A/Slides2_ROI_09,453@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129344.5703125,-199151.84375,3
+Machine A/Slides2_ROI_09,454@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130135.8671875,-199150.25,3
+Machine A/Slides2_ROI_09,455@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130451.7109375,-199149.53125,6
+Machine A/Slides2_ROI_09,456@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,131145.859375,-199150.8125,3
+Machine A/Slides2_ROI_09,457@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,131177.375,-199153.171875,3
+Machine A/Slides2_ROI_09,458@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131366.9375,-199151.484375,8
+Machine A/Slides2_ROI_09,459@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,131438.265625,-199149.0625,3
+Machine A/Slides2_ROI_09,460@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130233.1171875,-199151.15625,6
+Machine A/Slides2_ROI_09,461@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130777.3125,-199153.75,8
+Machine A/Slides2_ROI_09,462@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131572.875,-199153.96875,6
+Machine A/Slides2_ROI_09,463@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129891.6796875,-199154.921875,3
+Machine A/Slides2_ROI_09,464@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129718.53125,-199159.0,6
+Machine A/Slides2_ROI_09,465@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130196.96875,-199157.390625,0
+Machine A/Slides2_ROI_09,466@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130340.328125,-199157.703125,6
+Machine A/Slides2_ROI_09,467@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130375.9453125,-199160.96875,6
+Machine A/Slides2_ROI_09,468@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,131024.6796875,-199167.8125,1
+Machine A/Slides2_ROI_09,469@1,20.0,NPM1_blasts,NPM1_blasts,Leukemia,(a) v2 Tumor: AML monocytic differentiated,machine_A,131272.796875,-199160.703125,10
+Machine A/Slides2_ROI_09,470@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130002.34375,-199162.40625,6
+Machine A/Slides2_ROI_09,471@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130420.1953125,-199158.671875,6
+Machine A/Slides2_ROI_09,472@1,15.0,Mast cells,Mast cells,Myeloid,,machine_A,130558.8046875,-199161.578125,7
+Machine A/Slides2_ROI_09,473@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,130917.5703125,-199158.625,1
+Machine A/Slides2_ROI_09,474@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129950.1171875,-199163.328125,3
+Machine A/Slides2_ROI_09,475@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130746.984375,-199163.640625,8
+Machine A/Slides2_ROI_09,476@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130949.3046875,-199163.90625,6
+Machine A/Slides2_ROI_09,477@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131325.96875,-199163.421875,8
+Machine A/Slides2_ROI_09,478@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,128906.15625,-199170.125,3
+Machine A/Slides2_ROI_09,479@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129525.8125,-199169.453125,3
+Machine A/Slides2_ROI_09,480@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130504.796875,-199166.53125,3
+Machine A/Slides2_ROI_09,481@1,20.0,NPM1_blasts,NPM1_blasts,Leukemia,(a) v2 Tumor: AML monocytic differentiated,machine_A,131483.8125,-199166.359375,10
+Machine A/Slides2_ROI_09,482@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129751.75,-199170.484375,3
+Machine A/Slides2_ROI_09,483@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129843.90625,-199172.96875,3
+Machine A/Slides2_ROI_09,484@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,130869.90625,-199168.875,1
+Machine A/Slides2_ROI_09,485@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129450.6953125,-199173.34375,3
+Machine A/Slides2_ROI_09,486@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131205.8125,-199174.03125,8
+Machine A/Slides2_ROI_09,487@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,131548.375,-199172.765625,3
+Machine A/Slides2_ROI_09,488@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130277.328125,-199177.4375,6
+Machine A/Slides2_ROI_09,489@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130627.1875,-199180.359375,6
+Machine A/Slides2_ROI_09,490@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,130981.2578125,-199175.59375,1
+Machine A/Slides2_ROI_09,491@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128737.4453125,-199179.4375,6
+Machine A/Slides2_ROI_09,492@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129210.7265625,-199177.671875,6
+Machine A/Slides2_ROI_09,493@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,128946.8203125,-199181.875,3
+Machine A/Slides2_ROI_09,494@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129125.5,-199180.453125,3
+Machine A/Slides2_ROI_09,495@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129256.84375,-199180.859375,3
+Machine A/Slides2_ROI_09,496@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129375.1875,-199185.15625,3
+Machine A/Slides2_ROI_09,497@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129897.265625,-199179.953125,6
+Machine A/Slides2_ROI_09,498@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,128837.078125,-199188.71875,3
+Machine A/Slides2_ROI_09,499@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129582.796875,-199190.40625,6
+Machine A/Slides2_ROI_09,500@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129659.3046875,-199184.8125,3
+Machine A/Slides2_ROI_09,501@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130767.3125,-199185.25,6
+Machine A/Slides2_ROI_09,502@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129966.96875,-199188.484375,3
+Machine A/Slides2_ROI_09,503@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130136.8515625,-199193.484375,3
+Machine A/Slides2_ROI_09,504@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131088.359375,-199191.125,6
+Machine A/Slides2_ROI_09,505@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129402.359375,-199193.046875,3
+Machine A/Slides2_ROI_09,506@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130464.5546875,-199190.625,6
+Machine A/Slides2_ROI_09,507@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130596.4921875,-199193.453125,8
+Machine A/Slides2_ROI_09,508@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131342.109375,-199189.71875,8
+Machine A/Slides2_ROI_09,509@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128758.3359375,-199193.96875,6
+Machine A/Slides2_ROI_09,510@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129500.375,-199198.9375,3
+Machine A/Slides2_ROI_09,511@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129790.5625,-199196.421875,3
+Machine A/Slides2_ROI_09,512@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130723.78125,-199195.953125,3
+Machine A/Slides2_ROI_09,513@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,130826.7109375,-199195.578125,18
+Machine A/Slides2_ROI_09,514@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131111.859375,-199204.265625,6
+Machine A/Slides2_ROI_09,515@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130077.421875,-199204.203125,0
+Machine A/Slides2_ROI_09,516@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130169.46875,-199202.984375,3
+Machine A/Slides2_ROI_09,517@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131472.65625,-199203.09375,8
+Machine A/Slides2_ROI_09,518@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129621.6484375,-199203.921875,8
+Machine A/Slides2_ROI_09,519@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130791.3125,-199204.15625,6
+Machine A/Slides2_ROI_09,520@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131181.4375,-199205.96875,8
+Machine A/Slides2_ROI_09,521@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128894.078125,-199213.125,6
+Machine A/Slides2_ROI_09,522@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129837.84375,-199206.96875,3
+Machine A/Slides2_ROI_09,523@1,22.0,NPM1_blasts,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Leukemic erythroid blast,machine_A,131526.578125,-199210.359375,10
+Machine A/Slides2_ROI_09,524@1,16.0,MSC,MSC,Stromal,,machine_A,130677.9609375,-199214.53125,13
+Machine A/Slides2_ROI_09,525@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130996.359375,-199209.3125,3
+Machine A/Slides2_ROI_09,526@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,131258.03125,-199215.015625,3
+Machine A/Slides2_ROI_09,527@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128793.2265625,-199217.5625,6
+Machine A/Slides2_ROI_09,528@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128853.421875,-199214.984375,6
+Machine A/Slides2_ROI_09,529@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129322.96875,-199214.90625,8
+Machine A/Slides2_ROI_09,530@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130214.140625,-199210.90625,6
+Machine A/Slides2_ROI_09,531@1,13.0,MSC,MSC,Stromal,,machine_A,130234.5703125,-199230.5625,13
+Machine A/Slides2_ROI_09,532@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130557.2578125,-199220.140625,8
+Machine A/Slides2_ROI_09,533@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130751.34375,-199216.125,6
+Machine A/Slides2_ROI_09,534@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130893.1953125,-199215.625,6
+Machine A/Slides2_ROI_09,535@1,11.0,MSC,MSC,Stromal,,machine_A,130950.3671875,-199215.625,13
+Machine A/Slides2_ROI_09,536@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128926.3828125,-199217.015625,8
+Machine A/Slides2_ROI_09,537@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,130313.9609375,-199219.609375,7
+Machine A/Slides2_ROI_09,538@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130716.9453125,-199221.84375,3
+Machine A/Slides2_ROI_09,539@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128823.78125,-199223.828125,8
+Machine A/Slides2_ROI_09,540@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129595.546875,-199225.203125,6
+Machine A/Slides2_ROI_09,541@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,129745.1953125,-199214.484375,1
+Machine A/Slides2_ROI_09,542@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129881.46875,-199222.09375,3
+Machine A/Slides2_ROI_09,543@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129642.484375,-199221.4375,8
+Machine A/Slides2_ROI_09,544@1,15.0,Mast cells,Mast cells,Myeloid,,machine_A,130618.5546875,-199224.484375,7
+Machine A/Slides2_ROI_09,545@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131384.9375,-199225.078125,8
+Machine A/Slides2_ROI_09,546@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128663.5234375,-199227.796875,6
+Machine A/Slides2_ROI_09,547@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128728.3046875,-199217.546875,6
+Machine A/Slides2_ROI_09,548@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131093.828125,-199228.78125,6
+Machine A/Slides2_ROI_09,549@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128759.0390625,-199229.703125,6
+Machine A/Slides2_ROI_09,550@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129501.9765625,-199231.0625,3
+Machine A/Slides2_ROI_09,551@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129716.734375,-199228.9375,8
+Machine A/Slides2_ROI_09,552@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130104.859375,-199229.421875,3
+Machine A/Slides2_ROI_09,553@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130531.3203125,-199232.765625,8
+Machine A/Slides2_ROI_09,554@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130863.328125,-199228.609375,8
+Machine A/Slides2_ROI_09,555@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131032.4921875,-199230.25,6
+Machine A/Slides2_ROI_09,556@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129934.875,-199233.734375,3
+Machine A/Slides2_ROI_09,557@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130061.0390625,-199232.34375,3
+Machine A/Slides2_ROI_09,558@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130464.8828125,-199236.140625,8
+Machine A/Slides2_ROI_09,559@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131137.703125,-199229.734375,6
+Machine A/Slides2_ROI_09,560@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131298.75,-199231.875,6
+Machine A/Slides2_ROI_09,561@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130157.6875,-199237.125,3
+Machine A/Slides2_ROI_09,562@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,129093.4140625,-199248.640625,12
+Machine A/Slides2_ROI_09,563@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129364.0390625,-199237.296875,3
+Machine A/Slides2_ROI_09,564@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129468.34375,-199239.40625,8
+Machine A/Slides2_ROI_09,565@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130736.3203125,-199236.734375,6
+Machine A/Slides2_ROI_09,566@1,,NPM1_blasts,NPM1_blasts,Leukemia,,machine_A,131459.140625,-199238.6875,10
+Machine A/Slides2_ROI_09,567@1,22.0,NPM1_blasts,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Leukemic erythroid blast,machine_A,131505.015625,-199236.40625,10
+Machine A/Slides2_ROI_09,568@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128992.671875,-199244.03125,8
+Machine A/Slides2_ROI_09,569@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129206.1171875,-199246.0625,6
+Machine A/Slides2_ROI_09,570@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131568.8125,-199241.109375,8
+Machine A/Slides2_ROI_09,571@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129429.2890625,-199238.859375,8
+Machine A/Slides2_ROI_09,572@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129543.625,-199244.3125,3
+Machine A/Slides2_ROI_09,573@1,15.0,Mast cells,Mast cells,Myeloid,,machine_A,130683.3203125,-199244.9375,7
+Machine A/Slides2_ROI_09,574@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129985.7265625,-199248.53125,3
+Machine A/Slides2_ROI_09,575@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129875.7109375,-199247.8125,3
+Machine A/Slides2_ROI_09,576@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130443.390625,-199251.3125,3
+Machine A/Slides2_ROI_09,577@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130495.28125,-199251.21875,0
+Machine A/Slides2_ROI_09,578@1,10.0,Erythroid,Erythroid,Erythroid,,machine_A,130799.4453125,-199250.015625,9
+Machine A/Slides2_ROI_09,579@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130906.9921875,-199249.0,6
+Machine A/Slides2_ROI_09,580@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131116.984375,-199247.875,6
+Machine A/Slides2_ROI_09,581@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,131242.921875,-199254.09375,3
+Machine A/Slides2_ROI_09,582@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128831.1484375,-199252.75,6
+Machine A/Slides2_ROI_09,583@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130629.21875,-199256.203125,6
+Machine A/Slides2_ROI_09,584@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131012.7421875,-199252.078125,8
+Machine A/Slides2_ROI_09,585@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,128891.0234375,-199257.328125,0
+Machine A/Slides2_ROI_09,586@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130119.5703125,-199259.09375,0
+Machine A/Slides2_ROI_09,587@1,10.0,Erythroid,Erythroid,Erythroid,,machine_A,130834.171875,-199259.90625,9
+Machine A/Slides2_ROI_09,588@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129036.0703125,-199265.484375,6
+Machine A/Slides2_ROI_09,589@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130299.7890625,-199261.96875,6
+Machine A/Slides2_ROI_09,590@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130529.15625,-199263.515625,6
+Machine A/Slides2_ROI_09,591@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130759.546875,-199265.140625,6
+Machine A/Slides2_ROI_09,592@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130941.59375,-199269.140625,3
+Machine A/Slides2_ROI_09,593@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129492.8359375,-199265.5,3
+Machine A/Slides2_ROI_09,594@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129790.2265625,-199268.296875,6
+Machine A/Slides2_ROI_09,595@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130041.3984375,-199259.90625,6
+Machine A/Slides2_ROI_09,596@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130392.296875,-199268.0,6
+Machine A/Slides2_ROI_09,597@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131356.09375,-199267.125,6
+Machine A/Slides2_ROI_09,598@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,128605.9375,-199270.1875,10
+Machine A/Slides2_ROI_09,599@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131090.6875,-199265.90625,6
+Machine A/Slides2_ROI_09,600@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129553.109375,-199271.0625,3
+Machine A/Slides2_ROI_09,601@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130237.8984375,-199273.4375,6
+Machine A/Slides2_ROI_09,602@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130333.328125,-199263.609375,6
+Machine A/Slides2_ROI_09,603@1,19.0,Unassigned/Other,NPM1_blasts,Leukemia,(a) v2 Tumor: Quiescent AML blast,machine_A,131588.25,-199272.15625,10
+Machine A/Slides2_ROI_09,604@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128748.3515625,-199286.109375,6
+Machine A/Slides2_ROI_09,605@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129270.4296875,-199278.171875,8
+Machine A/Slides2_ROI_09,606@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,129839.6328125,-199279.59375,0
+Machine A/Slides2_ROI_09,607@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131394.625,-199273.015625,6
+Machine A/Slides2_ROI_09,608@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131491.09375,-199273.625,6
+Machine A/Slides2_ROI_09,609@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129345.0546875,-199292.28125,3
+Machine A/Slides2_ROI_09,610@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129576.3359375,-199281.84375,3
+Machine A/Slides2_ROI_09,611@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130170.7421875,-199280.4375,6
+Machine A/Slides2_ROI_09,612@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130585.3515625,-199281.65625,8
+Machine A/Slides2_ROI_09,613@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131133.296875,-199279.109375,6
+Machine A/Slides2_ROI_09,614@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129873.1484375,-199285.921875,3
+Machine A/Slides2_ROI_09,615@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129985.5625,-199278.984375,6
+Machine A/Slides2_ROI_09,616@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128558.3359375,-199287.21875,6
+Machine A/Slides2_ROI_09,617@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129406.96875,-199290.1875,8
+Machine A/Slides2_ROI_09,618@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130497.03125,-199284.65625,8
+Machine A/Slides2_ROI_09,619@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131521.421875,-199285.734375,6
+Machine A/Slides2_ROI_09,620@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,128647.4375,-199290.390625,3
+Machine A/Slides2_ROI_09,621@1,8.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,128915.15625,-199294.609375,0
+Machine A/Slides2_ROI_09,622@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,129104.484375,-199289.21875,12
+Machine A/Slides2_ROI_09,623@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,131231.9375,-199291.28125,3
+Machine A/Slides2_ROI_09,624@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130894.484375,-199293.0625,6
+Machine A/Slides2_ROI_09,625@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129507.46875,-199294.75,8
+Machine A/Slides2_ROI_09,626@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130027.8671875,-199290.0625,6
+Machine A/Slides2_ROI_09,627@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130452.7578125,-199293.796875,3
+Machine A/Slides2_ROI_09,628@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128681.7109375,-199298.828125,6
+Machine A/Slides2_ROI_09,629@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129189.203125,-199295.875,8
+Machine A/Slides2_ROI_09,630@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130624.921875,-199298.609375,3
+Machine A/Slides2_ROI_09,631@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131274.625,-199301.9375,6
+Machine A/Slides2_ROI_09,632@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128615.3359375,-199298.546875,6
+Machine A/Slides2_ROI_09,633@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128847.9921875,-199300.953125,6
+Machine A/Slides2_ROI_09,634@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129462.984375,-199301.484375,3
+Machine A/Slides2_ROI_09,635@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129765.96875,-199299.921875,3
+Machine A/Slides2_ROI_09,636@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129909.8515625,-199302.171875,6
+Machine A/Slides2_ROI_09,637@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130129.109375,-199298.453125,8
+Machine A/Slides2_ROI_09,638@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130258.2265625,-199301.328125,3
+Machine A/Slides2_ROI_09,639@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,130708.7109375,-199302.875,4
+Machine A/Slides2_ROI_09,640@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130931.796875,-199300.5,6
+Machine A/Slides2_ROI_09,641@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129285.9609375,-199301.15625,8
+Machine A/Slides2_ROI_09,642@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129702.6953125,-199306.65625,3
+Machine A/Slides2_ROI_09,643@1,15.0,Mast cells,Mast cells,Myeloid,,machine_A,131055.3125,-199305.875,7
+Machine A/Slides2_ROI_09,644@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131466.96875,-199304.828125,6
+Machine A/Slides2_ROI_09,645@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128528.203125,-199309.15625,6
+Machine A/Slides2_ROI_09,646@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129831.5078125,-199307.703125,6
+Machine A/Slides2_ROI_09,647@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130532.546875,-199311.65625,3
+Machine A/Slides2_ROI_09,648@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130995.5,-199311.765625,8
+Machine A/Slides2_ROI_09,649@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130600.984375,-199313.15625,3
+Machine A/Slides2_ROI_09,650@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130767.8125,-199315.34375,3
+Machine A/Slides2_ROI_09,651@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131190.09375,-199310.671875,6
+Machine A/Slides2_ROI_09,652@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129953.0390625,-199317.828125,6
+Machine A/Slides2_ROI_09,653@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129435.1484375,-199314.984375,8
+Machine A/Slides2_ROI_09,654@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129658.2578125,-199319.109375,3
+Machine A/Slides2_ROI_09,655@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129734.3203125,-199318.09375,3
+Machine A/Slides2_ROI_09,656@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129886.3046875,-199315.5625,6
+Machine A/Slides2_ROI_09,657@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130377.609375,-199318.609375,8
+Machine A/Slides2_ROI_09,658@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130558.390625,-199318.8125,3
+Machine A/Slides2_ROI_09,659@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131367.84375,-199318.859375,6
+Machine A/Slides2_ROI_09,660@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129012.171875,-199315.609375,3
+Machine A/Slides2_ROI_09,661@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129225.765625,-199320.03125,3
+Machine A/Slides2_ROI_09,662@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129992.546875,-199324.046875,6
+Machine A/Slides2_ROI_09,663@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130300.8515625,-199322.109375,3
+Machine A/Slides2_ROI_09,664@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,128983.40625,-199321.25,1
+Machine A/Slides2_ROI_09,665@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131296.515625,-199322.125,6
+Machine A/Slides2_ROI_09,666@1,,Macrophages,Macrophages,Myeloid,,machine_A,128935.8828125,-199328.234375,6
+Machine A/Slides2_ROI_09,667@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129380.328125,-199333.53125,8
+Machine A/Slides2_ROI_09,668@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129805.1015625,-199328.703125,8
+Machine A/Slides2_ROI_09,669@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,130225.296875,-199329.890625,7
+Machine A/Slides2_ROI_09,670@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128601.453125,-199328.53125,6
+Machine A/Slides2_ROI_09,671@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129935.5,-199326.671875,3
+Machine A/Slides2_ROI_09,672@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130272.3359375,-199329.109375,3
+Machine A/Slides2_ROI_09,673@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130630.609375,-199329.15625,3
+Machine A/Slides2_ROI_09,674@1,15.0,Mast cells,Mast cells,Myeloid,,machine_A,130811.3828125,-199329.515625,7
+Machine A/Slides2_ROI_09,675@1,11.0,MSC,MSC,Stromal,,machine_A,131128.984375,-199331.5625,13
+Machine A/Slides2_ROI_09,676@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131263.875,-199332.75,6
+Machine A/Slides2_ROI_09,677@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131489.046875,-199330.78125,6
+Machine A/Slides2_ROI_09,678@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,129034.734375,-199328.046875,12
+Machine A/Slides2_ROI_09,679@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,129527.890625,-199334.0625,18
+Machine A/Slides2_ROI_09,680@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,130203.6484375,-199331.203125,7
+Machine A/Slides2_ROI_09,681@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130412.5078125,-199332.6875,0
+Machine A/Slides2_ROI_09,682@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130951.640625,-199330.96875,3
+Machine A/Slides2_ROI_09,683@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131561.1875,-199332.671875,6
+Machine A/Slides2_ROI_09,684@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128508.5859375,-199335.15625,6
+Machine A/Slides2_ROI_09,685@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,129112.359375,-199331.84375,12
+Machine A/Slides2_ROI_09,686@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129709.9375,-199335.5625,6
+Machine A/Slides2_ROI_09,687@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130534.140625,-199336.359375,6
+Machine A/Slides2_ROI_09,688@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128470.8125,-199337.359375,6
+Machine A/Slides2_ROI_09,689@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129909.3828125,-199337.40625,8
+Machine A/Slides2_ROI_09,690@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129327.3515625,-199342.25,6
+Machine A/Slides2_ROI_09,691@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128568.8515625,-199348.921875,6
+Machine A/Slides2_ROI_09,692@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,128886.78125,-199347.140625,1
+Machine A/Slides2_ROI_09,693@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,129200.7421875,-199347.703125,12
+Machine A/Slides2_ROI_09,694@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130662.2109375,-199347.265625,3
+Machine A/Slides2_ROI_09,695@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130929.1484375,-199349.125,6
+Machine A/Slides2_ROI_09,696@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131023.203125,-199347.65625,8
+Machine A/Slides2_ROI_09,697@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128605.953125,-199349.0625,6
+Machine A/Slides2_ROI_09,698@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128917.4453125,-199348.109375,6
+Machine A/Slides2_ROI_09,699@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129571.34375,-199353.328125,6
+Machine A/Slides2_ROI_09,700@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130358.578125,-199346.734375,6
+Machine A/Slides2_ROI_09,701@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130465.8203125,-199349.515625,0
+Machine A/Slides2_ROI_09,702@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130599.65625,-199348.421875,3
+Machine A/Slides2_ROI_09,703@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,129004.1953125,-199347.765625,12
+Machine A/Slides2_ROI_09,704@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130021.3046875,-199357.015625,8
+Machine A/Slides2_ROI_09,705@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130728.6015625,-199351.3125,3
+Machine A/Slides2_ROI_09,706@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131381.296875,-199350.828125,6
+Machine A/Slides2_ROI_09,707@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,129057.1796875,-199353.953125,12
+Machine A/Slides2_ROI_09,708@1,5.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,129660.203125,-199351.6875,2
+Machine A/Slides2_ROI_09,709@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129737.828125,-199354.171875,6
+Machine A/Slides2_ROI_09,710@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,130767.109375,-199354.59375,7
+Machine A/Slides2_ROI_09,711@1,11.0,MSC,MSC,Stromal,,machine_A,131149.8125,-199354.734375,13
+Machine A/Slides2_ROI_09,712@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131509.828125,-199355.390625,8
+Machine A/Slides2_ROI_09,713@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128799.859375,-199360.0,6
+Machine A/Slides2_ROI_09,714@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130518.8671875,-199359.703125,3
+Machine A/Slides2_ROI_09,715@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130857.40625,-199363.03125,6
+Machine A/Slides2_ROI_09,716@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131305.15625,-199361.046875,8
+Machine A/Slides2_ROI_09,717@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,129512.0,-199360.875,1
+Machine A/Slides2_ROI_09,718@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,128470.90625,-199366.984375,1
+Machine A/Slides2_ROI_09,719@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129801.5078125,-199363.5,8
+Machine A/Slides2_ROI_09,720@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130410.8359375,-199360.453125,0
+Machine A/Slides2_ROI_09,721@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130897.6328125,-199363.984375,3
+Machine A/Slides2_ROI_09,722@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129281.6328125,-199365.734375,3
+Machine A/Slides2_ROI_09,723@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129707.0,-199365.015625,6
+Machine A/Slides2_ROI_09,724@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131418.171875,-199355.453125,6
+Machine A/Slides2_ROI_09,725@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128509.3828125,-199368.875,6
+Machine A/Slides2_ROI_09,726@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128979.9140625,-199368.640625,6
+Machine A/Slides2_ROI_09,727@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,131188.109375,-199369.984375,0
+Machine A/Slides2_ROI_09,728@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128829.0234375,-199368.515625,6
+Machine A/Slides2_ROI_09,729@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,128860.0390625,-199371.046875,18
+Machine A/Slides2_ROI_09,730@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129371.4765625,-199372.453125,8
+Machine A/Slides2_ROI_09,731@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,129545.25,-199371.375,1
+Machine A/Slides2_ROI_09,732@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129887.796875,-199370.46875,8
+Machine A/Slides2_ROI_09,733@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130316.15625,-199374.65625,8
+Machine A/Slides2_ROI_09,734@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,131231.625,-199375.03125,3
+Machine A/Slides2_ROI_09,735@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,129151.046875,-199378.96875,12
+Machine A/Slides2_ROI_09,736@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129236.0078125,-199378.0625,3
+Machine A/Slides2_ROI_09,737@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130433.8671875,-199373.875,0
+Machine A/Slides2_ROI_09,738@1,11.0,MSC,MSC,Stromal,,machine_A,131453.671875,-199376.28125,13
+Machine A/Slides2_ROI_09,739@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131545.421875,-199380.703125,8
+Machine A/Slides2_ROI_09,740@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129402.703125,-199380.078125,8
+Machine A/Slides2_ROI_09,741@1,10.0,Erythroid,Erythroid,Erythroid,,machine_A,129599.0859375,-199380.671875,9
+Machine A/Slides2_ROI_09,742@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130677.8046875,-199382.671875,3
+Machine A/Slides2_ROI_09,743@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130949.578125,-199380.90625,8
+Machine A/Slides2_ROI_09,744@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131011.3125,-199381.0,6
+Machine A/Slides2_ROI_09,745@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131583.53125,-199380.890625,8
+Machine A/Slides2_ROI_09,746@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128411.6796875,-199385.125,6
+Machine A/Slides2_ROI_09,747@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,129101.609375,-199387.765625,12
+Machine A/Slides2_ROI_09,748@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129777.484375,-199386.875,6
+Machine A/Slides2_ROI_09,749@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130247.296875,-199387.203125,6
+Machine A/Slides2_ROI_09,750@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131040.7890625,-199391.03125,8
+Machine A/Slides2_ROI_09,751@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,131358.296875,-199385.6875,3
+Machine A/Slides2_ROI_09,752@1,15.0,Mast cells,Mast cells,Myeloid,,machine_A,130193.484375,-199393.03125,7
+Machine A/Slides2_ROI_09,753@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130777.4765625,-199397.71875,0
+Machine A/Slides2_ROI_09,754@1,,Endothelial,Endothelial,Stromal,,machine_A,130823.03125,-199390.59375,12
+Machine A/Slides2_ROI_09,755@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130874.5390625,-199391.453125,3
+Machine A/Slides2_ROI_09,756@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128539.140625,-199387.71875,6
+Machine A/Slides2_ROI_09,757@1,16.0,MSC,MSC,Stromal,,machine_A,129954.0859375,-199396.078125,13
+Machine A/Slides2_ROI_09,758@1,22.0,NPM1_blasts,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Leukemic erythroid blast,machine_A,130476.5703125,-199394.65625,10
+Machine A/Slides2_ROI_09,759@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130523.0,-199395.421875,3
+Machine A/Slides2_ROI_09,760@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128759.8046875,-199399.796875,6
+Machine A/Slides2_ROI_09,761@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129204.390625,-199390.609375,3
+Machine A/Slides2_ROI_09,762@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,129506.703125,-199399.515625,0
+Machine A/Slides2_ROI_09,763@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131299.890625,-199395.765625,6
+Machine A/Slides2_ROI_09,764@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131488.71875,-199401.28125,6
+Machine A/Slides2_ROI_09,765@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128653.2109375,-199401.4375,6
+Machine A/Slides2_ROI_09,766@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128949.609375,-199402.546875,8
+Machine A/Slides2_ROI_09,767@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130564.796875,-199401.34375,8
+Machine A/Slides2_ROI_09,768@1,11.0,MSC,MSC,Stromal,,machine_A,130993.2578125,-199400.4375,13
+Machine A/Slides2_ROI_09,769@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,131122.09375,-199402.703125,3
+Machine A/Slides2_ROI_09,770@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128461.9453125,-199401.90625,6
+Machine A/Slides2_ROI_09,771@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128829.640625,-199403.53125,8
+Machine A/Slides2_ROI_09,772@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,129162.96875,-199404.328125,12
+Machine A/Slides2_ROI_09,773@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131209.046875,-199402.484375,6
+Machine A/Slides2_ROI_09,774@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128611.8359375,-199408.65625,8
+Machine A/Slides2_ROI_09,775@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,129303.828125,-199409.5625,1
+Machine A/Slides2_ROI_09,776@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129364.3671875,-199408.0,3
+Machine A/Slides2_ROI_09,777@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129795.4921875,-199406.90625,3
+Machine A/Slides2_ROI_09,778@1,8.0,Mast cells,Mast cells,Myeloid,,machine_A,130274.140625,-199405.03125,7
+Machine A/Slides2_ROI_09,779@1,8.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,130346.6015625,-199411.5625,18
+Machine A/Slides2_ROI_09,780@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130651.9296875,-199406.03125,3
+Machine A/Slides2_ROI_09,781@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,131407.265625,-199407.828125,12
+Machine A/Slides2_ROI_09,782@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,128429.453125,-199406.5,1
+Machine A/Slides2_ROI_09,783@1,5.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,130041.609375,-199409.140625,2
+Machine A/Slides2_ROI_09,784@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130845.8828125,-199407.34375,3
+Machine A/Slides2_ROI_09,785@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128917.0078125,-199414.5,8
+Machine A/Slides2_ROI_09,786@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129886.09375,-199414.265625,8
+Machine A/Slides2_ROI_09,787@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130914.484375,-199411.171875,3
+Machine A/Slides2_ROI_09,788@1,5.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,131528.515625,-199410.015625,2
+Machine A/Slides2_ROI_09,789@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128362.6484375,-199415.78125,6
+Machine A/Slides2_ROI_09,790@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128686.0703125,-199412.28125,6
+Machine A/Slides2_ROI_09,791@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129019.25,-199418.59375,8
+Machine A/Slides2_ROI_09,792@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129728.0390625,-199422.859375,8
+Machine A/Slides2_ROI_09,793@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129919.2578125,-199418.984375,3
+Machine A/Slides2_ROI_09,794@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130605.0234375,-199417.875,0
+Machine A/Slides2_ROI_09,795@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,131177.421875,-199427.453125,10
+Machine A/Slides2_ROI_09,796@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128750.3359375,-199421.734375,6
+Machine A/Slides2_ROI_09,797@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,129110.1796875,-199420.046875,12
+Machine A/Slides2_ROI_09,798@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129490.09375,-199426.625,6
+Machine A/Slides2_ROI_09,799@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130500.84375,-199423.0,3
+Machine A/Slides2_ROI_09,800@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130727.21875,-199424.640625,3
+Machine A/Slides2_ROI_09,801@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128585.984375,-199430.890625,8
+Machine A/Slides2_ROI_09,802@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129770.7421875,-199428.15625,8
+Machine A/Slides2_ROI_09,803@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,128652.5,-199430.953125,3
+Machine A/Slides2_ROI_09,804@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128842.625,-199427.890625,6
+Machine A/Slides2_ROI_09,805@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129691.0078125,-199434.890625,6
+Machine A/Slides2_ROI_09,806@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,130410.78125,-199431.140625,10
+Machine A/Slides2_ROI_09,807@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131326.421875,-199430.8125,6
+Machine A/Slides2_ROI_09,808@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128787.1640625,-199431.15625,8
+Machine A/Slides2_ROI_09,809@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130969.4609375,-199432.109375,3
+Machine A/Slides2_ROI_09,810@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,128312.0,-199438.015625,0
+Machine A/Slides2_ROI_09,811@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129815.1640625,-199426.875,8
+Machine A/Slides2_ROI_09,812@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130124.8671875,-199436.515625,0
+Machine A/Slides2_ROI_09,813@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130771.2421875,-199432.609375,3
+Machine A/Slides2_ROI_09,814@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130812.796875,-199433.328125,0
+Machine A/Slides2_ROI_09,815@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131096.96875,-199430.390625,8
+Machine A/Slides2_ROI_09,816@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131273.046875,-199435.953125,6
+Machine A/Slides2_ROI_09,817@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131413.109375,-199433.984375,8
+Machine A/Slides2_ROI_09,818@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129136.015625,-199436.453125,3
+Machine A/Slides2_ROI_09,819@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,129430.6171875,-199443.21875,0
+Machine A/Slides2_ROI_09,820@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,129589.34375,-199437.3125,12
+Machine A/Slides2_ROI_09,821@1,15.0,Mast cells,Mast cells,Myeloid,,machine_A,130197.765625,-199437.234375,7
+Machine A/Slides2_ROI_09,822@1,5.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,131551.28125,-199438.03125,2
+Machine A/Slides2_ROI_09,823@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128814.140625,-199430.375,6
+Machine A/Slides2_ROI_09,824@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,128955.4609375,-199440.421875,3
+Machine A/Slides2_ROI_09,825@1,,MSC,MSC,Stromal,,machine_A,131583.671875,-199445.671875,13
+Machine A/Slides2_ROI_09,826@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,128612.109375,-199445.75,3
+Machine A/Slides2_ROI_09,827@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129168.8125,-199441.234375,8
+Machine A/Slides2_ROI_09,828@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129290.25,-199441.296875,8
+Machine A/Slides2_ROI_09,829@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,129892.5859375,-199442.203125,0
+Machine A/Slides2_ROI_09,830@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130678.6875,-199444.3125,3
+Machine A/Slides2_ROI_09,831@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129352.0703125,-199449.671875,6
+Machine A/Slides2_ROI_09,832@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,129847.2734375,-199446.25,0
+Machine A/Slides2_ROI_09,833@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130071.0859375,-199443.328125,3
+Machine A/Slides2_ROI_09,834@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130583.0703125,-199445.3125,6
+Machine A/Slides2_ROI_09,835@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129636.03125,-199450.0625,8
+Machine A/Slides2_ROI_09,836@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,131005.546875,-199451.765625,3
+Machine A/Slides2_ROI_09,837@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131360.84375,-199448.15625,6
+Machine A/Slides2_ROI_09,838@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128390.125,-199452.296875,6
+Machine A/Slides2_ROI_09,839@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,129398.234375,-199459.484375,0
+Machine A/Slides2_ROI_09,840@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129758.0859375,-199450.046875,6
+Machine A/Slides2_ROI_09,841@1,15.0,Mast cells,Mast cells,Myeloid,,machine_A,130233.046875,-199453.203125,7
+Machine A/Slides2_ROI_09,842@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,130320.515625,-199451.6875,7
+Machine A/Slides2_ROI_09,843@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128908.75,-199450.515625,6
+Machine A/Slides2_ROI_09,844@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,130377.8125,-199459.703125,1
+Machine A/Slides2_ROI_09,845@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130439.03125,-199456.625,6
+Machine A/Slides2_ROI_09,846@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130646.4140625,-199457.671875,0
+Machine A/Slides2_ROI_09,847@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,131062.4921875,-199456.546875,0
+Machine A/Slides2_ROI_09,848@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129010.9921875,-199461.71875,3
+Machine A/Slides2_ROI_09,849@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129051.5,-199460.9375,6
+Machine A/Slides2_ROI_09,850@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129495.828125,-199459.53125,6
+Machine A/Slides2_ROI_09,851@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130190.4375,-199461.25,0
+Machine A/Slides2_ROI_09,852@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130921.625,-199465.390625,3
+Machine A/Slides2_ROI_09,853@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,131258.75,-199462.96875,0
+Machine A/Slides2_ROI_09,854@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128519.984375,-199468.28125,8
+Machine A/Slides2_ROI_09,855@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130148.59375,-199464.5,0
+Machine A/Slides2_ROI_09,856@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130406.0703125,-199464.59375,3
+Machine A/Slides2_ROI_09,857@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130508.640625,-199466.90625,6
+Machine A/Slides2_ROI_09,858@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128647.40625,-199467.0625,8
+Machine A/Slides2_ROI_09,859@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129138.0234375,-199465.0,3
+Machine A/Slides2_ROI_09,860@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129238.8828125,-199463.3125,8
+Machine A/Slides2_ROI_09,861@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129562.421875,-199466.96875,8
+Machine A/Slides2_ROI_09,862@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,130094.859375,-199470.609375,1
+Machine A/Slides2_ROI_09,863@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,131158.15625,-199469.3125,10
+Machine A/Slides2_ROI_09,864@1,22.0,NPM1_blasts,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Leukemic erythroid blast,machine_A,131524.6875,-199470.765625,10
+Machine A/Slides2_ROI_09,865@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129921.5,-199470.359375,6
+Machine A/Slides2_ROI_09,866@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128702.546875,-199484.109375,8
+Machine A/Slides2_ROI_09,867@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,128977.2578125,-199474.203125,0
+Machine A/Slides2_ROI_09,868@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130709.515625,-199474.140625,3
+Machine A/Slides2_ROI_09,869@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130763.703125,-199476.90625,3
+Machine A/Slides2_ROI_09,870@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130863.4921875,-199474.375,3
+Machine A/Slides2_ROI_09,871@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130955.4921875,-199477.0625,3
+Machine A/Slides2_ROI_09,872@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,129353.2734375,-199480.5625,0
+Machine A/Slides2_ROI_09,873@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,130252.015625,-199477.96875,7
+Machine A/Slides2_ROI_09,874@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,129276.75,-199475.65625,0
+Machine A/Slides2_ROI_09,875@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130629.46875,-199485.828125,6
+Machine A/Slides2_ROI_09,876@1,5.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,130991.65625,-199480.953125,2
+Machine A/Slides2_ROI_09,877@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,131312.734375,-199484.390625,3
+Machine A/Slides2_ROI_09,878@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129418.1875,-199481.90625,8
+Machine A/Slides2_ROI_09,879@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,130387.796875,-199484.6875,1
+Machine A/Slides2_ROI_09,880@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,129323.265625,-199485.796875,0
+Machine A/Slides2_ROI_09,881@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130829.8671875,-199486.203125,3
+Machine A/Slides2_ROI_09,882@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128400.1875,-199487.53125,8
+Machine A/Slides2_ROI_09,883@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,129801.28125,-199494.921875,0
+Machine A/Slides2_ROI_09,884@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130919.3828125,-199492.328125,3
+Machine A/Slides2_ROI_09,885@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128326.2734375,-199492.171875,6
+Machine A/Slides2_ROI_09,886@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,130072.3828125,-199495.640625,1
+Machine A/Slides2_ROI_09,887@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,130484.796875,-199494.890625,1
+Machine A/Slides2_ROI_09,888@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131095.375,-199495.140625,6
+Machine A/Slides2_ROI_09,889@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128571.96875,-199490.359375,6
+Machine A/Slides2_ROI_09,890@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129967.75,-199496.796875,6
+Machine A/Slides2_ROI_09,891@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,130030.6015625,-199496.203125,1
+Machine A/Slides2_ROI_09,892@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130319.25,-199498.1875,0
+Machine A/Slides2_ROI_09,893@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131192.546875,-199498.765625,8
+Machine A/Slides2_ROI_09,894@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128951.9296875,-199498.984375,8
+Machine A/Slides2_ROI_09,895@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129675.21875,-199500.4375,3
+Machine A/Slides2_ROI_09,896@1,5.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,131394.0,-199500.84375,2
+Machine A/Slides2_ROI_09,897@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131503.65625,-199497.453125,6
+Machine A/Slides2_ROI_09,898@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129859.6328125,-199503.5,6
+Machine A/Slides2_ROI_09,899@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,129165.9140625,-199509.703125,0
+Machine A/Slides2_ROI_09,900@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130124.1875,-199502.734375,0
+Machine A/Slides2_ROI_09,901@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130596.3359375,-199509.0,6
+Machine A/Slides2_ROI_09,902@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130738.0234375,-199504.859375,3
+Machine A/Slides2_ROI_09,903@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130854.125,-199502.46875,6
+Machine A/Slides2_ROI_09,904@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131345.609375,-199506.828125,8
+Machine A/Slides2_ROI_09,905@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129346.96875,-199508.46875,8
+Machine A/Slides2_ROI_09,906@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129380.0078125,-199507.0625,8
+Machine A/Slides2_ROI_09,907@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129596.3125,-199508.625,8
+Machine A/Slides2_ROI_09,908@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130563.8828125,-199510.3125,6
+Machine A/Slides2_ROI_09,909@1,4.0,MSC,MSC,Stromal,,machine_A,130766.9453125,-199506.140625,13
+Machine A/Slides2_ROI_09,910@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,131026.140625,-199510.59375,0
+Machine A/Slides2_ROI_09,911@1,5.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,131461.734375,-199508.03125,2
+Machine A/Slides2_ROI_09,912@1,1.0,MSC,MSC,Stromal,,machine_A,128858.5390625,-199513.1875,13
+Machine A/Slides2_ROI_09,913@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,129213.8828125,-199510.640625,0
+Machine A/Slides2_ROI_09,914@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128491.1875,-199519.296875,8
+Machine A/Slides2_ROI_09,915@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,129827.7421875,-199522.484375,1
+Machine A/Slides2_ROI_09,916@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130832.5390625,-199518.71875,3
+Machine A/Slides2_ROI_09,917@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,131073.875,-199520.8125,3
+Machine A/Slides2_ROI_09,918@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,131252.78125,-199518.046875,3
+Machine A/Slides2_ROI_09,919@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,129263.7265625,-199521.25,0
+Machine A/Slides2_ROI_09,920@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130802.375,-199524.09375,3
+Machine A/Slides2_ROI_09,921@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130929.109375,-199521.515625,6
+Machine A/Slides2_ROI_09,922@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128771.21875,-199530.625,6
+Machine A/Slides2_ROI_09,923@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129504.5390625,-199520.546875,8
+Machine A/Slides2_ROI_09,924@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,130660.859375,-199525.765625,1
+Machine A/Slides2_ROI_09,925@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131582.375,-199523.890625,8
+Machine A/Slides2_ROI_09,926@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128823.046875,-199534.609375,6
+Machine A/Slides2_ROI_09,927@1,5.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,129092.8046875,-199528.75,2
+Machine A/Slides2_ROI_09,928@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,129763.609375,-199523.90625,1
+Machine A/Slides2_ROI_09,929@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129879.3828125,-199528.0,8
+Machine A/Slides2_ROI_09,930@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128911.6640625,-199529.84375,6
+Machine A/Slides2_ROI_09,931@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128994.5078125,-199526.84375,6
+Machine A/Slides2_ROI_09,932@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129135.2109375,-199533.171875,6
+Machine A/Slides2_ROI_09,933@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129685.171875,-199528.5625,3
+Machine A/Slides2_ROI_09,934@1,5.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,130068.6328125,-199530.578125,2
+Machine A/Slides2_ROI_09,935@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130379.3984375,-199532.984375,0
+Machine A/Slides2_ROI_09,936@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128576.4921875,-199537.734375,6
+Machine A/Slides2_ROI_09,937@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129350.2109375,-199530.90625,8
+Machine A/Slides2_ROI_09,938@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,129952.2109375,-199537.578125,0
+Machine A/Slides2_ROI_09,939@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129178.34375,-199532.90625,6
+Machine A/Slides2_ROI_09,940@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129391.765625,-199537.109375,8
+Machine A/Slides2_ROI_09,941@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129657.4765625,-199533.46875,3
+Machine A/Slides2_ROI_09,942@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130486.9140625,-199541.15625,6
+Machine A/Slides2_ROI_09,943@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131335.34375,-199535.234375,8
+Machine A/Slides2_ROI_09,944@1,22.0,NPM1_blasts,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Leukemic erythroid blast,machine_A,131398.125,-199538.328125,10
+Machine A/Slides2_ROI_09,945@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128690.9609375,-199547.15625,6
+Machine A/Slides2_ROI_09,946@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,129320.578125,-199536.96875,0
+Machine A/Slides2_ROI_09,947@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129465.0390625,-199539.453125,8
+Machine A/Slides2_ROI_09,948@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129723.8828125,-199540.359375,3
+Machine A/Slides2_ROI_09,949@1,5.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,130521.765625,-199542.1875,2
+Machine A/Slides2_ROI_09,950@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,130699.921875,-199540.203125,1
+Machine A/Slides2_ROI_09,951@1,5.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,128854.4140625,-199545.265625,2
+Machine A/Slides2_ROI_09,952@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129064.34375,-199541.390625,8
+Machine A/Slides2_ROI_09,953@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130001.1796875,-199543.03125,0
+Machine A/Slides2_ROI_09,954@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130170.5546875,-199543.21875,0
+Machine A/Slides2_ROI_09,955@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130429.296875,-199541.71875,3
+Machine A/Slides2_ROI_09,956@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130603.71875,-199541.328125,6
+Machine A/Slides2_ROI_09,957@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,131213.546875,-199548.328125,1
+Machine A/Slides2_ROI_09,958@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128376.015625,-199547.5,8
+Machine A/Slides2_ROI_09,959@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129436.0546875,-199543.84375,6
+Machine A/Slides2_ROI_09,960@1,5.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,130108.9453125,-199544.390625,2
+Machine A/Slides2_ROI_09,961@1,4.0,Mast cells,Mast cells,Myeloid,,machine_A,131096.71875,-199549.4375,7
+Machine A/Slides2_ROI_09,962@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,130958.0234375,-199550.6875,1
+Machine A/Slides2_ROI_09,963@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129232.7421875,-199551.890625,8
+Machine A/Slides2_ROI_09,964@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129830.8046875,-199553.796875,8
+Machine A/Slides2_ROI_09,965@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130810.9375,-199553.015625,3
+Machine A/Slides2_ROI_09,966@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,131420.140625,-199557.9375,18
+Machine A/Slides2_ROI_09,967@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128598.96875,-199557.328125,8
+Machine A/Slides2_ROI_09,968@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129154.984375,-199552.578125,6
+Machine A/Slides2_ROI_09,969@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,128651.5,-199563.15625,0
+Machine A/Slides2_ROI_09,970@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128786.1015625,-199559.859375,6
+Machine A/Slides2_ROI_09,971@1,4.0,MSC,MSC,Stromal,,machine_A,131172.75,-199560.328125,13
+Machine A/Slides2_ROI_09,972@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129948.6640625,-199562.0,3
+Machine A/Slides2_ROI_09,973@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130042.453125,-199562.5,0
+Machine A/Slides2_ROI_09,974@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130224.4375,-199564.296875,3
+Machine A/Slides2_ROI_09,975@1,15.0,Mast cells,Mast cells,Myeloid,,machine_A,131018.7265625,-199563.484375,7
+Machine A/Slides2_ROI_09,976@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,131459.390625,-199566.59375,1
+Machine A/Slides2_ROI_09,977@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128881.390625,-199564.96875,8
+Machine A/Slides2_ROI_09,978@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129090.2890625,-199563.78125,6
+Machine A/Slides2_ROI_09,979@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129583.578125,-199566.859375,6
+Machine A/Slides2_ROI_09,980@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129897.140625,-199568.53125,8
+Machine A/Slides2_ROI_09,981@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130143.078125,-199563.1875,3
+Machine A/Slides2_ROI_09,982@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130318.125,-199566.53125,0
+Machine A/Slides2_ROI_09,983@1,16.0,MSC,MSC,Stromal,,machine_A,131072.46875,-199567.375,13
+Machine A/Slides2_ROI_09,984@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131362.578125,-199565.484375,8
+Machine A/Slides2_ROI_09,985@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130254.8515625,-199569.0625,8
+Machine A/Slides2_ROI_09,986@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,131236.40625,-199582.90625,1
+Machine A/Slides2_ROI_09,987@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131519.171875,-199569.15625,6
+Machine A/Slides2_ROI_09,988@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128470.34375,-199572.578125,8
+Machine A/Slides2_ROI_09,989@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129271.390625,-199572.375,8
+Machine A/Slides2_ROI_09,990@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129713.0625,-199568.265625,3
+Machine A/Slides2_ROI_09,991@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130488.6796875,-199569.640625,0
+Machine A/Slides2_ROI_09,992@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130766.6171875,-199574.0625,3
+Machine A/Slides2_ROI_09,993@1,1.0,MSC,MSC,Stromal,,machine_A,129764.203125,-199573.28125,13
+Machine A/Slides2_ROI_09,994@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130395.2578125,-199576.78125,6
+Machine A/Slides2_ROI_09,995@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128418.015625,-199579.625,8
+Machine A/Slides2_ROI_09,996@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128563.453125,-199573.171875,6
+Machine A/Slides2_ROI_09,997@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128713.671875,-199575.71875,6
+Machine A/Slides2_ROI_09,998@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128856.265625,-199572.296875,6
+Machine A/Slides2_ROI_09,999@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129803.09375,-199577.390625,8
+Machine A/Slides2_ROI_09,1000@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130184.8671875,-199575.90625,3
+Machine A/Slides2_ROI_09,1001@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,130986.0,-199576.453125,1
+Machine A/Slides2_ROI_09,1002@1,4.0,MSC,MSC,Stromal,,machine_A,131277.46875,-199580.203125,13
+Machine A/Slides2_ROI_09,1003@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131324.5625,-199580.5625,8
+Machine A/Slides2_ROI_09,1004@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129357.6171875,-199582.171875,6
+Machine A/Slides2_ROI_09,1005@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130860.4296875,-199579.796875,6
+Machine A/Slides2_ROI_09,1006@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131421.6875,-199590.484375,8
+Machine A/Slides2_ROI_09,1007@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128385.359375,-199583.375,6
+Machine A/Slides2_ROI_09,1008@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130652.3359375,-199582.71875,8
+Machine A/Slides2_ROI_09,1009@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130910.7578125,-199585.59375,6
+Machine A/Slides2_ROI_09,1010@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,131103.25,-199581.5625,3
+Machine A/Slides2_ROI_09,1011@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130091.21875,-199585.078125,3
+Machine A/Slides2_ROI_09,1012@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130287.3828125,-199584.75,0
+Machine A/Slides2_ROI_09,1013@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130563.8359375,-199605.390625,3
+Machine A/Slides2_ROI_09,1014@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130518.7109375,-199588.421875,3
+Machine A/Slides2_ROI_09,1015@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128506.5859375,-199591.078125,8
+Machine A/Slides2_ROI_09,1016@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,128656.109375,-199590.375,0
+Machine A/Slides2_ROI_09,1017@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128976.4140625,-199591.859375,6
+Machine A/Slides2_ROI_09,1018@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129036.6015625,-199595.953125,6
+Machine A/Slides2_ROI_09,1019@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129206.3515625,-199592.15625,6
+Machine A/Slides2_ROI_09,1020@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,129920.5078125,-199589.796875,0
+Machine A/Slides2_ROI_09,1021@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130608.625,-199593.234375,3
+Machine A/Slides2_ROI_09,1022@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128795.8671875,-199590.484375,6
+Machine A/Slides2_ROI_09,1023@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128616.109375,-199596.78125,6
+Machine A/Slides2_ROI_09,1024@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,129609.9140625,-199596.59375,12
+Machine A/Slides2_ROI_09,1025@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130322.9921875,-199594.734375,0
+Machine A/Slides2_ROI_09,1026@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130356.4140625,-199595.296875,0
+Machine A/Slides2_ROI_09,1027@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131150.875,-199596.5625,6
+Machine A/Slides2_ROI_09,1028@1,15.0,Mast cells,Mast cells,Myeloid,,machine_A,131010.21875,-199598.890625,7
+Machine A/Slides2_ROI_09,1029@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131082.203125,-199595.28125,6
+Machine A/Slides2_ROI_09,1030@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128943.0078125,-199602.203125,6
+Machine A/Slides2_ROI_09,1031@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,129865.2421875,-199602.46875,1
+Machine A/Slides2_ROI_09,1032@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131468.796875,-199600.265625,6
+Machine A/Slides2_ROI_09,1033@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128405.765625,-199603.34375,6
+Machine A/Slides2_ROI_09,1034@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129023.4375,-199603.65625,6
+Machine A/Slides2_ROI_09,1035@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129518.4296875,-199592.015625,6
+Machine A/Slides2_ROI_09,1036@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130207.4921875,-199603.28125,0
+Machine A/Slides2_ROI_09,1037@1,16.0,MSC,MSC,Stromal,,machine_A,130673.6875,-199605.140625,13
+Machine A/Slides2_ROI_09,1038@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131508.28125,-199601.0,6
+Machine A/Slides2_ROI_09,1039@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128562.3515625,-199606.796875,6
+Machine A/Slides2_ROI_09,1040@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129096.1015625,-199608.890625,6
+Machine A/Slides2_ROI_09,1041@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129561.125,-199609.8125,8
+Machine A/Slides2_ROI_09,1042@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,130132.8984375,-199611.171875,1
+Machine A/Slides2_ROI_09,1043@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,130747.3984375,-199605.0,1
+Machine A/Slides2_ROI_09,1044@1,15.0,Mast cells,Mast cells,Myeloid,,machine_A,129291.125,-199610.453125,7
+Machine A/Slides2_ROI_09,1045@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129135.765625,-199616.390625,6
+Machine A/Slides2_ROI_09,1046@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130389.09375,-199612.265625,6
+Machine A/Slides2_ROI_09,1047@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130799.25,-199614.359375,6
+Machine A/Slides2_ROI_09,1048@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131358.09375,-199614.828125,8
+Machine A/Slides2_ROI_09,1049@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,128732.7890625,-199620.15625,12
+Machine A/Slides2_ROI_09,1050@1,15.0,Mast cells,Mast cells,Myeloid,,machine_A,129328.9765625,-199618.90625,7
+Machine A/Slides2_ROI_09,1051@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129457.7421875,-199616.484375,8
+Machine A/Slides2_ROI_09,1052@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129802.90625,-199617.25,6
+Machine A/Slides2_ROI_09,1053@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130637.53125,-199615.984375,3
+Machine A/Slides2_ROI_09,1054@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130914.9375,-199616.421875,3
+Machine A/Slides2_ROI_09,1055@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,131282.84375,-199615.625,3
+Machine A/Slides2_ROI_09,1056@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,131325.09375,-199621.21875,3
+Machine A/Slides2_ROI_09,1057@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128323.359375,-199618.484375,8
+Machine A/Slides2_ROI_09,1058@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128369.8046875,-199618.25,8
+Machine A/Slides2_ROI_09,1059@1,16.0,MSC,MSC,Stromal,,machine_A,129693.2578125,-199621.53125,13
+Machine A/Slides2_ROI_09,1060@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129750.390625,-199618.328125,3
+Machine A/Slides2_ROI_09,1061@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130349.140625,-199618.5,6
+Machine A/Slides2_ROI_09,1062@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130865.5625,-199620.8125,3
+Machine A/Slides2_ROI_09,1063@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131121.5625,-199621.296875,6
+Machine A/Slides2_ROI_09,1064@1,15.0,Mast cells,Mast cells,Myeloid,,machine_A,129420.7890625,-199623.671875,7
+Machine A/Slides2_ROI_09,1065@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129592.21875,-199620.890625,8
+Machine A/Slides2_ROI_09,1066@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130091.1171875,-199621.15625,0
+Machine A/Slides2_ROI_09,1067@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130522.390625,-199620.921875,3
+Machine A/Slides2_ROI_09,1068@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131221.0,-199623.9375,8
+Machine A/Slides2_ROI_09,1069@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,129237.3671875,-199625.15625,1
+Machine A/Slides2_ROI_09,1070@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130185.8125,-199625.265625,0
+Machine A/Slides2_ROI_09,1071@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,131395.453125,-199625.921875,3
+Machine A/Slides2_ROI_09,1072@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,128659.734375,-199626.765625,12
+Machine A/Slides2_ROI_09,1073@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,129903.765625,-199628.25,0
+Machine A/Slides2_ROI_09,1074@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,131038.4765625,-199625.1875,1
+Machine A/Slides2_ROI_09,1075@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131449.328125,-199633.515625,8
+Machine A/Slides2_ROI_09,1076@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128468.3828125,-199633.78125,8
+Machine A/Slides2_ROI_09,1077@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,128515.3984375,-199629.59375,0
+Machine A/Slides2_ROI_09,1078@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129728.2109375,-199633.546875,3
+Machine A/Slides2_ROI_09,1079@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130463.3046875,-199629.75,0
+Machine A/Slides2_ROI_09,1080@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,130016.625,-199633.4375,1
+Machine A/Slides2_ROI_09,1081@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130950.171875,-199632.140625,6
+Machine A/Slides2_ROI_09,1082@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128758.6328125,-199634.9375,6
+Machine A/Slides2_ROI_09,1083@1,15.0,Mast cells,Mast cells,Myeloid,,machine_A,129516.21875,-199639.171875,7
+Machine A/Slides2_ROI_09,1084@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130424.5390625,-199634.234375,0
+Machine A/Slides2_ROI_09,1085@1,15.0,Mast cells,Mast cells,Myeloid,,machine_A,129392.8203125,-199638.53125,7
+Machine A/Slides2_ROI_09,1086@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129941.03125,-199639.09375,3
+Machine A/Slides2_ROI_09,1087@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,130140.78125,-199635.3125,18
+Machine A/Slides2_ROI_09,1088@1,5.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,130613.8203125,-199636.609375,2
+Machine A/Slides2_ROI_09,1089@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,131101.15625,-199637.84375,3
+Machine A/Slides2_ROI_09,1090@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128998.578125,-199645.25,6
+Machine A/Slides2_ROI_09,1091@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,129835.7734375,-199642.53125,0
+Machine A/Slides2_ROI_09,1092@1,5.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,130545.640625,-199641.25,2
+Machine A/Slides2_ROI_09,1093@1,15.0,Mast cells,Mast cells,Myeloid,,machine_A,130657.7578125,-199639.71875,7
+Machine A/Slides2_ROI_09,1094@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131261.625,-199640.25,8
+Machine A/Slides2_ROI_09,1095@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,129131.8046875,-199645.828125,12
+Machine A/Slides2_ROI_09,1096@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129615.2265625,-199645.0625,8
+Machine A/Slides2_ROI_09,1097@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130716.2109375,-199647.859375,0
+Machine A/Slides2_ROI_09,1098@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128322.6640625,-199649.359375,8
+Machine A/Slides2_ROI_09,1099@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129297.8828125,-199655.828125,8
+Machine A/Slides2_ROI_09,1100@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,130113.1328125,-199643.328125,1
+Machine A/Slides2_ROI_09,1101@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130892.421875,-199646.171875,3
+Machine A/Slides2_ROI_09,1102@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130978.90625,-199648.65625,6
+Machine A/Slides2_ROI_09,1103@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,131144.859375,-199646.3125,7
+Machine A/Slides2_ROI_09,1104@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131200.125,-199648.078125,8
+Machine A/Slides2_ROI_09,1105@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131490.359375,-199647.65625,6
+Machine A/Slides2_ROI_09,1106@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131536.75,-199649.78125,6
+Machine A/Slides2_ROI_09,1107@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128614.28125,-199645.40625,6
+Machine A/Slides2_ROI_09,1108@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130851.0078125,-199652.65625,8
+Machine A/Slides2_ROI_09,1109@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131434.96875,-199659.109375,8
+Machine A/Slides2_ROI_09,1110@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129215.125,-199651.21875,8
+Machine A/Slides2_ROI_09,1111@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129354.015625,-199649.234375,8
+Machine A/Slides2_ROI_09,1112@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130296.5546875,-199654.453125,0
+Machine A/Slides2_ROI_09,1113@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130791.578125,-199656.65625,8
+Machine A/Slides2_ROI_09,1114@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,129094.0,-199655.5,12
+Machine A/Slides2_ROI_09,1115@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129755.96875,-199655.0,8
+Machine A/Slides2_ROI_09,1116@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,129874.6328125,-199657.28125,0
+Machine A/Slides2_ROI_09,1117@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130208.828125,-199662.46875,6
+Machine A/Slides2_ROI_09,1118@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128817.234375,-199664.015625,6
+Machine A/Slides2_ROI_09,1119@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129713.5,-199655.0625,8
+Machine A/Slides2_ROI_09,1120@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,128389.625,-199664.9375,0
+Machine A/Slides2_ROI_09,1121@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128452.8828125,-199662.40625,8
+Machine A/Slides2_ROI_09,1122@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128731.5078125,-199661.171875,8
+Machine A/Slides2_ROI_09,1123@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128864.359375,-199667.4375,6
+Machine A/Slides2_ROI_09,1124@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,129646.015625,-199665.171875,0
+Machine A/Slides2_ROI_09,1125@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130358.1328125,-199666.671875,0
+Machine A/Slides2_ROI_09,1126@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130460.0703125,-199664.828125,0
+Machine A/Slides2_ROI_09,1127@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130588.9765625,-199660.59375,12
+Machine A/Slides2_ROI_09,1128@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130997.2109375,-199664.625,6
+Machine A/Slides2_ROI_09,1129@1,15.0,Mast cells,Mast cells,Myeloid,,machine_A,129534.8984375,-199659.25,7
+Machine A/Slides2_ROI_09,1130@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131401.9375,-199671.28125,8
+Machine A/Slides2_ROI_09,1131@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128357.3828125,-199670.3125,6
+Machine A/Slides2_ROI_09,1132@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129809.9140625,-199672.53125,8
+Machine A/Slides2_ROI_09,1133@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130755.2421875,-199669.171875,12
+Machine A/Slides2_ROI_09,1134@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130927.3828125,-199671.609375,8
+Machine A/Slides2_ROI_09,1135@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128763.875,-199672.125,8
+Machine A/Slides2_ROI_09,1136@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130017.125,-199673.421875,0
+Machine A/Slides2_ROI_09,1137@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,130168.75,-199673.3125,1
+Machine A/Slides2_ROI_09,1138@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130963.4296875,-199681.59375,8
+Machine A/Slides2_ROI_09,1139@1,13.0,MSC,MSC,Stromal,,machine_A,131175.46875,-199670.140625,13
+Machine A/Slides2_ROI_09,1140@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128542.4375,-199675.375,8
+Machine A/Slides2_ROI_09,1141@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128975.546875,-199676.140625,8
+Machine A/Slides2_ROI_09,1142@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,129054.453125,-199674.984375,0
+Machine A/Slides2_ROI_09,1143@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,129158.9296875,-199677.296875,1
+Machine A/Slides2_ROI_09,1144@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,129189.140625,-199678.34375,0
+Machine A/Slides2_ROI_09,1145@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130676.1484375,-199676.703125,12
+Machine A/Slides2_ROI_09,1146@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131363.78125,-199680.5,8
+Machine A/Slides2_ROI_09,1147@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131457.296875,-199674.0625,6
+Machine A/Slides2_ROI_09,1148@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,128911.7109375,-199679.546875,0
+Machine A/Slides2_ROI_09,1149@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130085.3671875,-199677.984375,8
+Machine A/Slides2_ROI_09,1150@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129961.296875,-199682.71875,8
+Machine A/Slides2_ROI_09,1151@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130302.5390625,-199679.015625,6
+Machine A/Slides2_ROI_09,1152@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130784.8359375,-199674.9375,12
+Machine A/Slides2_ROI_09,1153@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131058.0234375,-199685.25,6
+Machine A/Slides2_ROI_09,1154@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131116.671875,-199683.984375,6
+Machine A/Slides2_ROI_09,1155@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131489.890625,-199679.5625,8
+Machine A/Slides2_ROI_09,1156@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131572.78125,-199684.71875,6
+Machine A/Slides2_ROI_09,1157@1,15.0,Mast cells,Mast cells,Myeloid,,machine_A,129566.015625,-199680.84375,7
+Machine A/Slides2_ROI_09,1158@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,129686.9921875,-199681.421875,0
+Machine A/Slides2_ROI_09,1159@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,130234.3203125,-199683.953125,1
+Machine A/Slides2_ROI_09,1160@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,131520.6875,-199686.546875,3
+Machine A/Slides2_ROI_09,1161@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128488.734375,-199693.0,6
+Machine A/Slides2_ROI_09,1162@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128708.09375,-199688.671875,6
+Machine A/Slides2_ROI_09,1163@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128810.6796875,-199687.328125,8
+Machine A/Slides2_ROI_09,1164@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129875.0703125,-199688.375,8
+Machine A/Slides2_ROI_09,1165@1,5.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,130834.7265625,-199683.25,2
+Machine A/Slides2_ROI_09,1166@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131007.0625,-199692.609375,6
+Machine A/Slides2_ROI_09,1167@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,129301.6640625,-199694.796875,0
+Machine A/Slides2_ROI_09,1168@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129613.1875,-199692.484375,6
+Machine A/Slides2_ROI_09,1169@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129934.6953125,-199690.6875,8
+Machine A/Slides2_ROI_09,1170@1,1.0,MSC,MSC,Stromal,,machine_A,130387.0703125,-199692.78125,13
+Machine A/Slides2_ROI_09,1171@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128334.2890625,-199689.171875,8
+Machine A/Slides2_ROI_09,1172@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128655.859375,-199696.609375,6
+Machine A/Slides2_ROI_09,1173@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130540.921875,-199702.4375,12
+Machine A/Slides2_ROI_09,1174@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,129131.6328125,-199704.765625,0
+Machine A/Slides2_ROI_09,1175@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130455.78125,-199701.96875,6
+Machine A/Slides2_ROI_09,1176@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131207.515625,-199702.328125,8
+Machine A/Slides2_ROI_09,1177@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128369.0,-199705.4375,8
+Machine A/Slides2_ROI_09,1178@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,128938.9921875,-199701.796875,0
+Machine A/Slides2_ROI_09,1179@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,129725.8984375,-199707.1875,0
+Machine A/Slides2_ROI_09,1180@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,129805.3984375,-199702.84375,0
+Machine A/Slides2_ROI_09,1181@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128596.09375,-199708.515625,6
+Machine A/Slides2_ROI_09,1182@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,129195.8828125,-199724.125,1
+Machine A/Slides2_ROI_09,1183@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129490.890625,-199709.203125,6
+Machine A/Slides2_ROI_09,1184@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130943.0390625,-199703.59375,8
+Machine A/Slides2_ROI_09,1185@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131156.0,-199705.828125,8
+Machine A/Slides2_ROI_09,1186@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131351.875,-199707.421875,8
+Machine A/Slides2_ROI_09,1187@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,130342.265625,-199716.671875,1
+Machine A/Slides2_ROI_09,1188@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130507.4296875,-199711.125,6
+Machine A/Slides2_ROI_09,1189@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130623.1015625,-199713.203125,3
+Machine A/Slides2_ROI_09,1190@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131081.0625,-199708.25,6
+Machine A/Slides2_ROI_09,1191@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130588.0234375,-199718.375,0
+Machine A/Slides2_ROI_09,1192@1,5.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,130824.65625,-199715.21875,2
+Machine A/Slides2_ROI_09,1193@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130911.3671875,-199714.578125,8
+Machine A/Slides2_ROI_09,1194@1,5.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,130689.5625,-199723.21875,2
+Machine A/Slides2_ROI_09,1195@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,131539.671875,-199719.296875,3
+Machine A/Slides2_ROI_09,1196@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,129987.265625,-199723.765625,0
+Machine A/Slides2_ROI_09,1197@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130099.5,-199722.640625,8
+Machine A/Slides2_ROI_09,1198@1,5.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,130781.3046875,-199722.359375,2
+Machine A/Slides2_ROI_09,1199@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,128548.0078125,-199726.6875,1
+Machine A/Slides2_ROI_09,1200@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130164.1328125,-199725.34375,0
+Machine A/Slides2_ROI_09,1201@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,130537.2578125,-199725.703125,1
+Machine A/Slides2_ROI_09,1202@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131001.71875,-199721.640625,6
+Machine A/Slides2_ROI_09,1203@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128777.6796875,-199728.359375,6
+Machine A/Slides2_ROI_09,1204@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,129586.1796875,-199728.671875,0
+Machine A/Slides2_ROI_09,1205@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130036.5859375,-199726.703125,3
+Machine A/Slides2_ROI_09,1206@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130239.171875,-199727.6875,0
+Machine A/Slides2_ROI_09,1207@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,130398.6640625,-199728.515625,1
+Machine A/Slides2_ROI_09,1208@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131103.15625,-199728.140625,6
+Machine A/Slides2_ROI_09,1209@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129252.578125,-199729.453125,8
+Machine A/Slides2_ROI_09,1210@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129532.4140625,-199732.21875,6
+Machine A/Slides2_ROI_09,1211@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,130435.6953125,-199733.140625,1
+Machine A/Slides2_ROI_09,1212@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131492.296875,-199728.59375,8
+Machine A/Slides2_ROI_09,1213@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128400.90625,-199723.578125,8
+Machine A/Slides2_ROI_09,1214@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128680.2265625,-199735.0625,6
+Machine A/Slides2_ROI_09,1215@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,130653.5,-199732.96875,1
+Machine A/Slides2_ROI_09,1216@1,0.0,MSC,MSC,Stromal,,machine_A,130867.0859375,-199733.984375,13
+Machine A/Slides2_ROI_09,1217@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131265.15625,-199732.859375,8
+Machine A/Slides2_ROI_09,1218@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130305.25,-199729.859375,0
+Machine A/Slides2_ROI_09,1219@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130474.5390625,-199733.671875,6
+Machine A/Slides2_ROI_09,1220@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130721.546875,-199737.953125,6
+Machine A/Slides2_ROI_09,1221@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131373.140625,-199735.796875,8
+Machine A/Slides2_ROI_09,1222@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128613.859375,-199744.421875,6
+Machine A/Slides2_ROI_09,1223@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129327.5,-199739.453125,8
+Machine A/Slides2_ROI_09,1224@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129414.8671875,-199741.296875,8
+Machine A/Slides2_ROI_09,1225@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,130567.171875,-199741.109375,1
+Machine A/Slides2_ROI_09,1226@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131313.8125,-199735.515625,8
+Machine A/Slides2_ROI_09,1227@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131412.6875,-199727.390625,8
+Machine A/Slides2_ROI_09,1228@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130268.578125,-199740.640625,0
+Machine A/Slides2_ROI_09,1229@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131192.90625,-199743.921875,8
+Machine A/Slides2_ROI_09,1230@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128444.578125,-199743.0625,6
+Machine A/Slides2_ROI_09,1231@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128698.1015625,-199756.1875,8
+Machine A/Slides2_ROI_09,1232@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,131087.90625,-199748.765625,0
+Machine A/Slides2_ROI_09,1233@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129916.1953125,-199750.40625,8
+Machine A/Slides2_ROI_09,1234@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129708.890625,-199753.859375,6
+Machine A/Slides2_ROI_09,1235@1,4.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,129824.125,-199753.34375,18
+Machine A/Slides2_ROI_09,1236@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130166.453125,-199752.015625,0
+Machine A/Slides2_ROI_09,1237@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131229.859375,-199752.875,8
+Machine A/Slides2_ROI_09,1238@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131571.484375,-199751.59375,8
+Machine A/Slides2_ROI_09,1239@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,130394.4609375,-199755.15625,1
+Machine A/Slides2_ROI_09,1240@1,5.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,130976.7578125,-199759.15625,2
+Machine A/Slides2_ROI_09,1241@1,,Macrophages,Macrophages,Myeloid,,machine_A,129580.0234375,-199758.546875,6
+Machine A/Slides2_ROI_09,1242@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129891.8203125,-199757.421875,8
+Machine A/Slides2_ROI_09,1243@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,129984.7421875,-199760.21875,0
+Machine A/Slides2_ROI_09,1244@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,130447.4375,-199758.34375,1
+Machine A/Slides2_ROI_09,1245@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130538.671875,-199756.75,6
+Machine A/Slides2_ROI_09,1246@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128762.2265625,-199762.75,8
+Machine A/Slides2_ROI_09,1247@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128298.5390625,-199766.0,8
+Machine A/Slides2_ROI_09,1248@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129409.8515625,-199761.109375,6
+Machine A/Slides2_ROI_09,1249@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130880.0234375,-199761.625,6
+Machine A/Slides2_ROI_09,1250@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,131119.453125,-199765.625,0
+Machine A/Slides2_ROI_09,1251@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131398.25,-199762.265625,6
+Machine A/Slides2_ROI_09,1252@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128599.03125,-199772.109375,8
+Machine A/Slides2_ROI_09,1253@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129362.765625,-199765.390625,8
+Machine A/Slides2_ROI_09,1254@1,5.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,131010.53125,-199770.453125,2
+Machine A/Slides2_ROI_09,1255@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128849.578125,-199775.46875,6
+Machine A/Slides2_ROI_09,1256@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,128969.765625,-199771.90625,0
+Machine A/Slides2_ROI_09,1257@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,129182.6328125,-199754.703125,1
+Machine A/Slides2_ROI_09,1258@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130665.2890625,-199770.40625,6
+Machine A/Slides2_ROI_09,1259@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130183.703125,-199777.640625,0
+Machine A/Slides2_ROI_09,1260@1,5.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,130928.09375,-199770.84375,2
+Machine A/Slides2_ROI_09,1261@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129240.234375,-199777.96875,8
+Machine A/Slides2_ROI_09,1262@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,129814.1328125,-199778.484375,0
+Machine A/Slides2_ROI_09,1263@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130358.4296875,-199778.109375,8
+Machine A/Slides2_ROI_09,1264@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128497.875,-199784.8125,8
+Machine A/Slides2_ROI_09,1265@1,5.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,130423.5625,-199779.640625,2
+Machine A/Slides2_ROI_09,1266@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,131073.828125,-199784.09375,3
+Machine A/Slides2_ROI_09,1267@1,26.0,Megakaryocyte,Megakaryocyte,Megakaryocyte,,machine_A,131524.40625,-199781.03125,14
+Machine A/Slides2_ROI_09,1268@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128554.71875,-199787.6875,8
+Machine A/Slides2_ROI_09,1269@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128657.984375,-199776.6875,8
+Machine A/Slides2_ROI_09,1270@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129027.09375,-199787.703125,6
+Machine A/Slides2_ROI_09,1271@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129387.9375,-199779.65625,8
+Machine A/Slides2_ROI_09,1272@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130584.2421875,-199781.421875,0
+Machine A/Slides2_ROI_09,1273@1,13.0,MSC,MSC,Stromal,,machine_A,130782.8984375,-199783.265625,13
+Machine A/Slides2_ROI_09,1274@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131299.375,-199788.046875,8
+Machine A/Slides2_ROI_09,1275@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,129115.625,-199788.75,1
+Machine A/Slides2_ROI_09,1276@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131217.359375,-199784.15625,8
+Machine A/Slides2_ROI_09,1277@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128325.3671875,-199798.1875,6
+Machine A/Slides2_ROI_09,1278@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129519.1484375,-199788.96875,6
+Machine A/Slides2_ROI_09,1279@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130987.8046875,-199789.953125,8
+Machine A/Slides2_ROI_09,1280@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129888.640625,-199792.515625,6
+Machine A/Slides2_ROI_09,1281@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130023.6171875,-199793.71875,0
+Machine A/Slides2_ROI_09,1282@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130212.265625,-199792.765625,6
+Machine A/Slides2_ROI_09,1283@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,130313.75,-199794.484375,1
+Machine A/Slides2_ROI_09,1284@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128745.8125,-199797.296875,6
+Machine A/Slides2_ROI_09,1285@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129924.1328125,-199796.34375,8
+Machine A/Slides2_ROI_09,1286@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130088.203125,-199796.984375,8
+Machine A/Slides2_ROI_09,1287@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130162.0078125,-199795.53125,6
+Machine A/Slides2_ROI_09,1288@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131388.15625,-199797.296875,8
+Machine A/Slides2_ROI_09,1289@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128409.6015625,-199800.578125,8
+Machine A/Slides2_ROI_09,1290@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129298.4765625,-199800.3125,8
+Machine A/Slides2_ROI_09,1291@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129642.2578125,-199800.09375,6
+Machine A/Slides2_ROI_09,1292@1,13.0,MSC,MSC,Stromal,,machine_A,130837.2421875,-199798.9375,13
+Machine A/Slides2_ROI_09,1293@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,131106.140625,-199796.28125,3
+Machine A/Slides2_ROI_09,1294@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130655.84375,-199801.484375,12
+Machine A/Slides2_ROI_09,1295@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130934.390625,-199798.890625,8
+Machine A/Slides2_ROI_09,1296@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131040.96875,-199800.546875,8
+Machine A/Slides2_ROI_09,1297@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128848.25,-199803.46875,6
+Machine A/Slides2_ROI_09,1298@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129794.203125,-199804.703125,6
+Machine A/Slides2_ROI_09,1299@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129842.3828125,-199807.0,6
+Machine A/Slides2_ROI_09,1300@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,130554.1875,-199803.171875,1
+Machine A/Slides2_ROI_09,1301@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128447.859375,-199804.5625,8
+Machine A/Slides2_ROI_09,1302@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129347.96875,-199810.703125,8
+Machine A/Slides2_ROI_09,1303@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129675.6640625,-199808.609375,6
+Machine A/Slides2_ROI_09,1304@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129963.0234375,-199808.65625,8
+Machine A/Slides2_ROI_09,1305@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,130726.5546875,-199809.078125,1
+Machine A/Slides2_ROI_09,1306@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131140.828125,-199805.328125,8
+Machine A/Slides2_ROI_09,1307@1,26.0,Megakaryocyte,Megakaryocyte,Megakaryocyte,,machine_A,131581.3125,-199808.015625,14
+Machine A/Slides2_ROI_09,1308@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,128357.3671875,-199811.09375,0
+Machine A/Slides2_ROI_09,1309@1,26.0,Megakaryocyte,Megakaryocyte,Megakaryocyte,,machine_A,128578.6796875,-199811.234375,14
+Machine A/Slides2_ROI_09,1310@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,129136.21875,-199810.28125,0
+Machine A/Slides2_ROI_09,1311@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129234.0,-199810.953125,8
+Machine A/Slides2_ROI_09,1312@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130814.3046875,-199810.734375,8
+Machine A/Slides2_ROI_09,1313@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129035.0390625,-199814.671875,6
+Machine A/Slides2_ROI_09,1314@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128631.890625,-199817.765625,6
+Machine A/Slides2_ROI_09,1315@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,128994.984375,-199819.4375,1
+Machine A/Slides2_ROI_09,1316@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129470.34375,-199820.921875,8
+Machine A/Slides2_ROI_09,1317@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130895.7421875,-199819.65625,8
+Machine A/Slides2_ROI_09,1318@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131453.46875,-199813.21875,6
+Machine A/Slides2_ROI_09,1319@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129100.7578125,-199819.734375,6
+Machine A/Slides2_ROI_09,1320@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,129183.8828125,-199822.375,0
+Machine A/Slides2_ROI_09,1321@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130419.4140625,-199820.859375,6
+Machine A/Slides2_ROI_09,1322@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131094.15625,-199819.890625,8
+Machine A/Slides2_ROI_09,1323@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131329.40625,-199821.53125,8
+Machine A/Slides2_ROI_09,1324@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129609.09375,-199828.796875,8
+Machine A/Slides2_ROI_09,1325@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130295.1328125,-199825.3125,0
+Machine A/Slides2_ROI_09,1326@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130460.40625,-199827.6875,0
+Machine A/Slides2_ROI_09,1327@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,128813.828125,-199832.78125,0
+Machine A/Slides2_ROI_09,1328@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129278.921875,-199826.78125,6
+Machine A/Slides2_ROI_09,1329@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130774.3125,-199833.84375,6
+Machine A/Slides2_ROI_09,1330@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128496.703125,-199829.53125,6
+Machine A/Slides2_ROI_09,1331@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128658.78125,-199834.890625,6
+Machine A/Slides2_ROI_09,1332@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131181.0625,-199831.109375,8
+Machine A/Slides2_ROI_09,1333@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,129371.84375,-199836.40625,0
+Machine A/Slides2_ROI_09,1334@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,129535.328125,-199836.84375,0
+Machine A/Slides2_ROI_09,1335@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,129679.8984375,-199837.734375,0
+Machine A/Slides2_ROI_09,1336@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130681.859375,-199836.9375,6
+Machine A/Slides2_ROI_09,1337@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130989.3984375,-199836.296875,8
+Machine A/Slides2_ROI_09,1338@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128406.265625,-199870.703125,6
+Machine A/Slides2_ROI_09,1339@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130918.90625,-199840.921875,8
+Machine A/Slides2_ROI_09,1340@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131216.78125,-199837.390625,8
+Machine A/Slides2_ROI_09,1341@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131384.390625,-199838.34375,8
+Machine A/Slides2_ROI_09,1342@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131492.8125,-199838.171875,8
+Machine A/Slides2_ROI_09,1343@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,129329.90625,-199838.890625,0
+Machine A/Slides2_ROI_09,1344@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,128616.703125,-199846.140625,12
+Machine A/Slides2_ROI_09,1345@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,128882.375,-199846.90625,0
+Machine A/Slides2_ROI_09,1346@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129032.90625,-199839.4375,6
+Machine A/Slides2_ROI_09,1347@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129810.0546875,-199841.375,6
+Machine A/Slides2_ROI_09,1348@1,26.0,Megakaryocyte,Megakaryocyte,Megakaryocyte,,machine_A,131527.0625,-199842.53125,14
+Machine A/Slides2_ROI_09,1349@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129139.0390625,-199851.34375,6
+Machine A/Slides2_ROI_09,1350@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129204.25,-199844.15625,6
+Machine A/Slides2_ROI_09,1351@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129575.140625,-199848.46875,6
+Machine A/Slides2_ROI_09,1352@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130884.3359375,-199848.78125,8
+Machine A/Slides2_ROI_09,1353@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128330.640625,-199847.84375,6
+Machine A/Slides2_ROI_09,1354@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128447.15625,-199845.859375,8
+Machine A/Slides2_ROI_09,1355@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128972.3671875,-199849.1875,6
+Machine A/Slides2_ROI_09,1356@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129612.8828125,-199849.390625,8
+Machine A/Slides2_ROI_09,1357@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,129742.46875,-199850.71875,12
+Machine A/Slides2_ROI_09,1358@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130194.140625,-199850.953125,8
+Machine A/Slides2_ROI_09,1359@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130588.484375,-199854.0625,8
+Machine A/Slides2_ROI_09,1360@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130749.890625,-199848.59375,8
+Machine A/Slides2_ROI_09,1361@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130797.640625,-199850.046875,8
+Machine A/Slides2_ROI_09,1362@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,129458.3984375,-199855.3125,0
+Machine A/Slides2_ROI_09,1363@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131573.34375,-199852.0,6
+Machine A/Slides2_ROI_09,1364@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,128750.1328125,-199866.046875,0
+Machine A/Slides2_ROI_09,1365@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130847.6328125,-199858.375,0
+Machine A/Slides2_ROI_09,1366@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131254.6875,-199852.890625,8
+Machine A/Slides2_ROI_09,1367@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131037.6015625,-199858.046875,8
+Machine A/Slides2_ROI_09,1368@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128920.1171875,-199861.046875,8
+Machine A/Slides2_ROI_09,1369@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129094.78125,-199863.6875,6
+Machine A/Slides2_ROI_09,1370@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131433.625,-199863.359375,8
+Machine A/Slides2_ROI_09,1371@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128650.765625,-199865.421875,8
+Machine A/Slides2_ROI_09,1372@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,129715.0703125,-199860.859375,12
+Machine A/Slides2_ROI_09,1373@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130663.828125,-199864.9375,8
+Machine A/Slides2_ROI_09,1374@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,128577.546875,-199869.21875,12
+Machine A/Slides2_ROI_09,1375@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129367.2421875,-199867.359375,6
+Machine A/Slides2_ROI_09,1376@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129669.515625,-199864.71875,3
+Machine A/Slides2_ROI_09,1377@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130505.4375,-199854.5625,8
+Machine A/Slides2_ROI_09,1378@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130912.4609375,-199865.40625,8
+Machine A/Slides2_ROI_09,1379@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131350.046875,-199866.859375,8
+Machine A/Slides2_ROI_09,1380@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130533.1640625,-199869.15625,8
+Machine A/Slides2_ROI_09,1381@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128820.640625,-199864.578125,8
+Machine A/Slides2_ROI_09,1382@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130011.03125,-199872.703125,6
+Machine A/Slides2_ROI_09,1383@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130059.84375,-199876.796875,3
+Machine A/Slides2_ROI_09,1384@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130719.7109375,-199873.75,8
+Machine A/Slides2_ROI_09,1385@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131141.71875,-199870.015625,8
+Machine A/Slides2_ROI_09,1386@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131304.046875,-199872.421875,6
+Machine A/Slides2_ROI_09,1387@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128358.890625,-199869.25,6
+Machine A/Slides2_ROI_09,1388@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128886.40625,-199870.859375,8
+Machine A/Slides2_ROI_09,1389@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130225.9765625,-199874.515625,6
+Machine A/Slides2_ROI_09,1390@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130826.046875,-199874.078125,0
+Machine A/Slides2_ROI_09,1391@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130103.0546875,-199879.234375,3
+Machine A/Slides2_ROI_09,1392@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130574.4765625,-199877.46875,3
+Machine A/Slides2_ROI_09,1393@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,128497.8828125,-199887.625,0
+Machine A/Slides2_ROI_09,1394@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130632.5,-199885.90625,3
+Machine A/Slides2_ROI_09,1395@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130855.703125,-199889.265625,8
+Machine A/Slides2_ROI_09,1396@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130942.4453125,-199885.3125,8
+Machine A/Slides2_ROI_09,1397@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128988.625,-199893.328125,6
+Machine A/Slides2_ROI_09,1398@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129253.59375,-199893.359375,6
+Machine A/Slides2_ROI_09,1399@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129453.09375,-199888.453125,8
+Machine A/Slides2_ROI_09,1400@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128317.234375,-199892.890625,6
+Machine A/Slides2_ROI_09,1401@1,15.0,Mast cells,Mast cells,Myeloid,,machine_A,129423.8984375,-199904.828125,7
+Machine A/Slides2_ROI_09,1402@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130330.953125,-199892.171875,6
+Machine A/Slides2_ROI_09,1403@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131527.5625,-199893.890625,8
+Machine A/Slides2_ROI_09,1404@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129059.6328125,-199887.6875,6
+Machine A/Slides2_ROI_09,1405@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130177.671875,-199895.453125,8
+Machine A/Slides2_ROI_09,1406@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129191.1484375,-199903.0625,8
+Machine A/Slides2_ROI_09,1407@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129340.5859375,-199896.515625,6
+Machine A/Slides2_ROI_09,1408@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129863.5625,-199895.328125,8
+Machine A/Slides2_ROI_09,1409@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,128690.0390625,-199901.984375,0
+Machine A/Slides2_ROI_09,1410@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129123.3984375,-199891.640625,6
+Machine A/Slides2_ROI_09,1411@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,129825.7734375,-199900.96875,1
+Machine A/Slides2_ROI_09,1412@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130440.09375,-199903.359375,8
+Machine A/Slides2_ROI_09,1413@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,129239.4453125,-199909.171875,0
+Machine A/Slides2_ROI_09,1414@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,129765.0625,-199905.375,12
+Machine A/Slides2_ROI_09,1415@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131186.84375,-199902.984375,6
+Machine A/Slides2_ROI_09,1416@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128631.1953125,-199933.140625,6
+Machine A/Slides2_ROI_09,1417@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129289.3515625,-199906.828125,6
+Machine A/Slides2_ROI_09,1418@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,129705.1484375,-199906.75,12
+Machine A/Slides2_ROI_09,1419@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130073.5078125,-199905.359375,8
+Machine A/Slides2_ROI_09,1420@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130111.53125,-199904.75,6
+Machine A/Slides2_ROI_09,1421@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130887.7734375,-199907.640625,3
+Machine A/Slides2_ROI_09,1422@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131573.109375,-199903.59375,6
+Machine A/Slides2_ROI_09,1423@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129553.359375,-199914.734375,6
+Machine A/Slides2_ROI_09,1424@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129956.953125,-199912.078125,6
+Machine A/Slides2_ROI_09,1425@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128470.984375,-199912.25,6
+Machine A/Slides2_ROI_09,1426@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128571.703125,-199908.3125,6
+Machine A/Slides2_ROI_09,1427@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,129585.953125,-199917.484375,0
+Machine A/Slides2_ROI_09,1428@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129906.1875,-199911.671875,6
+Machine A/Slides2_ROI_09,1429@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130536.5625,-199914.71875,3
+Machine A/Slides2_ROI_09,1430@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130721.8125,-199908.328125,8
+Machine A/Slides2_ROI_09,1431@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,129497.6328125,-199915.375,0
+Machine A/Slides2_ROI_09,1432@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131416.96875,-199913.46875,6
+Machine A/Slides2_ROI_09,1433@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131468.53125,-199913.8125,8
+Machine A/Slides2_ROI_09,1434@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130042.1484375,-199919.9375,8
+Machine A/Slides2_ROI_09,1435@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130013.796875,-199925.640625,3
+Machine A/Slides2_ROI_09,1436@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128754.4453125,-199927.9375,6
+Machine A/Slides2_ROI_09,1437@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129333.5,-199921.859375,8
+Machine A/Slides2_ROI_09,1438@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130861.75,-199918.4375,8
+Machine A/Slides2_ROI_09,1439@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128318.65625,-199926.546875,6
+Machine A/Slides2_ROI_09,1440@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128829.125,-199927.5,6
+Machine A/Slides2_ROI_09,1441@1,,Macrophages,Macrophages,Myeloid,,machine_A,128986.6640625,-199923.703125,6
+Machine A/Slides2_ROI_09,1442@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130811.046875,-199927.203125,0
+Machine A/Slides2_ROI_09,1443@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130209.8046875,-199929.4375,6
+Machine A/Slides2_ROI_09,1444@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130348.9296875,-199930.359375,6
+Machine A/Slides2_ROI_09,1445@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128370.5625,-199931.78125,8
+Machine A/Slides2_ROI_09,1446@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129366.65625,-199923.34375,8
+Machine A/Slides2_ROI_09,1447@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130394.1796875,-199932.84375,3
+Machine A/Slides2_ROI_09,1448@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129109.484375,-199934.625,6
+Machine A/Slides2_ROI_09,1449@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,129616.9453125,-199933.265625,0
+Machine A/Slides2_ROI_09,1450@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130459.515625,-199937.21875,12
+Machine A/Slides2_ROI_09,1451@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130674.640625,-199935.109375,8
+Machine A/Slides2_ROI_09,1452@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129454.765625,-199936.203125,3
+Machine A/Slides2_ROI_09,1453@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,131305.484375,-199942.4375,0
+Machine A/Slides2_ROI_09,1454@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,131518.21875,-199938.46875,0
+Machine A/Slides2_ROI_09,1455@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128793.921875,-199941.390625,6
+Machine A/Slides2_ROI_09,1456@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129236.1875,-199936.078125,6
+Machine A/Slides2_ROI_09,1457@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129534.90625,-199946.09375,8
+Machine A/Slides2_ROI_09,1458@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129788.046875,-199937.484375,8
+Machine A/Slides2_ROI_09,1459@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129966.3671875,-199939.546875,8
+Machine A/Slides2_ROI_09,1460@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130136.1015625,-199938.75,12
+Machine A/Slides2_ROI_09,1461@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,131184.75,-199942.6875,3
+Machine A/Slides2_ROI_09,1462@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128458.7734375,-199947.40625,6
+Machine A/Slides2_ROI_09,1463@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130101.5625,-199942.625,12
+Machine A/Slides2_ROI_09,1464@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130262.96875,-199947.375,6
+Machine A/Slides2_ROI_09,1465@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130534.015625,-199944.921875,8
+Machine A/Slides2_ROI_09,1466@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131123.109375,-199945.171875,6
+Machine A/Slides2_ROI_09,1467@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129287.3125,-199949.9375,6
+Machine A/Slides2_ROI_09,1468@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,129710.328125,-199952.484375,0
+Machine A/Slides2_ROI_09,1469@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130306.7734375,-199952.640625,6
+Machine A/Slides2_ROI_09,1470@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130990.078125,-199949.5,8
+Machine A/Slides2_ROI_09,1471@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,131558.671875,-199948.296875,18
+Machine A/Slides2_ROI_09,1472@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130917.0234375,-199955.0625,0
+Machine A/Slides2_ROI_09,1473@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131396.265625,-199951.359375,8
+Machine A/Slides2_ROI_09,1474@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131444.21875,-199950.25,6
+Machine A/Slides2_ROI_09,1475@1,,Unassigned/Other,Unassigned/Other,Other,,machine_A,128906.734375,-199955.578125,18
+Machine A/Slides2_ROI_09,1476@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130644.078125,-199957.609375,6
+Machine A/Slides2_ROI_09,1477@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128569.5234375,-199957.421875,6
+Machine A/Slides2_ROI_09,1478@1,,Macrophages,Macrophages,Myeloid,,machine_A,128840.1484375,-199953.625,6
+Machine A/Slides2_ROI_09,1479@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,130011.078125,-199950.1875,1
+Machine A/Slides2_ROI_09,1480@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130569.515625,-199957.984375,8
+Machine A/Slides2_ROI_09,1481@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130603.5234375,-199956.171875,6
+Machine A/Slides2_ROI_09,1482@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,131232.828125,-199957.484375,3
+Machine A/Slides2_ROI_09,1483@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128715.7578125,-199955.9375,6
+Machine A/Slides2_ROI_09,1484@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130072.0546875,-199964.421875,12
+Machine A/Slides2_ROI_09,1485@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130376.90625,-199961.796875,12
+Machine A/Slides2_ROI_09,1486@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131343.65625,-199963.984375,8
+Machine A/Slides2_ROI_09,1487@1,15.0,Mast cells,Mast cells,Myeloid,,machine_A,128306.5703125,-199967.515625,7
+Machine A/Slides2_ROI_09,1488@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128405.40625,-199972.0625,8
+Machine A/Slides2_ROI_09,1489@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130493.9296875,-199964.390625,12
+Machine A/Slides2_ROI_09,1490@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130869.9296875,-199967.109375,0
+Machine A/Slides2_ROI_09,1491@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128496.8984375,-199969.46875,6
+Machine A/Slides2_ROI_09,1492@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130738.25,-199971.03125,8
+Machine A/Slides2_ROI_09,1493@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131526.328125,-199966.59375,6
+Machine A/Slides2_ROI_09,1494@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129361.40625,-199970.671875,6
+Machine A/Slides2_ROI_09,1495@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129572.2421875,-199973.0625,8
+Machine A/Slides2_ROI_09,1496@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,131293.703125,-199972.234375,0
+Machine A/Slides2_ROI_09,1497@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129462.703125,-199980.484375,8
+Machine A/Slides2_ROI_09,1498@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,129503.6640625,-199982.234375,1
+Machine A/Slides2_ROI_09,1499@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130940.7109375,-199981.640625,0
+Machine A/Slides2_ROI_09,1500@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131489.171875,-199983.5,6
+Machine A/Slides2_ROI_09,1501@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128673.0234375,-199968.578125,6
+Machine A/Slides2_ROI_09,1502@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129401.21875,-199983.0625,6
+Machine A/Slides2_ROI_09,1503@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130327.3359375,-199986.53125,12
+Machine A/Slides2_ROI_09,1504@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129885.0859375,-199982.375,6
+Machine A/Slides2_ROI_09,1505@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130128.7421875,-199986.75,6
+Machine A/Slides2_ROI_09,1506@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130279.6640625,-199983.4375,6
+Machine A/Slides2_ROI_09,1507@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131565.5,-199984.671875,6
+Machine A/Slides2_ROI_09,1508@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,129962.203125,-199982.34375,3
+Machine A/Slides2_ROI_09,1509@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130191.9765625,-199986.296875,8
+Machine A/Slides2_ROI_09,1510@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131445.984375,-199986.65625,8
+Machine A/Slides2_ROI_09,1511@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128434.4921875,-199991.484375,6
+Machine A/Slides2_ROI_09,1512@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129769.640625,-199997.421875,6
+Machine A/Slides2_ROI_09,1513@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129998.5,-199977.046875,6
+Machine A/Slides2_ROI_09,1514@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130546.1953125,-199990.96875,12
+Machine A/Slides2_ROI_09,1515@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130973.59375,-199992.25,8
+Machine A/Slides2_ROI_09,1516@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131101.765625,-199990.0,8
+Machine A/Slides2_ROI_09,1517@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130634.3828125,-199990.84375,12
+Machine A/Slides2_ROI_09,1518@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130909.59375,-199990.8125,0
+Machine A/Slides2_ROI_09,1519@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,129633.4453125,-200000.25,0
+Machine A/Slides2_ROI_09,1520@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131009.4375,-199997.984375,6
+Machine A/Slides2_ROI_09,1521@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,128345.8515625,-200000.921875,0
+Machine A/Slides2_ROI_09,1522@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130396.078125,-199995.578125,12
+Machine A/Slides2_ROI_09,1523@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130688.0078125,-200000.0625,8
+Machine A/Slides2_ROI_09,1524@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,131210.4375,-200000.796875,3
+Machine A/Slides2_ROI_09,1525@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128589.6875,-199991.09375,6
+Machine A/Slides2_ROI_09,1526@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128491.046875,-200004.3125,8
+Machine A/Slides2_ROI_09,1527@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130813.1640625,-200005.875,8
+Machine A/Slides2_ROI_09,1528@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,131256.46875,-200003.953125,0
+Machine A/Slides2_ROI_09,1529@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128625.8515625,-199998.453125,6
+Machine A/Slides2_ROI_09,1530@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128730.0546875,-200002.796875,6
+Machine A/Slides2_ROI_09,1531@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130441.3203125,-200011.59375,12
+Machine A/Slides2_ROI_09,1532@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131158.953125,-200002.125,8
+Machine A/Slides2_ROI_09,1533@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129501.890625,-200006.640625,8
+Machine A/Slides2_ROI_09,1534@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,129607.5234375,-200009.828125,0
+Machine A/Slides2_ROI_09,1535@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130224.0,-200009.671875,8
+Machine A/Slides2_ROI_09,1536@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131395.546875,-200009.625,8
+Machine A/Slides2_ROI_09,1537@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128308.46875,-200016.71875,6
+Machine A/Slides2_ROI_09,1538@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129570.4453125,-200017.125,6
+Machine A/Slides2_ROI_09,1539@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130113.21875,-200013.9375,8
+Machine A/Slides2_ROI_09,1540@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130312.2890625,-200015.4375,8
+Machine A/Slides2_ROI_09,1541@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130526.234375,-200014.5,12
+Machine A/Slides2_ROI_09,1542@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131128.09375,-200012.0625,8
+Machine A/Slides2_ROI_09,1543@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129462.8828125,-200019.828125,6
+Machine A/Slides2_ROI_09,1544@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,130842.0625,-200019.015625,1
+Machine A/Slides2_ROI_09,1545@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130909.3515625,-200020.890625,3
+Machine A/Slides2_ROI_09,1546@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131542.421875,-200014.21875,6
+Machine A/Slides2_ROI_09,1547@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129405.703125,-200016.546875,6
+Machine A/Slides2_ROI_09,1548@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131573.71875,-200025.171875,6
+Machine A/Slides2_ROI_09,1549@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128420.09375,-200027.890625,6
+Machine A/Slides2_ROI_09,1550@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130746.03125,-200021.515625,12
+Machine A/Slides2_ROI_09,1551@1,5.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,130988.5546875,-200020.375,2
+Machine A/Slides2_ROI_09,1552@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,131183.1875,-200019.65625,3
+Machine A/Slides2_ROI_09,1553@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128648.71875,-200027.8125,6
+Machine A/Slides2_ROI_09,1554@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129765.265625,-200028.390625,6
+Machine A/Slides2_ROI_09,1555@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130654.2734375,-200038.296875,12
+Machine A/Slides2_ROI_09,1556@1,15.0,Mast cells,Mast cells,Myeloid,,machine_A,130939.2890625,-200023.828125,7
+Machine A/Slides2_ROI_09,1557@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131238.328125,-200022.515625,8
+Machine A/Slides2_ROI_09,1558@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128532.6953125,-200027.703125,8
+Machine A/Slides2_ROI_09,1559@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130495.734375,-200029.703125,3
+Machine A/Slides2_ROI_09,1560@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131466.25,-200033.203125,6
+Machine A/Slides2_ROI_09,1561@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129846.75,-200037.28125,6
+Machine A/Slides2_ROI_09,1562@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130282.7109375,-200032.5625,6
+Machine A/Slides2_ROI_09,1563@1,5.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,131027.1171875,-200029.796875,2
+Machine A/Slides2_ROI_09,1564@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129721.3671875,-200035.46875,8
+Machine A/Slides2_ROI_09,1565@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130787.9296875,-200034.21875,8
+Machine A/Slides2_ROI_09,1566@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,131358.46875,-200034.421875,3
+Machine A/Slides2_ROI_09,1567@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128681.984375,-200037.15625,6
+Machine A/Slides2_ROI_09,1568@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129656.109375,-200036.953125,8
+Machine A/Slides2_ROI_09,1569@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130551.265625,-200041.109375,12
+Machine A/Slides2_ROI_09,1570@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130692.609375,-200037.5,12
+Machine A/Slides2_ROI_09,1571@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129591.625,-200045.71875,8
+Machine A/Slides2_ROI_09,1572@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129804.9921875,-200046.875,8
+Machine A/Slides2_ROI_09,1573@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129969.453125,-200038.8125,6
+Machine A/Slides2_ROI_09,1574@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130613.484375,-200042.65625,12
+Machine A/Slides2_ROI_09,1575@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128376.4375,-200045.09375,8
+Machine A/Slides2_ROI_09,1576@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128485.1875,-200038.34375,8
+Machine A/Slides2_ROI_09,1577@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,131111.265625,-200047.65625,12
+Machine A/Slides2_ROI_09,1578@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129915.4765625,-200049.96875,6
+Machine A/Slides2_ROI_09,1579@1,0.0,MSC,MSC,Stromal,,machine_A,130463.765625,-200046.453125,13
+Machine A/Slides2_ROI_09,1580@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130811.0390625,-200049.90625,12
+Machine A/Slides2_ROI_09,1581@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,131325.671875,-200063.953125,0
+Machine A/Slides2_ROI_09,1582@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130102.9609375,-200050.4375,3
+Machine A/Slides2_ROI_09,1583@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130231.171875,-200050.890625,6
+Machine A/Slides2_ROI_09,1584@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130922.5546875,-200053.890625,3
+Machine A/Slides2_ROI_09,1585@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130369.3046875,-200053.125,6
+Machine A/Slides2_ROI_09,1586@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129639.5234375,-200055.09375,8
+Machine A/Slides2_ROI_09,1587@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129749.484375,-200055.65625,8
+Machine A/Slides2_ROI_09,1588@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130315.0546875,-200057.21875,8
+Machine A/Slides2_ROI_09,1589@1,5.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,130077.1640625,-200061.359375,2
+Machine A/Slides2_ROI_09,1590@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130429.234375,-200056.875,0
+Machine A/Slides2_ROI_09,1591@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,131221.390625,-200064.15625,3
+Machine A/Slides2_ROI_09,1592@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131267.3125,-200064.78125,8
+Machine A/Slides2_ROI_09,1593@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129549.2734375,-200066.515625,6
+Machine A/Slides2_ROI_09,1594@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130279.5390625,-200062.625,6
+Machine A/Slides2_ROI_09,1595@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130399.8515625,-200061.09375,6
+Machine A/Slides2_ROI_09,1596@1,13.0,MSC,MSC,Stromal,,machine_A,130511.8828125,-200061.921875,13
+Machine A/Slides2_ROI_09,1597@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131511.546875,-200069.734375,6
+Machine A/Slides2_ROI_09,1598@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128431.5546875,-200065.625,6
+Machine A/Slides2_ROI_09,1599@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128629.421875,-200067.859375,8
+Machine A/Slides2_ROI_09,1600@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130883.9375,-200063.8125,8
+Machine A/Slides2_ROI_09,1601@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129714.109375,-200070.5625,8
+Machine A/Slides2_ROI_09,1602@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130050.109375,-200070.375,0
+Machine A/Slides2_ROI_09,1603@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130571.4453125,-200075.8125,3
+Machine A/Slides2_ROI_09,1604@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,131017.1328125,-200077.921875,3
+Machine A/Slides2_ROI_09,1605@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,128660.0625,-200071.5625,1
+Machine A/Slides2_ROI_09,1606@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129600.8203125,-200073.453125,6
+Machine A/Slides2_ROI_09,1607@1,16.0,MSC,MSC,Stromal,,machine_A,130610.7265625,-200072.875,13
+Machine A/Slides2_ROI_09,1608@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130681.8671875,-200075.5625,12
+Machine A/Slides2_ROI_09,1609@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128321.203125,-200085.296875,6
+Machine A/Slides2_ROI_09,1610@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,128579.5625,-200081.421875,0
+Machine A/Slides2_ROI_09,1611@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130218.2890625,-200082.734375,6
+Machine A/Slides2_ROI_09,1612@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130969.828125,-200080.5625,3
+Machine A/Slides2_ROI_09,1613@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131543.109375,-200085.328125,8
+Machine A/Slides2_ROI_09,1614@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,131184.328125,-200077.921875,3
+Machine A/Slides2_ROI_09,1615@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131581.28125,-200098.390625,8
+Machine A/Slides2_ROI_09,1616@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128683.7421875,-200087.859375,6
+Machine A/Slides2_ROI_09,1617@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129768.7421875,-200080.734375,8
+Machine A/Slides2_ROI_09,1618@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130159.9765625,-200080.65625,6
+Machine A/Slides2_ROI_09,1619@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130732.859375,-200084.875,12
+Machine A/Slides2_ROI_09,1620@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129804.6015625,-200088.9375,6
+Machine A/Slides2_ROI_09,1621@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129974.78125,-200092.296875,6
+Machine A/Slides2_ROI_09,1622@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130465.25,-200096.1875,0
+Machine A/Slides2_ROI_09,1623@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130545.2421875,-200088.453125,3
+Machine A/Slides2_ROI_09,1624@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,130339.4453125,-200099.65625,1
+Machine A/Slides2_ROI_09,1625@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131450.921875,-200099.03125,8
+Machine A/Slides2_ROI_09,1626@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,128654.515625,-200099.859375,0
+Machine A/Slides2_ROI_09,1627@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130079.578125,-200097.171875,8
+Machine A/Slides2_ROI_09,1628@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130300.7109375,-200099.390625,6
+Machine A/Slides2_ROI_09,1629@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,131300.265625,-200098.078125,0
+Machine A/Slides2_ROI_09,1630@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128511.4609375,-200104.484375,6
+Machine A/Slides2_ROI_09,1631@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131502.765625,-200105.625,8
+Machine A/Slides2_ROI_09,1632@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129860.109375,-200099.140625,6
+Machine A/Slides2_ROI_09,1633@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129902.4765625,-200106.3125,6
+Machine A/Slides2_ROI_09,1634@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129936.640625,-200097.015625,6
+Machine A/Slides2_ROI_09,1635@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130518.234375,-200107.578125,0
+Machine A/Slides2_ROI_09,1636@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,131152.171875,-200106.53125,3
+Machine A/Slides2_ROI_09,1637@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,129730.890625,-200107.25,8
+Machine A/Slides2_ROI_09,1638@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,131247.578125,-200110.09375,3
+Machine A/Slides2_ROI_09,1639@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130021.609375,-200117.859375,8
+Machine A/Slides2_ROI_09,1640@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130118.4140625,-200119.484375,6
+Machine A/Slides2_ROI_09,1641@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,131209.65625,-200109.03125,3
+Machine A/Slides2_ROI_09,1642@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130232.3671875,-200112.5625,0
+Machine A/Slides2_ROI_09,1643@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130625.296875,-200111.0,8
+Machine A/Slides2_ROI_09,1644@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131365.28125,-200117.5625,6
+Machine A/Slides2_ROI_09,1645@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128446.5390625,-200125.8125,6
+Machine A/Slides2_ROI_09,1646@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130665.4296875,-200121.0,0
+Machine A/Slides2_ROI_09,1647@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130792.5703125,-200117.59375,12
+Machine A/Slides2_ROI_09,1648@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130751.984375,-200120.125,12
+Machine A/Slides2_ROI_09,1649@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131039.40625,-200119.953125,8
+Machine A/Slides2_ROI_09,1650@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128699.7890625,-200136.796875,6
+Machine A/Slides2_ROI_09,1651@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130834.703125,-200120.140625,12
+Machine A/Slides2_ROI_09,1652@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130918.0703125,-200127.96875,12
+Machine A/Slides2_ROI_09,1653@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131451.4375,-200122.5,6
+Machine A/Slides2_ROI_09,1654@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128527.6796875,-200121.484375,6
+Machine A/Slides2_ROI_09,1655@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130075.4765625,-200133.953125,6
+Machine A/Slides2_ROI_09,1656@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130405.78125,-200118.0,6
+Machine A/Slides2_ROI_09,1657@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130702.171875,-200120.109375,8
+Machine A/Slides2_ROI_09,1658@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,130871.890625,-200129.546875,12
+Machine A/Slides2_ROI_09,1659@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129794.53125,-200138.09375,6
+Machine A/Slides2_ROI_09,1660@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130457.1875,-200134.671875,6
+Machine A/Slides2_ROI_09,1661@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131545.65625,-200133.875,8
+Machine A/Slides2_ROI_09,1662@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131112.90625,-200139.34375,8
+Machine A/Slides2_ROI_09,1663@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131407.421875,-200129.59375,6
+Machine A/Slides2_ROI_09,1664@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131503.0,-200137.5625,6
+Machine A/Slides2_ROI_09,1665@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128377.5,-200140.125,6
+Machine A/Slides2_ROI_09,1666@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129925.75,-200144.9375,6
+Machine A/Slides2_ROI_09,1667@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,130340.8671875,-200133.53125,1
+Machine A/Slides2_ROI_09,1668@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130964.59375,-200138.96875,8
+Machine A/Slides2_ROI_09,1669@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129841.3671875,-200152.796875,6
+Machine A/Slides2_ROI_09,1670@1,11.0,MSC,MSC,Stromal,,machine_A,129994.9296875,-200148.859375,13
+Machine A/Slides2_ROI_09,1671@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130681.96875,-200148.484375,6
+Machine A/Slides2_ROI_09,1672@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131446.078125,-200148.703125,8
+Machine A/Slides2_ROI_09,1673@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131576.75,-200153.65625,8
+Machine A/Slides2_ROI_09,1674@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130735.9140625,-200157.515625,8
+Machine A/Slides2_ROI_09,1675@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130930.421875,-200154.5,6
+Machine A/Slides2_ROI_09,1676@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131220.96875,-200155.1875,6
+Machine A/Slides2_ROI_09,1677@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,128423.453125,-200157.03125,0
+Machine A/Slides2_ROI_09,1678@1,,NPM1_blasts,NPM1_blasts,Leukemia,,machine_A,128543.359375,-200157.4375,10
+Machine A/Slides2_ROI_09,1679@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,128647.28125,-200157.359375,10
+Machine A/Slides2_ROI_09,1680@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131190.40625,-200170.59375,8
+Machine A/Slides2_ROI_09,1681@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,128459.1015625,-200163.359375,0
+Machine A/Slides2_ROI_09,1682@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130105.9296875,-200164.40625,8
+Machine A/Slides2_ROI_09,1683@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130787.203125,-200168.90625,6
+Machine A/Slides2_ROI_09,1684@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130839.6640625,-200163.03125,6
+Machine A/Slides2_ROI_09,1685@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130996.9765625,-200166.65625,8
+Machine A/Slides2_ROI_09,1686@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,131361.5625,-200159.078125,3
+Machine A/Slides2_ROI_09,1687@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131478.6875,-200164.1875,6
+Machine A/Slides2_ROI_09,1688@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130641.8671875,-200163.171875,6
+Machine A/Slides2_ROI_09,1689@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130871.328125,-200170.21875,6
+Machine A/Slides2_ROI_09,1690@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131039.2578125,-200180.890625,6
+Machine A/Slides2_ROI_09,1691@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131083.484375,-200169.984375,8
+Machine A/Slides2_ROI_09,1692@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131147.390625,-200168.53125,8
+Machine A/Slides2_ROI_09,1693@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,131298.046875,-200172.6875,3
+Machine A/Slides2_ROI_09,1694@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131400.125,-200166.359375,8
+Machine A/Slides2_ROI_09,1695@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130014.7734375,-200170.875,8
+Machine A/Slides2_ROI_09,1696@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130258.5,-200173.234375,8
+Machine A/Slides2_ROI_09,1697@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,128525.0859375,-200176.3125,0
+Machine A/Slides2_ROI_09,1698@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130155.7109375,-200177.59375,8
+Machine A/Slides2_ROI_09,1699@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130050.5234375,-200173.1875,8
+Machine A/Slides2_ROI_09,1700@1,,Macrophages,Macrophages,Myeloid,,machine_A,128716.6171875,-200184.75,6
+Machine A/Slides2_ROI_09,1701@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129853.3671875,-200183.65625,6
+Machine A/Slides2_ROI_09,1702@1,10.0,Erythroid,Erythroid,Erythroid,,machine_A,130190.21875,-200184.78125,9
+Machine A/Slides2_ROI_09,1703@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131532.4375,-200183.015625,8
+Machine A/Slides2_ROI_09,1704@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128693.140625,-200185.5625,8
+Machine A/Slides2_ROI_09,1705@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130951.4453125,-200189.140625,6
+Machine A/Slides2_ROI_09,1706@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,131268.390625,-200191.140625,0
+Machine A/Slides2_ROI_09,1707@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,128493.484375,-200190.078125,0
+Machine A/Slides2_ROI_09,1708@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130736.96875,-200185.765625,6
+Machine A/Slides2_ROI_09,1709@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131108.671875,-200187.34375,6
+Machine A/Slides2_ROI_09,1710@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,131334.59375,-200189.765625,3
+Machine A/Slides2_ROI_09,1711@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128350.203125,-200191.515625,6
+Machine A/Slides2_ROI_09,1712@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130278.4453125,-200197.765625,6
+Machine A/Slides2_ROI_09,1713@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130370.109375,-200196.421875,6
+Machine A/Slides2_ROI_09,1714@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131441.140625,-200196.765625,8
+Machine A/Slides2_ROI_09,1715@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,129922.0859375,-200196.78125,12
+Machine A/Slides2_ROI_09,1716@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129976.84375,-200199.546875,6
+Machine A/Slides2_ROI_09,1717@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130815.5703125,-200200.125,6
+Machine A/Slides2_ROI_09,1718@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130896.8203125,-200199.34375,6
+Machine A/Slides2_ROI_09,1719@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131295.375,-200198.125,8
+Machine A/Slides2_ROI_09,1720@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,128539.1640625,-200202.328125,0
+Machine A/Slides2_ROI_09,1721@1,,Macrophages,Macrophages,Myeloid,,machine_A,131152.484375,-200201.28125,6
+Machine A/Slides2_ROI_09,1722@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131571.375,-200203.0,6
+Machine A/Slides2_ROI_09,1723@1,10.0,Erythroid,Erythroid,Erythroid,,machine_A,130158.0,-200213.296875,9
+Machine A/Slides2_ROI_09,1724@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131240.796875,-200210.828125,6
+Machine A/Slides2_ROI_09,1725@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131205.40625,-200212.65625,6
+Machine A/Slides2_ROI_09,1726@1,5.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,128704.3125,-200213.578125,2
+Machine A/Slides2_ROI_09,1727@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,130244.9453125,-200221.859375,3
+Machine A/Slides2_ROI_09,1728@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130995.765625,-200221.8125,6
+Machine A/Slides2_ROI_09,1729@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128390.3984375,-200220.640625,6
+Machine A/Slides2_ROI_09,1730@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130924.2734375,-200223.953125,6
+Machine A/Slides2_ROI_09,1731@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131352.015625,-200215.234375,6
+Machine A/Slides2_ROI_09,1732@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131472.390625,-200223.0,6
+Machine A/Slides2_ROI_09,1733@1,,Unassigned/Other,Unassigned/Other,Other,,machine_A,128724.2578125,-200227.09375,18
+Machine A/Slides2_ROI_09,1734@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130212.5390625,-200229.234375,6
+Machine A/Slides2_ROI_09,1735@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130034.640625,-200233.140625,6
+Machine A/Slides2_ROI_09,1736@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130820.734375,-200229.453125,6
+Machine A/Slides2_ROI_09,1737@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130880.484375,-200240.265625,6
+Machine A/Slides2_ROI_09,1738@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128305.7265625,-200238.125,6
+Machine A/Slides2_ROI_09,1739@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130128.328125,-200237.90625,6
+Machine A/Slides2_ROI_09,1740@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131397.59375,-200236.40625,6
+Machine A/Slides2_ROI_09,1741@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128418.828125,-200238.140625,8
+Machine A/Slides2_ROI_09,1742@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130171.90625,-200236.03125,6
+Machine A/Slides2_ROI_09,1743@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130278.796875,-200240.3125,6
+Machine A/Slides2_ROI_09,1744@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,128642.875,-200238.859375,10
+Machine A/Slides2_ROI_09,1745@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130798.1171875,-200243.09375,6
+Machine A/Slides2_ROI_09,1746@1,19.0,Unassigned/Other,NPM1_blasts,Leukemia,(a) v2 Tumor: Quiescent AML blast,machine_A,128578.7265625,-200256.421875,10
+Machine A/Slides2_ROI_09,1747@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130961.7890625,-200248.671875,6
+Machine A/Slides2_ROI_09,1748@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128706.21875,-200266.859375,6
+Machine A/Slides2_ROI_09,1749@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129870.921875,-200251.78125,6
+Machine A/Slides2_ROI_09,1750@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131439.5,-200252.671875,6
+Machine A/Slides2_ROI_09,1751@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131576.046875,-200254.953125,8
+Machine A/Slides2_ROI_09,1752@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,128519.59375,-200248.859375,0
+Machine A/Slides2_ROI_09,1753@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130031.296875,-200262.796875,6
+Machine A/Slides2_ROI_09,1754@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130148.84375,-200261.40625,0
+Machine A/Slides2_ROI_09,1755@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130934.828125,-200261.8125,6
+Machine A/Slides2_ROI_09,1756@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131495.734375,-200260.171875,8
+Machine A/Slides2_ROI_09,1757@1,11.0,MSC,MSC,Stromal,,machine_A,130229.59375,-200266.4375,13
+Machine A/Slides2_ROI_09,1758@1,,MSC,MSC,Stromal,,machine_A,130343.3515625,-200266.40625,13
+Machine A/Slides2_ROI_09,1759@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130113.0234375,-200267.265625,6
+Machine A/Slides2_ROI_09,1760@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130303.859375,-200269.0,8
+Machine A/Slides2_ROI_09,1761@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128308.359375,-200274.390625,6
+Machine A/Slides2_ROI_09,1762@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128367.171875,-200275.515625,6
+Machine A/Slides2_ROI_09,1763@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128456.4140625,-200278.6875,6
+Machine A/Slides2_ROI_09,1764@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130868.890625,-200278.90625,6
+Machine A/Slides2_ROI_09,1765@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,129950.8359375,-200283.234375,6
+Machine A/Slides2_ROI_09,1766@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128509.078125,-200283.53125,8
+Machine A/Slides2_ROI_09,1767@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130090.09375,-200282.3125,6
+Machine A/Slides2_ROI_09,1768@1,11.0,MSC,MSC,Stromal,,machine_A,130264.421875,-200286.515625,13
+Machine A/Slides2_ROI_09,1769@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,130162.5078125,-200287.03125,0
+Machine A/Slides2_ROI_09,1770@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130114.8984375,-200291.59375,6
+Machine A/Slides2_ROI_09,1771@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130190.5625,-200295.3125,6
+Machine A/Slides2_ROI_09,1772@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130023.8828125,-200297.6875,6
+Machine A/Slides2_ROI_09,1773@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128566.328125,-200300.78125,6
+Machine A/Slides2_ROI_09,1774@1,5.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,128664.5546875,-200299.609375,2
+Machine A/Slides2_ROI_09,1775@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,131416.609375,-200301.09375,6
+Machine A/Slides2_ROI_09,1776@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130231.6171875,-200303.28125,6
+Machine A/Slides2_ROI_09,1777@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,130287.0546875,-200305.390625,8
+Machine A/Slides2_ROI_09,1778@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130869.78125,-200308.109375,6
+Machine A/Slides2_ROI_09,1779@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128490.2265625,-200323.546875,6
+Machine A/Slides2_ROI_09,1780@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128533.4375,-200325.703125,6
+Machine A/Slides2_ROI_09,1781@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128701.9453125,-200326.0625,6
+Machine A/Slides2_ROI_09,1782@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130109.9375,-200329.453125,6
+Machine A/Slides2_ROI_09,1783@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130006.453125,-200321.90625,6
+Machine A/Slides2_ROI_09,1784@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128619.4765625,-200336.09375,8
+Machine A/Slides2_ROI_09,1785@1,,Unassigned/Other,Unassigned/Other,Other,,machine_A,130265.484375,-200332.5625,18
+Machine A/Slides2_ROI_09,1786@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,131553.375,-200342.71875,8
+Machine A/Slides2_ROI_09,1787@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130233.203125,-200342.296875,6
+Machine A/Slides2_ROI_09,1788@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128582.421875,-200344.25,6
+Machine A/Slides2_ROI_09,1789@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128747.90625,-200355.234375,6
+Machine A/Slides2_ROI_09,1790@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130044.890625,-200351.40625,6
+Machine A/Slides2_ROI_09,1791@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130148.0546875,-200351.65625,6
+Machine A/Slides2_ROI_09,1792@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130201.3828125,-200353.890625,6
+Machine A/Slides2_ROI_09,1793@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130854.515625,-200352.15625,6
+Machine A/Slides2_ROI_09,1794@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128520.4296875,-200357.21875,6
+Machine A/Slides2_ROI_09,1795@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128694.6875,-200373.21875,8
+Machine A/Slides2_ROI_09,1796@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130107.125,-200377.375,6
+Machine A/Slides2_ROI_09,1797@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,129971.8203125,-200386.625,18
+Machine A/Slides2_ROI_09,1798@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128613.8671875,-200392.6875,6
+Machine A/Slides2_ROI_09,1799@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128661.5390625,-200392.03125,6
+Machine A/Slides2_ROI_09,1800@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,128762.296875,-200392.0625,8
+Machine A/Slides2_ROI_09,1801@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,130864.8828125,-200408.828125,6
+Machine A/Slides2_ROI_09,1802@1,,Unassigned/Other,Unassigned/Other,Other,,machine_A,128802.5859375,-200419.796875,18
+Machine A/Slides2_ROI_09,1803@1,,Unassigned/Other,Unassigned/Other,Other,,machine_A,128640.34375,-200424.453125,18
+Machine A/Slides2_ROI_09,1804@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,128601.21875,-200427.4375,6
+Machine A/Slides2_ROI_09,1805@1,,Granulocyte,Granulocyte,Myeloid,,machine_A,128859.546875,-200428.890625,3
+Machine A/Slides2_ROI_09,1806@1,,Macrophages,Macrophages,Myeloid,,machine_A,129942.1171875,-200444.46875,6
+Machine A/Slides2_ROI_09,1807@1,,Granulocyte,Granulocyte,Myeloid,,machine_A,128879.03125,-200448.828125,3
+Machine A/Slides2_ROI_09,1808@1,,CD8+ T,CD8+ T,Lymphoid,,machine_A,129573.765625,-200475.6875,1
+Machine A/Slides2_ROI_09,1809@1,,Erythroid,Erythroid,Erythroid,,machine_A,131353.203125,-200590.84375,9
+Machine A/Slides2_ROI_09,1810@1,,Erythroid,Erythroid,Erythroid,,machine_A,131587.28125,-200739.5,9

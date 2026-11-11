@@ -1,0 +1,21 @@
+v76_label,v7.6_n,final_n,lost_to_NPM1_blasts,%_kept
+Artifact,1543,1012,531,65.6
+CD4+ T,7801,7788,13,99.8
+CD8+ T,7070,7048,22,99.7
+Dendritic cells (CD11c+HLA-DR+),6782,0,12,99.8
+Endothelial,10447,10378,69,99.3
+Erythroid,24731,21796,2935,88.1
+Granulocyte,44101,44100,1,100.0
+HLA-DR-hi APC (CD1c+),1978,6770,3,99.8
+Immature myeloid CD11c+,0,1975,0,
+MSC,9144,7847,1297,85.8
+Macrophages,19702,19328,374,98.1
+Mast cells,14739,14102,637,95.7
+Megakaryocyte,5135,5125,10,99.8
+Mixed progenitors,13290,198,13092,1.5
+Monocytes,15087,15038,49,99.7
+NPM1_blasts,16222,43493,0,100.0
+Plasma cells,9548,9510,38,99.6
+Unassigned-Leiden: CD68+CD3+Tryptase+,1585,1584,1,99.9
+Unassigned-Leiden: Ki67+CD147+CD45RA+,2409,2407,2,99.9
+Unassigned/Other,22635,14450,8185,63.8

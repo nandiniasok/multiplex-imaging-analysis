@@ -1,0 +1,1556 @@
+unique_region,Cell Id,v2_final_label_integer,v76_label,final_label,final_coarse,tumour_recovery_reason,machine,Nuc X,Nuc Y Inv,final_label_int
+Machine A/Slides1_ROI_14,1@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101382.2578125,-250656.5,15
+Machine A/Slides1_ROI_14,2@1,,Mast cells,Mast cells,Myeloid,,machine_A,99513.1171875,-250661.84375,7
+Machine A/Slides1_ROI_14,3@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101973.6484375,-250701.28125,15
+Machine A/Slides1_ROI_14,4@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,99799.0234375,-250719.578125,12
+Machine A/Slides1_ROI_14,5@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101626.1171875,-250719.265625,12
+Machine A/Slides1_ROI_14,6@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,101185.4375,-250723.484375,1
+Machine A/Slides1_ROI_14,7@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99863.4765625,-250726.71875,15
+Machine A/Slides1_ROI_14,8@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101752.9765625,-250725.609375,12
+Machine A/Slides1_ROI_14,9@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,102407.5625,-250727.046875,6
+Machine A/Slides1_ROI_14,10@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101690.21875,-250732.140625,12
+Machine A/Slides1_ROI_14,11@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,101259.109375,-250738.328125,6
+Machine A/Slides1_ROI_14,12@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,99821.5,-250756.96875,8
+Machine A/Slides1_ROI_14,13@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100766.5703125,-250759.828125,15
+Machine A/Slides1_ROI_14,14@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,100929.9453125,-250763.546875,18
+Machine A/Slides1_ROI_14,15@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101538.5078125,-250768.125,15
+Machine A/Slides1_ROI_14,16@1,,Mast cells,Mast cells,Myeloid,,machine_A,99783.6328125,-250770.515625,7
+Machine A/Slides1_ROI_14,17@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,101885.7890625,-250781.6875,1
+Machine A/Slides1_ROI_14,18@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,101167.78125,-250786.671875,6
+Machine A/Slides1_ROI_14,19@1,10.0,Erythroid,Erythroid,Erythroid,,machine_A,97694.5,-250786.203125,9
+Machine A/Slides1_ROI_14,20@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,97999.0234375,-250805.375,1
+Machine A/Slides1_ROI_14,21@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,97811.6171875,-250809.140625,15
+Machine A/Slides1_ROI_14,22@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,98491.828125,-250809.515625,1
+Machine A/Slides1_ROI_14,23@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,98691.8984375,-250820.921875,6
+Machine A/Slides1_ROI_14,24@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,100608.4921875,-250826.78125,3
+Machine A/Slides1_ROI_14,25@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,97854.78125,-250834.046875,15
+Machine A/Slides1_ROI_14,26@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,101026.8515625,-250839.828125,1
+Machine A/Slides1_ROI_14,27@1,,Unassigned/Other,NPM1_blasts,Leukemia,(c) Unassigned/Artifact NPM1_mut+,machine_A,96726.1796875,-250840.125,10
+Machine A/Slides1_ROI_14,28@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,97784.609375,-250841.78125,6
+Machine A/Slides1_ROI_14,29@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,96539.0625,-250851.75,12
+Machine A/Slides1_ROI_14,30@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,96101.078125,-250858.53125,4
+Machine A/Slides1_ROI_14,31@1,24.0,Mast cells,Mast cells,Myeloid,,machine_A,99883.5078125,-250862.921875,7
+Machine A/Slides1_ROI_14,32@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,101031.0703125,-250873.828125,1
+Machine A/Slides1_ROI_14,33@1,,Mast cells,Mast cells,Myeloid,,machine_A,101838.8046875,-250873.40625,7
+Machine A/Slides1_ROI_14,34@1,15.0,Mast cells,Mast cells,Myeloid,,machine_A,99372.4296875,-250879.5,7
+Machine A/Slides1_ROI_14,35@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,96460.3046875,-250883.21875,12
+Machine A/Slides1_ROI_14,36@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,96719.765625,-250883.96875,10
+Machine A/Slides1_ROI_14,37@1,24.0,Mast cells,Mast cells,Myeloid,,machine_A,101548.4609375,-250886.5625,7
+Machine A/Slides1_ROI_14,38@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,98443.5234375,-250888.125,6
+Machine A/Slides1_ROI_14,39@1,,Mast cells,Mast cells,Myeloid,,machine_A,99479.09375,-250892.953125,7
+Machine A/Slides1_ROI_14,40@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,97088.78125,-250899.953125,12
+Machine A/Slides1_ROI_14,41@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,98496.234375,-250901.5,6
+Machine A/Slides1_ROI_14,42@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,101040.6796875,-250906.8125,1
+Machine A/Slides1_ROI_14,43@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,101751.859375,-250911.3125,0
+Machine A/Slides1_ROI_14,44@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,97107.40625,-250936.328125,12
+Machine A/Slides1_ROI_14,45@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,99294.078125,-250937.421875,1
+Machine A/Slides1_ROI_14,46@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,101007.40625,-250933.875,1
+Machine A/Slides1_ROI_14,47@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,101447.6875,-250934.96875,18
+Machine A/Slides1_ROI_14,48@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,102374.578125,-250942.8125,6
+Machine A/Slides1_ROI_14,49@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,97034.7890625,-250946.8125,15
+Machine A/Slides1_ROI_14,50@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,97504.0390625,-250949.609375,15
+Machine A/Slides1_ROI_14,51@1,25.0,Mast cells,Mast cells,Myeloid,,machine_A,99620.59375,-250949.53125,7
+Machine A/Slides1_ROI_14,52@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100706.6171875,-250954.140625,15
+Machine A/Slides1_ROI_14,53@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100766.265625,-250974.15625,1
+Machine A/Slides1_ROI_14,54@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,97111.875,-250978.953125,6
+Machine A/Slides1_ROI_14,55@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,96740.859375,-250986.3125,12
+Machine A/Slides1_ROI_14,56@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,97272.1328125,-250986.734375,7
+Machine A/Slides1_ROI_14,57@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99209.984375,-250985.484375,15
+Machine A/Slides1_ROI_14,58@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,102426.0234375,-250985.078125,6
+Machine A/Slides1_ROI_14,59@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,96153.90625,-251002.34375,1
+Machine A/Slides1_ROI_14,60@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99109.578125,-251008.21875,15
+Machine A/Slides1_ROI_14,61@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,99671.96875,-251009.875,0
+Machine A/Slides1_ROI_14,62@1,24.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100646.375,-251010.28125,15
+Machine A/Slides1_ROI_14,63@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,96779.5390625,-251013.484375,12
+Machine A/Slides1_ROI_14,64@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99021.796875,-251018.109375,15
+Machine A/Slides1_ROI_14,65@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,96114.0859375,-251020.28125,6
+Machine A/Slides1_ROI_14,66@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,96827.140625,-251028.09375,12
+Machine A/Slides1_ROI_14,67@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,98659.1640625,-251039.4375,12
+Machine A/Slides1_ROI_14,68@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,96253.171875,-251041.734375,7
+Machine A/Slides1_ROI_14,69@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100795.1953125,-251039.421875,1
+Machine A/Slides1_ROI_14,70@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,98535.21875,-251047.625,7
+Machine A/Slides1_ROI_14,71@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,98923.265625,-251049.109375,6
+Machine A/Slides1_ROI_14,72@1,15.0,Mast cells,Mast cells,Myeloid,,machine_A,99228.9375,-251046.546875,7
+Machine A/Slides1_ROI_14,73@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100681.8046875,-251048.171875,1
+Machine A/Slides1_ROI_14,74@1,5.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,101130.625,-251064.734375,2
+Machine A/Slides1_ROI_14,75@1,22.0,NPM1_blasts,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Leukemic erythroid blast,machine_A,101195.6640625,-251061.140625,10
+Machine A/Slides1_ROI_14,76@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,97549.671875,-251063.5,7
+Machine A/Slides1_ROI_14,77@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,96855.4921875,-251071.859375,1
+Machine A/Slides1_ROI_14,78@1,5.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,101096.5,-251079.921875,2
+Machine A/Slides1_ROI_14,79@1,5.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,101162.890625,-251080.28125,2
+Machine A/Slides1_ROI_14,80@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,101333.59375,-251084.40625,0
+Machine A/Slides1_ROI_14,81@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,97930.59375,-251088.03125,6
+Machine A/Slides1_ROI_14,82@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,96440.0390625,-251091.328125,12
+Machine A/Slides1_ROI_14,83@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,97159.9921875,-251112.0,7
+Machine A/Slides1_ROI_14,84@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,96464.265625,-251119.90625,12
+Machine A/Slides1_ROI_14,85@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,99281.9453125,-251124.546875,12
+Machine A/Slides1_ROI_14,86@1,25.0,Mast cells,Mast cells,Myeloid,,machine_A,99535.578125,-251124.640625,7
+Machine A/Slides1_ROI_14,87@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,99011.078125,-251128.734375,12
+Machine A/Slides1_ROI_14,88@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,98359.1171875,-251141.171875,7
+Machine A/Slides1_ROI_14,89@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,98137.21875,-251144.90625,15
+Machine A/Slides1_ROI_14,90@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,101105.125,-251144.0625,1
+Machine A/Slides1_ROI_14,91@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,98523.8515625,-251164.53125,7
+Machine A/Slides1_ROI_14,92@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,97939.625,-251170.671875,7
+Machine A/Slides1_ROI_14,93@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,99478.5,-251176.5,7
+Machine A/Slides1_ROI_14,94@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,96271.6953125,-251188.0,15
+Machine A/Slides1_ROI_14,95@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,96118.921875,-251189.640625,6
+Machine A/Slides1_ROI_14,96@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,101190.953125,-251195.703125,4
+Machine A/Slides1_ROI_14,97@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,96618.1796875,-251211.984375,12
+Machine A/Slides1_ROI_14,98@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,96250.5703125,-251233.109375,9
+Machine A/Slides1_ROI_14,99@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,97507.671875,-251236.734375,1
+Machine A/Slides1_ROI_14,100@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,98330.4609375,-251238.734375,7
+Machine A/Slides1_ROI_14,101@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,98523.71875,-251250.046875,12
+Machine A/Slides1_ROI_14,102@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,98060.828125,-251259.546875,12
+Machine A/Slides1_ROI_14,103@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,101478.296875,-251269.75,18
+Machine A/Slides1_ROI_14,104@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,97148.71875,-251270.65625,12
+Machine A/Slides1_ROI_14,105@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,97302.9140625,-251270.15625,6
+Machine A/Slides1_ROI_14,106@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,97802.21875,-251271.671875,15
+Machine A/Slides1_ROI_14,107@1,,Mast cells,Mast cells,Myeloid,,machine_A,100947.7109375,-251271.875,7
+Machine A/Slides1_ROI_14,108@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,102133.5625,-251273.8125,6
+Machine A/Slides1_ROI_14,109@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99285.5546875,-251278.921875,15
+Machine A/Slides1_ROI_14,110@1,24.0,Mast cells,Mast cells,Myeloid,,machine_A,99732.7578125,-251285.875,7
+Machine A/Slides1_ROI_14,111@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,98156.9453125,-251285.921875,12
+Machine A/Slides1_ROI_14,112@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,102154.8203125,-251301.046875,6
+Machine A/Slides1_ROI_14,113@1,24.0,Mast cells,Mast cells,Myeloid,,machine_A,99770.640625,-251303.375,7
+Machine A/Slides1_ROI_14,114@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,97905.4765625,-251305.328125,12
+Machine A/Slides1_ROI_14,115@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,98776.6640625,-251305.203125,15
+Machine A/Slides1_ROI_14,116@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,99116.40625,-251305.328125,1
+Machine A/Slides1_ROI_14,117@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,97188.125,-251312.125,12
+Machine A/Slides1_ROI_14,118@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,98025.109375,-251327.65625,12
+Machine A/Slides1_ROI_14,119@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,97489.2578125,-251345.09375,12
+Machine A/Slides1_ROI_14,120@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,98072.359375,-251360.6875,12
+Machine A/Slides1_ROI_14,121@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,96872.3125,-251366.375,7
+Machine A/Slides1_ROI_14,122@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,97424.7421875,-251372.390625,12
+Machine A/Slides1_ROI_14,123@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,98158.90625,-251370.1875,15
+Machine A/Slides1_ROI_14,124@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,97484.4453125,-251375.03125,12
+Machine A/Slides1_ROI_14,125@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,102428.859375,-251375.65625,6
+Machine A/Slides1_ROI_14,126@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99739.2421875,-251414.3125,15
+Machine A/Slides1_ROI_14,127@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,97285.3515625,-251421.359375,1
+Machine A/Slides1_ROI_14,128@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,98610.984375,-251422.71875,12
+Machine A/Slides1_ROI_14,129@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,98794.34375,-251435.265625,15
+Machine A/Slides1_ROI_14,130@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,98256.2265625,-251439.5625,15
+Machine A/Slides1_ROI_14,131@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,99692.2734375,-251439.265625,1
+Machine A/Slides1_ROI_14,132@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,101956.6015625,-251439.9375,1
+Machine A/Slides1_ROI_14,133@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,98097.640625,-251458.078125,7
+Machine A/Slides1_ROI_14,134@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,97395.421875,-251461.0625,6
+Machine A/Slides1_ROI_14,135@1,25.0,MSC,MSC,Stromal,,machine_A,99726.953125,-251458.9375,13
+Machine A/Slides1_ROI_14,136@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,97978.6328125,-251467.125,7
+Machine A/Slides1_ROI_14,137@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,99501.46875,-251480.15625,1
+Machine A/Slides1_ROI_14,138@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,99750.390625,-251478.515625,8
+Machine A/Slides1_ROI_14,139@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,96195.6640625,-251483.671875,7
+Machine A/Slides1_ROI_14,140@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101679.2734375,-251485.390625,15
+Machine A/Slides1_ROI_14,141@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,97048.2421875,-251489.71875,6
+Machine A/Slides1_ROI_14,142@1,6.0,Mast cells,Mast cells,Myeloid,,machine_A,99674.1640625,-251489.78125,7
+Machine A/Slides1_ROI_14,143@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99546.5390625,-251495.015625,15
+Machine A/Slides1_ROI_14,144@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,99482.1796875,-251497.71875,1
+Machine A/Slides1_ROI_14,145@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,96971.5078125,-251504.046875,12
+Machine A/Slides1_ROI_14,146@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,96874.2109375,-251513.140625,15
+Machine A/Slides1_ROI_14,147@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,101872.53125,-251513.859375,1
+Machine A/Slides1_ROI_14,148@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,102050.4609375,-251515.203125,6
+Machine A/Slides1_ROI_14,149@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,102247.15625,-251521.984375,6
+Machine A/Slides1_ROI_14,150@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,97939.5859375,-251524.84375,7
+Machine A/Slides1_ROI_14,151@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101948.296875,-251523.953125,12
+Machine A/Slides1_ROI_14,152@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,98359.1640625,-251530.96875,15
+Machine A/Slides1_ROI_14,153@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,96318.2890625,-251533.296875,15
+Machine A/Slides1_ROI_14,154@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,101975.0625,-251542.53125,6
+Machine A/Slides1_ROI_14,155@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,96091.2734375,-251543.3125,15
+Machine A/Slides1_ROI_14,156@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,97735.109375,-251544.625,7
+Machine A/Slides1_ROI_14,157@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,102275.53125,-251554.53125,6
+Machine A/Slides1_ROI_14,158@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,98950.0390625,-251555.1875,12
+Machine A/Slides1_ROI_14,159@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99356.390625,-251562.203125,15
+Machine A/Slides1_ROI_14,160@1,6.0,Endothelial,Endothelial,Stromal,,machine_A,101957.6953125,-251585.03125,12
+Machine A/Slides1_ROI_14,161@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,96528.6171875,-251593.09375,7
+Machine A/Slides1_ROI_14,162@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,98305.296875,-251588.90625,15
+Machine A/Slides1_ROI_14,163@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99499.9765625,-251588.640625,15
+Machine A/Slides1_ROI_14,164@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99221.7578125,-251594.15625,15
+Machine A/Slides1_ROI_14,165@1,5.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,98765.0546875,-251596.453125,2
+Machine A/Slides1_ROI_14,166@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,102334.6953125,-251596.796875,6
+Machine A/Slides1_ROI_14,167@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,96344.4921875,-251607.296875,7
+Machine A/Slides1_ROI_14,168@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,98695.2421875,-251617.28125,12
+Machine A/Slides1_ROI_14,169@1,5.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,98733.9609375,-251628.171875,2
+Machine A/Slides1_ROI_14,170@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,96091.1484375,-251632.5,7
+Machine A/Slides1_ROI_14,171@1,19.0,Unassigned-Leiden: CD68+CD3+Tryptase+,NPM1_blasts,Leukemia,(a) v2 Tumor: Quiescent AML blast,machine_A,99585.0,-251634.0,10
+Machine A/Slides1_ROI_14,172@1,10.0,Erythroid,Erythroid,Erythroid,,machine_A,97678.6484375,-251642.75,9
+Machine A/Slides1_ROI_14,173@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,97743.296875,-251651.796875,15
+Machine A/Slides1_ROI_14,174@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,99215.5390625,-251650.90625,4
+Machine A/Slides1_ROI_14,175@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,101934.5234375,-251649.28125,8
+Machine A/Slides1_ROI_14,176@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,98054.6015625,-251652.5,15
+Machine A/Slides1_ROI_14,177@1,6.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,98677.7890625,-251655.5625,2
+Machine A/Slides1_ROI_14,178@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99658.484375,-251658.765625,15
+Machine A/Slides1_ROI_14,179@1,10.0,Erythroid,Erythroid,Erythroid,,machine_A,96189.1484375,-251660.296875,9
+Machine A/Slides1_ROI_14,180@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,98606.7578125,-251659.859375,7
+Machine A/Slides1_ROI_14,181@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,97263.015625,-251667.65625,1
+Machine A/Slides1_ROI_14,182@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,97225.3515625,-251673.375,1
+Machine A/Slides1_ROI_14,183@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,97352.53125,-251669.390625,1
+Machine A/Slides1_ROI_14,184@1,19.0,Mast cells,NPM1_blasts,Leukemia,(a) v2 Tumor: Quiescent AML blast,machine_A,101892.5390625,-251669.890625,10
+Machine A/Slides1_ROI_14,185@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,97121.3046875,-251672.265625,12
+Machine A/Slides1_ROI_14,186@1,10.0,Erythroid,Erythroid,Erythroid,,machine_A,97713.375,-251672.140625,9
+Machine A/Slides1_ROI_14,187@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,98924.671875,-251672.578125,12
+Machine A/Slides1_ROI_14,188@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,97875.8125,-251680.484375,7
+Machine A/Slides1_ROI_14,189@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,98552.96875,-251680.359375,15
+Machine A/Slides1_ROI_14,190@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,99274.3671875,-251687.1875,6
+Machine A/Slides1_ROI_14,191@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,99224.21875,-251691.796875,6
+Machine A/Slides1_ROI_14,192@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,96708.5703125,-251709.671875,7
+Machine A/Slides1_ROI_14,193@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,98614.6171875,-251714.4375,1
+Machine A/Slides1_ROI_14,194@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99538.1171875,-251718.6875,15
+Machine A/Slides1_ROI_14,195@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,96567.0546875,-251724.28125,15
+Machine A/Slides1_ROI_14,196@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,98960.546875,-251727.90625,15
+Machine A/Slides1_ROI_14,197@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,96989.0234375,-251737.671875,1
+Machine A/Slides1_ROI_14,198@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,99145.7734375,-251737.796875,0
+Machine A/Slides1_ROI_14,199@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,102127.984375,-251746.1875,6
+Machine A/Slides1_ROI_14,200@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,102164.6328125,-251756.484375,6
+Machine A/Slides1_ROI_14,201@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,99228.1015625,-251760.796875,1
+Machine A/Slides1_ROI_14,202@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,96965.375,-251768.515625,15
+Machine A/Slides1_ROI_14,203@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,99173.3828125,-251771.75,1
+Machine A/Slides1_ROI_14,204@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,102224.2109375,-251779.8125,6
+Machine A/Slides1_ROI_14,205@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,102332.90625,-251782.03125,15
+Machine A/Slides1_ROI_14,206@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,96655.8515625,-251784.625,15
+Machine A/Slides1_ROI_14,207@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,102091.2265625,-251790.46875,6
+Machine A/Slides1_ROI_14,208@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,97601.3359375,-251791.765625,15
+Machine A/Slides1_ROI_14,209@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,99148.6953125,-251796.109375,1
+Machine A/Slides1_ROI_14,210@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,102169.140625,-251799.484375,6
+Machine A/Slides1_ROI_14,211@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,97188.8125,-251816.734375,15
+Machine A/Slides1_ROI_14,212@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,102061.2578125,-251819.453125,6
+Machine A/Slides1_ROI_14,213@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,99168.7109375,-251824.296875,1
+Machine A/Slides1_ROI_14,214@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,102174.921875,-251826.125,6
+Machine A/Slides1_ROI_14,215@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,98055.140625,-251833.484375,15
+Machine A/Slides1_ROI_14,216@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,102098.9375,-251835.8125,6
+Machine A/Slides1_ROI_14,217@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,96583.5625,-251848.265625,12
+Machine A/Slides1_ROI_14,218@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101528.765625,-251853.40625,15
+Machine A/Slides1_ROI_14,219@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,102081.78125,-251856.03125,6
+Machine A/Slides1_ROI_14,220@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,97868.4921875,-251863.609375,15
+Machine A/Slides1_ROI_14,221@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,96643.4765625,-251866.546875,12
+Machine A/Slides1_ROI_14,222@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,102052.171875,-251866.3125,6
+Machine A/Slides1_ROI_14,223@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99553.9375,-251874.0,15
+Machine A/Slides1_ROI_14,224@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,102106.6796875,-251872.90625,6
+Machine A/Slides1_ROI_14,225@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,97820.2109375,-251885.328125,1
+Machine A/Slides1_ROI_14,226@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,96385.296875,-251887.109375,15
+Machine A/Slides1_ROI_14,227@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,97788.6953125,-251888.140625,15
+Machine A/Slides1_ROI_14,228@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,98216.0703125,-251916.0,1
+Machine A/Slides1_ROI_14,229@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,97267.734375,-251919.9375,1
+Machine A/Slides1_ROI_14,230@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,98269.578125,-251923.9375,15
+Machine A/Slides1_ROI_14,231@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,98083.6953125,-251927.046875,18
+Machine A/Slides1_ROI_14,232@1,10.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,98480.890625,-251928.21875,18
+Machine A/Slides1_ROI_14,233@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,99244.15625,-251928.875,6
+Machine A/Slides1_ROI_14,234@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,102437.90625,-251929.734375,15
+Machine A/Slides1_ROI_14,235@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,97004.0078125,-251941.25,7
+Machine A/Slides1_ROI_14,236@1,10.0,Endothelial,Endothelial,Stromal,,machine_A,99441.3984375,-251940.8125,12
+Machine A/Slides1_ROI_14,237@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99100.4140625,-251952.171875,15
+Machine A/Slides1_ROI_14,238@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,99291.09375,-251959.078125,6
+Machine A/Slides1_ROI_14,239@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,98958.6875,-251964.46875,6
+Machine A/Slides1_ROI_14,240@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101504.1328125,-251970.890625,12
+Machine A/Slides1_ROI_14,241@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,96486.7109375,-251979.78125,7
+Machine A/Slides1_ROI_14,242@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,97001.796875,-251979.203125,1
+Machine A/Slides1_ROI_14,243@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,97186.953125,-251982.078125,15
+Machine A/Slides1_ROI_14,244@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,96795.5859375,-251987.46875,1
+Machine A/Slides1_ROI_14,245@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,96867.3046875,-251990.328125,15
+Machine A/Slides1_ROI_14,246@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,98019.03125,-251993.75,15
+Machine A/Slides1_ROI_14,247@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,97122.2265625,-251994.90625,7
+Machine A/Slides1_ROI_14,248@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,97862.90625,-251996.640625,15
+Machine A/Slides1_ROI_14,249@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,98235.0625,-251998.53125,15
+Machine A/Slides1_ROI_14,250@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,99438.6015625,-252001.34375,1
+Machine A/Slides1_ROI_14,251@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,102425.0390625,-252004.5625,15
+Machine A/Slides1_ROI_14,252@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,102398.375,-252018.75,7
+Machine A/Slides1_ROI_14,253@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,96870.796875,-252022.15625,15
+Machine A/Slides1_ROI_14,254@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,97919.390625,-252028.65625,15
+Machine A/Slides1_ROI_14,255@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,98821.484375,-252026.859375,0
+Machine A/Slides1_ROI_14,256@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,98718.421875,-252037.109375,15
+Machine A/Slides1_ROI_14,257@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,96092.1171875,-252042.0,15
+Machine A/Slides1_ROI_14,258@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97150.4453125,-252042.078125,9
+Machine A/Slides1_ROI_14,259@1,10.0,Erythroid,Erythroid,Erythroid,,machine_A,96250.96875,-252046.671875,9
+Machine A/Slides1_ROI_14,260@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,99418.6875,-252049.390625,12
+Machine A/Slides1_ROI_14,261@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101250.4375,-252052.515625,15
+Machine A/Slides1_ROI_14,262@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,96794.3046875,-252055.6875,12
+Machine A/Slides1_ROI_14,263@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,96935.0234375,-252072.9375,9
+Machine A/Slides1_ROI_14,264@1,10.0,Erythroid,Erythroid,Erythroid,,machine_A,97075.75,-252071.84375,9
+Machine A/Slides1_ROI_14,265@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,96204.5,-252077.5,7
+Machine A/Slides1_ROI_14,266@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,98040.171875,-252076.375,1
+Machine A/Slides1_ROI_14,267@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,101943.8515625,-252076.328125,6
+Machine A/Slides1_ROI_14,268@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99309.3984375,-252079.0,15
+Machine A/Slides1_ROI_14,269@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,97875.453125,-252082.890625,1
+Machine A/Slides1_ROI_14,270@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101738.53125,-252081.421875,15
+Machine A/Slides1_ROI_14,271@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,98715.890625,-252090.921875,15
+Machine A/Slides1_ROI_14,272@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,102277.125,-252089.453125,1
+Machine A/Slides1_ROI_14,273@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,102109.5390625,-252110.53125,6
+Machine A/Slides1_ROI_14,274@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,98884.96875,-252119.515625,1
+Machine A/Slides1_ROI_14,275@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,97485.671875,-252122.265625,1
+Machine A/Slides1_ROI_14,276@1,10.0,Erythroid,Erythroid,Erythroid,,machine_A,98140.28125,-252128.515625,9
+Machine A/Slides1_ROI_14,277@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101519.09375,-252135.75,15
+Machine A/Slides1_ROI_14,278@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,97036.5234375,-252142.765625,1
+Machine A/Slides1_ROI_14,279@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,97992.515625,-252145.71875,15
+Machine A/Slides1_ROI_14,280@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,102261.2265625,-252147.65625,1
+Machine A/Slides1_ROI_14,281@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,97580.9921875,-252152.546875,15
+Machine A/Slides1_ROI_14,282@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,102104.765625,-252149.5625,7
+Machine A/Slides1_ROI_14,283@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101170.9296875,-252167.6875,12
+Machine A/Slides1_ROI_14,284@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101287.109375,-252175.640625,12
+Machine A/Slides1_ROI_14,285@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,101668.65625,-252186.015625,7
+Machine A/Slides1_ROI_14,286@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,96959.7109375,-252190.609375,1
+Machine A/Slides1_ROI_14,287@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,101040.1796875,-252191.8125,6
+Machine A/Slides1_ROI_14,288@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,96275.6953125,-252202.390625,6
+Machine A/Slides1_ROI_14,289@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,98235.078125,-252204.03125,15
+Machine A/Slides1_ROI_14,290@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101418.171875,-252206.96875,15
+Machine A/Slides1_ROI_14,291@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,96237.5390625,-252208.75,1
+Machine A/Slides1_ROI_14,292@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,96506.140625,-252210.046875,12
+Machine A/Slides1_ROI_14,293@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,97146.0703125,-252210.0,1
+Machine A/Slides1_ROI_14,294@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,98910.078125,-252208.625,15
+Machine A/Slides1_ROI_14,295@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,97595.4140625,-252216.953125,12
+Machine A/Slides1_ROI_14,296@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,97650.5859375,-252215.0,1
+Machine A/Slides1_ROI_14,297@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,102185.953125,-252236.171875,7
+Machine A/Slides1_ROI_14,298@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,97389.3984375,-252238.765625,7
+Machine A/Slides1_ROI_14,299@1,10.0,Erythroid,Erythroid,Erythroid,,machine_A,96724.125,-252246.296875,9
+Machine A/Slides1_ROI_14,300@1,10.0,Erythroid,Erythroid,Erythroid,,machine_A,97054.28125,-252248.359375,9
+Machine A/Slides1_ROI_14,301@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99032.671875,-252246.296875,15
+Machine A/Slides1_ROI_14,302@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99175.984375,-252240.296875,15
+Machine A/Slides1_ROI_14,303@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,102124.734375,-252244.84375,15
+Machine A/Slides1_ROI_14,304@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,96395.046875,-252252.921875,7
+Machine A/Slides1_ROI_14,305@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,96255.9921875,-252257.265625,1
+Machine A/Slides1_ROI_14,306@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,98682.21875,-252255.546875,15
+Machine A/Slides1_ROI_14,307@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,102406.578125,-252262.84375,15
+Machine A/Slides1_ROI_14,308@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,96224.4375,-252267.65625,12
+Machine A/Slides1_ROI_14,309@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,98300.765625,-252273.3125,15
+Machine A/Slides1_ROI_14,310@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,102260.3359375,-252275.828125,7
+Machine A/Slides1_ROI_14,311@1,,Mast cells,Mast cells,Myeloid,,machine_A,102300.8515625,-252275.15625,7
+Machine A/Slides1_ROI_14,312@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101288.6875,-252279.46875,12
+Machine A/Slides1_ROI_14,313@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,97936.2109375,-252281.9375,15
+Machine A/Slides1_ROI_14,314@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99182.09375,-252281.59375,15
+Machine A/Slides1_ROI_14,315@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,97230.140625,-252289.09375,1
+Machine A/Slides1_ROI_14,316@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,98647.484375,-252300.046875,1
+Machine A/Slides1_ROI_14,317@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,101528.3515625,-252302.96875,7
+Machine A/Slides1_ROI_14,318@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,97722.5,-252307.5,15
+Machine A/Slides1_ROI_14,319@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,98237.65625,-252307.21875,15
+Machine A/Slides1_ROI_14,320@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,98090.2890625,-252319.3125,7
+Machine A/Slides1_ROI_14,321@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,98199.015625,-252319.453125,1
+Machine A/Slides1_ROI_14,322@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101437.1953125,-252321.171875,12
+Machine A/Slides1_ROI_14,323@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,98041.203125,-252322.390625,6
+Machine A/Slides1_ROI_14,324@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,102142.4453125,-252323.484375,7
+Machine A/Slides1_ROI_14,325@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,98308.3984375,-252326.265625,15
+Machine A/Slides1_ROI_14,326@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,96227.359375,-252333.84375,12
+Machine A/Slides1_ROI_14,327@1,4.0,Artifact,Artifact,Other,,machine_A,97572.28125,-252334.234375,17
+Machine A/Slides1_ROI_14,328@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,101812.546875,-252332.234375,6
+Machine A/Slides1_ROI_14,329@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,96418.7734375,-252338.90625,1
+Machine A/Slides1_ROI_14,330@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,97315.203125,-252340.546875,1
+Machine A/Slides1_ROI_14,331@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,97205.25,-252345.09375,6
+Machine A/Slides1_ROI_14,332@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,101491.90625,-252346.34375,7
+Machine A/Slides1_ROI_14,333@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,98137.703125,-252348.40625,12
+Machine A/Slides1_ROI_14,334@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,97798.6796875,-252355.015625,12
+Machine A/Slides1_ROI_14,335@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,101311.9609375,-252371.484375,6
+Machine A/Slides1_ROI_14,336@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,100624.21875,-252375.796875,7
+Machine A/Slides1_ROI_14,337@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,97307.6640625,-252375.015625,15
+Machine A/Slides1_ROI_14,338@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,96409.0625,-252382.984375,15
+Machine A/Slides1_ROI_14,339@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,101342.2734375,-252382.28125,1
+Machine A/Slides1_ROI_14,340@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100765.015625,-252386.703125,15
+Machine A/Slides1_ROI_14,341@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,97960.5625,-252389.90625,12
+Machine A/Slides1_ROI_14,342@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,98690.4375,-252399.734375,15
+Machine A/Slides1_ROI_14,343@1,5.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,97810.2734375,-252401.984375,2
+Machine A/Slides1_ROI_14,344@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101253.0859375,-252404.28125,15
+Machine A/Slides1_ROI_14,345@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,97938.734375,-252407.484375,12
+Machine A/Slides1_ROI_14,346@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,97258.390625,-252411.09375,6
+Machine A/Slides1_ROI_14,347@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,101877.5703125,-252417.578125,6
+Machine A/Slides1_ROI_14,348@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,102421.6953125,-252418.796875,7
+Machine A/Slides1_ROI_14,349@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,97856.1796875,-252439.40625,12
+Machine A/Slides1_ROI_14,350@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,98831.578125,-252456.4375,15
+Machine A/Slides1_ROI_14,351@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,101358.53125,-252460.90625,7
+Machine A/Slides1_ROI_14,352@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,101459.046875,-252464.84375,7
+Machine A/Slides1_ROI_14,353@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,96662.3671875,-252464.90625,12
+Machine A/Slides1_ROI_14,354@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100924.171875,-252469.53125,12
+Machine A/Slides1_ROI_14,355@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101212.1171875,-252481.296875,15
+Machine A/Slides1_ROI_14,356@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99057.8125,-252481.34375,15
+Machine A/Slides1_ROI_14,357@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101247.46875,-252485.1875,15
+Machine A/Slides1_ROI_14,358@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,97976.4453125,-252491.984375,1
+Machine A/Slides1_ROI_14,359@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,98705.375,-252491.25,15
+Machine A/Slides1_ROI_14,360@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,97163.4140625,-252493.46875,1
+Machine A/Slides1_ROI_14,361@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,97063.390625,-252499.71875,1
+Machine A/Slides1_ROI_14,362@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,100347.390625,-252503.078125,6
+Machine A/Slides1_ROI_14,363@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101413.15625,-252503.84375,15
+Machine A/Slides1_ROI_14,364@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,101456.0625,-252499.71875,7
+Machine A/Slides1_ROI_14,365@1,10.0,Erythroid,Erythroid,Erythroid,,machine_A,97122.421875,-252504.421875,9
+Machine A/Slides1_ROI_14,366@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101955.109375,-252509.671875,15
+Machine A/Slides1_ROI_14,367@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,102271.03125,-252512.859375,7
+Machine A/Slides1_ROI_14,368@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,98496.8828125,-252535.875,15
+Machine A/Slides1_ROI_14,369@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,102173.0625,-252540.1875,6
+Machine A/Slides1_ROI_14,370@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,98036.078125,-252548.375,1
+Machine A/Slides1_ROI_14,371@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,98317.5703125,-252551.71875,7
+Machine A/Slides1_ROI_14,372@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101982.5703125,-252550.984375,15
+Machine A/Slides1_ROI_14,373@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,97001.125,-252556.671875,12
+Machine A/Slides1_ROI_14,374@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,98447.234375,-252559.515625,15
+Machine A/Slides1_ROI_14,375@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99045.3515625,-252566.515625,15
+Machine A/Slides1_ROI_14,376@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,102195.4296875,-252568.671875,1
+Machine A/Slides1_ROI_14,377@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101198.7734375,-252577.9375,15
+Machine A/Slides1_ROI_14,378@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,101657.453125,-252579.046875,6
+Machine A/Slides1_ROI_14,379@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,96230.8515625,-252579.671875,0
+Machine A/Slides1_ROI_14,380@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,101458.8671875,-252589.28125,7
+Machine A/Slides1_ROI_14,381@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,98633.921875,-252586.3125,7
+Machine A/Slides1_ROI_14,382@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,100754.984375,-252598.4375,7
+Machine A/Slides1_ROI_14,383@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,96757.625,-252602.71875,9
+Machine A/Slides1_ROI_14,384@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,97067.921875,-252598.828125,7
+Machine A/Slides1_ROI_14,385@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,102353.46875,-252598.015625,15
+Machine A/Slides1_ROI_14,386@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,102239.28125,-252609.0625,15
+Machine A/Slides1_ROI_14,387@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,96549.59375,-252616.75,12
+Machine A/Slides1_ROI_14,388@1,10.0,Erythroid,Erythroid,Erythroid,,machine_A,97394.6796875,-252616.8125,9
+Machine A/Slides1_ROI_14,389@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,102185.5859375,-252612.921875,1
+Machine A/Slides1_ROI_14,390@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,100458.0625,-252624.53125,7
+Machine A/Slides1_ROI_14,391@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101897.8828125,-252621.671875,12
+Machine A/Slides1_ROI_14,392@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100745.609375,-252629.5,1
+Machine A/Slides1_ROI_14,393@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,97307.625,-252637.390625,1
+Machine A/Slides1_ROI_14,394@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,101832.4765625,-252635.953125,1
+Machine A/Slides1_ROI_14,395@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101355.46875,-252638.34375,15
+Machine A/Slides1_ROI_14,396@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100429.140625,-252639.671875,1
+Machine A/Slides1_ROI_14,397@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,98628.1953125,-252643.484375,15
+Machine A/Slides1_ROI_14,398@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,96544.7578125,-252647.171875,12
+Machine A/Slides1_ROI_14,399@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100011.421875,-252646.4375,15
+Machine A/Slides1_ROI_14,400@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,100487.34375,-252647.375,7
+Machine A/Slides1_ROI_14,401@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,101747.96875,-252663.78125,6
+Machine A/Slides1_ROI_14,402@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,96705.1640625,-252664.125,9
+Machine A/Slides1_ROI_14,403@1,10.0,Erythroid,Erythroid,Erythroid,,machine_A,96856.0234375,-252671.890625,9
+Machine A/Slides1_ROI_14,404@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100836.6796875,-252672.8125,15
+Machine A/Slides1_ROI_14,405@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100983.6796875,-252678.8125,15
+Machine A/Slides1_ROI_14,406@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,100655.0625,-252681.390625,7
+Machine A/Slides1_ROI_14,407@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,96908.8203125,-252690.84375,15
+Machine A/Slides1_ROI_14,408@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,100479.8125,-252689.609375,7
+Machine A/Slides1_ROI_14,409@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,98833.5859375,-252692.65625,1
+Machine A/Slides1_ROI_14,410@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,101628.0390625,-252695.3125,6
+Machine A/Slides1_ROI_14,411@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,100445.8046875,-252697.921875,7
+Machine A/Slides1_ROI_14,412@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101360.84375,-252701.21875,15
+Machine A/Slides1_ROI_14,413@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,101753.515625,-252706.296875,7
+Machine A/Slides1_ROI_14,414@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,96324.6484375,-252716.65625,15
+Machine A/Slides1_ROI_14,415@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,98936.328125,-252709.3125,15
+Machine A/Slides1_ROI_14,416@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,102061.53125,-252709.6875,7
+Machine A/Slides1_ROI_14,417@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,98076.4765625,-252728.734375,12
+Machine A/Slides1_ROI_14,418@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,100776.453125,-252735.453125,6
+Machine A/Slides1_ROI_14,419@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,97651.8203125,-252738.859375,7
+Machine A/Slides1_ROI_14,420@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100966.9296875,-252743.453125,15
+Machine A/Slides1_ROI_14,421@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,96105.7109375,-252748.625,1
+Machine A/Slides1_ROI_14,422@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101045.34375,-252755.53125,15
+Machine A/Slides1_ROI_14,423@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,99960.7890625,-252769.859375,7
+Machine A/Slides1_ROI_14,424@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100008.7421875,-252770.140625,12
+Machine A/Slides1_ROI_14,425@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,96946.890625,-252776.375,9
+Machine A/Slides1_ROI_14,426@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100667.078125,-252774.734375,15
+Machine A/Slides1_ROI_14,427@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,97674.4765625,-252783.90625,7
+Machine A/Slides1_ROI_14,428@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100969.6015625,-252781.703125,15
+Machine A/Slides1_ROI_14,429@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,98628.59375,-252787.75,15
+Machine A/Slides1_ROI_14,430@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,98867.3515625,-252790.125,15
+Machine A/Slides1_ROI_14,431@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,96224.5390625,-252796.703125,7
+Machine A/Slides1_ROI_14,432@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,99163.8984375,-252794.4375,12
+Machine A/Slides1_ROI_14,433@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100678.1640625,-252799.578125,12
+Machine A/Slides1_ROI_14,434@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101717.5234375,-252798.75,15
+Machine A/Slides1_ROI_14,435@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,97576.3203125,-252804.828125,15
+Machine A/Slides1_ROI_14,436@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,102436.203125,-252815.515625,9
+Machine A/Slides1_ROI_14,437@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,96826.9453125,-252816.0,15
+Machine A/Slides1_ROI_14,438@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,102338.515625,-252832.53125,1
+Machine A/Slides1_ROI_14,439@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,102409.015625,-252830.875,15
+Machine A/Slides1_ROI_14,440@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,98318.5,-252836.375,7
+Machine A/Slides1_ROI_14,441@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,100825.40625,-252842.09375,7
+Machine A/Slides1_ROI_14,442@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99211.6640625,-252844.65625,15
+Machine A/Slides1_ROI_14,443@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,101181.265625,-252844.859375,1
+Machine A/Slides1_ROI_14,444@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,97128.8984375,-252848.9375,15
+Machine A/Slides1_ROI_14,445@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100853.2890625,-252849.5625,15
+Machine A/Slides1_ROI_14,446@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,102257.1015625,-252851.1875,6
+Machine A/Slides1_ROI_14,447@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,96954.9296875,-252855.859375,6
+Machine A/Slides1_ROI_14,448@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,97409.6875,-252853.4375,1
+Machine A/Slides1_ROI_14,449@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99913.5625,-252857.796875,15
+Machine A/Slides1_ROI_14,450@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,96135.3671875,-252868.703125,15
+Machine A/Slides1_ROI_14,451@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,96906.7734375,-252880.71875,12
+Machine A/Slides1_ROI_14,452@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101077.046875,-252883.015625,12
+Machine A/Slides1_ROI_14,453@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,102279.8671875,-252897.6875,4
+Machine A/Slides1_ROI_14,454@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101807.8125,-252907.71875,15
+Machine A/Slides1_ROI_14,455@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,101526.078125,-252916.53125,6
+Machine A/Slides1_ROI_14,456@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,100724.75,-252926.890625,7
+Machine A/Slides1_ROI_14,457@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101668.875,-252925.984375,15
+Machine A/Slides1_ROI_14,458@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100338.8828125,-252931.921875,12
+Machine A/Slides1_ROI_14,459@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,97439.1328125,-252936.0,15
+Machine A/Slides1_ROI_14,460@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,99939.21875,-252950.09375,12
+Machine A/Slides1_ROI_14,461@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100645.4765625,-252952.21875,1
+Machine A/Slides1_ROI_14,462@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100687.2265625,-252954.140625,15
+Machine A/Slides1_ROI_14,463@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101700.1875,-252962.390625,12
+Machine A/Slides1_ROI_14,464@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100243.7421875,-252971.84375,15
+Machine A/Slides1_ROI_14,465@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,101453.71875,-252983.671875,6
+Machine A/Slides1_ROI_14,466@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,99984.203125,-253005.796875,12
+Machine A/Slides1_ROI_14,467@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100378.2890625,-253010.5625,15
+Machine A/Slides1_ROI_14,468@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,102295.09375,-253008.703125,0
+Machine A/Slides1_ROI_14,469@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100886.109375,-253014.28125,15
+Machine A/Slides1_ROI_14,470@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,97769.609375,-253031.46875,15
+Machine A/Slides1_ROI_14,471@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,101998.53125,-253037.390625,1
+Machine A/Slides1_ROI_14,472@1,1.0,Unassigned-Leiden: Ki67+CD147+CD45RA+,Unassigned-Leiden: Ki67+CD147+CD45RA+,Unassigned-derived,,machine_A,102247.875,-253040.296875,16
+Machine A/Slides1_ROI_14,473@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,102314.0625,-253041.65625,12
+Machine A/Slides1_ROI_14,474@1,10.0,Erythroid,Erythroid,Erythroid,,machine_A,96971.125,-253046.3125,9
+Machine A/Slides1_ROI_14,475@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101724.1015625,-253060.5,15
+Machine A/Slides1_ROI_14,476@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,102278.4921875,-253065.390625,6
+Machine A/Slides1_ROI_14,477@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,99036.2890625,-253065.40625,12
+Machine A/Slides1_ROI_14,478@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,100978.0546875,-253074.078125,6
+Machine A/Slides1_ROI_14,479@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,101274.921875,-253076.671875,6
+Machine A/Slides1_ROI_14,480@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101691.9609375,-253101.328125,15
+Machine A/Slides1_ROI_14,481@1,10.0,Endothelial,Endothelial,Stromal,,machine_A,101991.546875,-253091.28125,12
+Machine A/Slides1_ROI_14,482@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,96793.3046875,-253113.5,9
+Machine A/Slides1_ROI_14,483@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,96830.1953125,-253115.921875,15
+Machine A/Slides1_ROI_14,484@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,97520.6328125,-253126.328125,1
+Machine A/Slides1_ROI_14,485@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99055.0546875,-253123.84375,15
+Machine A/Slides1_ROI_14,486@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,99863.2890625,-253139.0625,7
+Machine A/Slides1_ROI_14,487@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,102349.96875,-253158.75,12
+Machine A/Slides1_ROI_14,488@1,10.0,Erythroid,Erythroid,Erythroid,,machine_A,96093.8125,-253143.109375,9
+Machine A/Slides1_ROI_14,489@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,102001.1484375,-253150.390625,12
+Machine A/Slides1_ROI_14,490@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,101471.453125,-253162.828125,1
+Machine A/Slides1_ROI_14,491@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101791.8125,-253174.71875,15
+Machine A/Slides1_ROI_14,492@1,19.0,NPM1_blasts,NPM1_blasts,Leukemia,(a) v2 Tumor: Quiescent AML blast,machine_A,100159.4921875,-253179.78125,10
+Machine A/Slides1_ROI_14,493@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,96281.2265625,-253180.59375,7
+Machine A/Slides1_ROI_14,494@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,98924.5546875,-253181.34375,12
+Machine A/Slides1_ROI_14,495@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100196.1328125,-253187.609375,15
+Machine A/Slides1_ROI_14,496@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,102405.3984375,-253184.59375,15
+Machine A/Slides1_ROI_14,497@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,97820.3125,-253191.59375,7
+Machine A/Slides1_ROI_14,498@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,99891.4921875,-253198.96875,7
+Machine A/Slides1_ROI_14,499@1,10.0,Erythroid,Erythroid,Erythroid,,machine_A,97374.984375,-253196.90625,9
+Machine A/Slides1_ROI_14,500@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101603.0390625,-253199.3125,15
+Machine A/Slides1_ROI_14,501@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,97545.421875,-253203.171875,1
+Machine A/Slides1_ROI_14,502@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,100871.09375,-253201.9375,6
+Machine A/Slides1_ROI_14,503@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,99862.78125,-253211.390625,1
+Machine A/Slides1_ROI_14,504@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100144.5390625,-253213.875,12
+Machine A/Slides1_ROI_14,505@1,10.0,Erythroid,Erythroid,Erythroid,,machine_A,97093.0859375,-253214.921875,9
+Machine A/Slides1_ROI_14,506@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,100927.4453125,-253221.0625,6
+Machine A/Slides1_ROI_14,507@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,98943.5625,-253223.125,1
+Machine A/Slides1_ROI_14,508@1,8.0,Mast cells,Mast cells,Myeloid,,machine_A,101296.546875,-253224.828125,7
+Machine A/Slides1_ROI_14,509@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,100611.4375,-253228.15625,6
+Machine A/Slides1_ROI_14,510@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,96775.7734375,-253243.171875,15
+Machine A/Slides1_ROI_14,511@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,102340.59375,-253242.75,15
+Machine A/Slides1_ROI_14,512@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,100757.734375,-253256.390625,6
+Machine A/Slides1_ROI_14,513@1,5.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,96727.171875,-253257.53125,2
+Machine A/Slides1_ROI_14,514@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,97197.4140625,-253256.875,15
+Machine A/Slides1_ROI_14,515@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,101329.609375,-253260.40625,0
+Machine A/Slides1_ROI_14,516@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101627.0390625,-253260.171875,15
+Machine A/Slides1_ROI_14,517@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,101057.1640625,-253262.609375,1
+Machine A/Slides1_ROI_14,518@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,101299.140625,-253268.453125,4
+Machine A/Slides1_ROI_14,519@1,10.0,Erythroid,Erythroid,Erythroid,,machine_A,101664.9375,-253281.4375,9
+Machine A/Slides1_ROI_14,520@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,100548.515625,-253285.046875,6
+Machine A/Slides1_ROI_14,521@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100204.34375,-253288.359375,15
+Machine A/Slides1_ROI_14,522@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,96479.671875,-253295.96875,7
+Machine A/Slides1_ROI_14,523@1,,CD8+ T,CD8+ T,Lymphoid,,machine_A,100099.4375,-253292.203125,1
+Machine A/Slides1_ROI_14,524@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,102330.1953125,-253293.046875,1
+Machine A/Slides1_ROI_14,525@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,96537.0,-253295.640625,15
+Machine A/Slides1_ROI_14,526@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101494.8125,-253297.578125,12
+Machine A/Slides1_ROI_14,527@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,100911.78125,-253297.578125,6
+Machine A/Slides1_ROI_14,528@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,96726.59375,-253299.625,0
+Machine A/Slides1_ROI_14,529@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,96901.7734375,-253301.734375,15
+Machine A/Slides1_ROI_14,530@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,98531.1953125,-253299.890625,1
+Machine A/Slides1_ROI_14,531@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,101537.59375,-253299.6875,6
+Machine A/Slides1_ROI_14,532@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,102001.6171875,-253300.75,15
+Machine A/Slides1_ROI_14,533@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,101255.609375,-253303.984375,9
+Machine A/Slides1_ROI_14,534@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,96822.3203125,-253305.03125,1
+Machine A/Slides1_ROI_14,535@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,102105.3515625,-253287.046875,15
+Machine A/Slides1_ROI_14,536@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,98395.984375,-253310.984375,15
+Machine A/Slides1_ROI_14,537@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,96565.2265625,-253312.578125,1
+Machine A/Slides1_ROI_14,538@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,96970.40625,-253313.546875,1
+Machine A/Slides1_ROI_14,539@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,101641.859375,-253308.046875,9
+Machine A/Slides1_ROI_14,540@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,102098.59375,-253328.0625,1
+Machine A/Slides1_ROI_14,541@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,100764.2890625,-253331.28125,6
+Machine A/Slides1_ROI_14,542@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,100217.3828125,-253333.46875,6
+Machine A/Slides1_ROI_14,543@1,15.0,Mast cells,Mast cells,Myeloid,,machine_A,100971.7421875,-253332.328125,7
+Machine A/Slides1_ROI_14,544@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101129.6796875,-253332.28125,15
+Machine A/Slides1_ROI_14,545@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,99491.0703125,-253336.328125,12
+Machine A/Slides1_ROI_14,546@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,100353.25,-253341.9375,6
+Machine A/Slides1_ROI_14,547@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,102065.8828125,-253336.875,15
+Machine A/Slides1_ROI_14,548@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,98489.0546875,-253346.328125,15
+Machine A/Slides1_ROI_14,549@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101404.90625,-253349.859375,12
+Machine A/Slides1_ROI_14,550@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,102028.203125,-253352.59375,15
+Machine A/Slides1_ROI_14,551@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,100503.21875,-253365.265625,6
+Machine A/Slides1_ROI_14,552@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,100776.1953125,-253362.375,0
+Machine A/Slides1_ROI_14,553@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,97248.453125,-253366.859375,1
+Machine A/Slides1_ROI_14,554@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,100103.9765625,-253366.953125,6
+Machine A/Slides1_ROI_14,555@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100977.3359375,-253368.90625,1
+Machine A/Slides1_ROI_14,556@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,96837.875,-253374.265625,1
+Machine A/Slides1_ROI_14,557@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,97537.0,-253380.5,15
+Machine A/Slides1_ROI_14,558@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,100359.8671875,-253382.359375,6
+Machine A/Slides1_ROI_14,559@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,102035.6015625,-253381.234375,15
+Machine A/Slides1_ROI_14,560@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,100400.34375,-253388.109375,6
+Machine A/Slides1_ROI_14,561@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,97149.3046875,-253392.390625,15
+Machine A/Slides1_ROI_14,562@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101346.046875,-253388.125,15
+Machine A/Slides1_ROI_14,563@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,102231.09375,-253395.5625,15
+Machine A/Slides1_ROI_14,564@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,96434.5078125,-253398.8125,15
+Machine A/Slides1_ROI_14,565@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,96183.578125,-253403.34375,15
+Machine A/Slides1_ROI_14,566@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,100738.4453125,-253404.015625,6
+Machine A/Slides1_ROI_14,567@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,96104.5078125,-253407.796875,15
+Machine A/Slides1_ROI_14,568@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,97196.96875,-253407.734375,1
+Machine A/Slides1_ROI_14,569@1,10.0,Erythroid,Erythroid,Erythroid,,machine_A,97080.8515625,-253413.890625,9
+Machine A/Slides1_ROI_14,570@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,97254.90625,-253416.234375,12
+Machine A/Slides1_ROI_14,571@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,100261.875,-253416.0,6
+Machine A/Slides1_ROI_14,572@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,98322.90625,-253420.0,15
+Machine A/Slides1_ROI_14,573@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,98417.4296875,-253429.203125,1
+Machine A/Slides1_ROI_14,574@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,101765.734375,-253436.046875,4
+Machine A/Slides1_ROI_14,575@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,98207.2890625,-253435.9375,15
+Machine A/Slides1_ROI_14,576@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,98569.59375,-253442.171875,12
+Machine A/Slides1_ROI_14,577@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,99985.4609375,-253440.46875,6
+Machine A/Slides1_ROI_14,578@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,99399.2734375,-253456.46875,1
+Machine A/Slides1_ROI_14,579@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,100334.0390625,-253457.890625,6
+Machine A/Slides1_ROI_14,580@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,100160.2421875,-253462.359375,6
+Machine A/Slides1_ROI_14,581@1,10.0,Erythroid,Erythroid,Erythroid,,machine_A,101601.9453125,-253466.984375,9
+Machine A/Slides1_ROI_14,582@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,101409.390625,-253472.0625,4
+Machine A/Slides1_ROI_14,583@1,9.0,Erythroid,Erythroid,Erythroid,,machine_A,101713.0625,-253481.109375,9
+Machine A/Slides1_ROI_14,584@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,98299.0859375,-253485.359375,12
+Machine A/Slides1_ROI_14,585@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,100498.5234375,-253483.953125,7
+Machine A/Slides1_ROI_14,586@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,96397.359375,-253493.59375,15
+Machine A/Slides1_ROI_14,587@1,4.0,MSC,MSC,Stromal,,machine_A,102016.2890625,-253499.109375,13
+Machine A/Slides1_ROI_14,588@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,98218.2734375,-253505.546875,1
+Machine A/Slides1_ROI_14,589@1,9.0,Erythroid,Erythroid,Erythroid,,machine_A,101738.1015625,-253506.921875,9
+Machine A/Slides1_ROI_14,590@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101444.1640625,-253496.140625,15
+Machine A/Slides1_ROI_14,591@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,98103.609375,-253509.46875,15
+Machine A/Slides1_ROI_14,592@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,102293.75,-253511.546875,1
+Machine A/Slides1_ROI_14,593@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,100051.3203125,-253513.65625,6
+Machine A/Slides1_ROI_14,594@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,100255.703125,-253513.921875,6
+Machine A/Slides1_ROI_14,595@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,100512.890625,-253512.3125,6
+Machine A/Slides1_ROI_14,596@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,97948.4921875,-253515.671875,15
+Machine A/Slides1_ROI_14,597@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,100360.25,-253518.03125,6
+Machine A/Slides1_ROI_14,598@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,96425.453125,-253520.84375,12
+Machine A/Slides1_ROI_14,599@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,96389.140625,-253525.3125,1
+Machine A/Slides1_ROI_14,600@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,98577.9375,-253534.984375,6
+Machine A/Slides1_ROI_14,601@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,97880.34375,-253536.90625,15
+Machine A/Slides1_ROI_14,602@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,101869.546875,-253536.5625,9
+Machine A/Slides1_ROI_14,603@1,1.0,MSC,MSC,Stromal,,machine_A,101991.609375,-253537.921875,13
+Machine A/Slides1_ROI_14,604@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,96498.2421875,-253544.1875,12
+Machine A/Slides1_ROI_14,605@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,98008.1953125,-253544.140625,1
+Machine A/Slides1_ROI_14,606@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,99632.9609375,-253544.609375,6
+Machine A/Slides1_ROI_14,607@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101731.0234375,-253541.84375,15
+Machine A/Slides1_ROI_14,608@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,101361.109375,-253544.71875,1
+Machine A/Slides1_ROI_14,609@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100350.34375,-253552.265625,12
+Machine A/Slides1_ROI_14,610@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101752.5625,-253562.28125,12
+Machine A/Slides1_ROI_14,611@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,99766.15625,-253571.578125,6
+Machine A/Slides1_ROI_14,612@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,100170.34375,-253575.125,6
+Machine A/Slides1_ROI_14,613@1,10.0,Erythroid,Erythroid,Erythroid,,machine_A,96094.8203125,-253586.5,9
+Machine A/Slides1_ROI_14,614@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,101345.2109375,-253584.375,7
+Machine A/Slides1_ROI_14,615@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,99888.640625,-253595.9375,6
+Machine A/Slides1_ROI_14,616@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,100015.2890625,-253608.671875,6
+Machine A/Slides1_ROI_14,617@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100492.4921875,-253610.828125,1
+Machine A/Slides1_ROI_14,618@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,96736.734375,-253613.875,1
+Machine A/Slides1_ROI_14,619@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,96327.6640625,-253619.71875,1
+Machine A/Slides1_ROI_14,620@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100278.09375,-253623.515625,12
+Machine A/Slides1_ROI_14,621@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,99148.921875,-253654.984375,12
+Machine A/Slides1_ROI_14,622@1,1.0,MSC,MSC,Stromal,,machine_A,101842.3125,-253627.296875,13
+Machine A/Slides1_ROI_14,623@1,24.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,96514.9140625,-253630.4375,18
+Machine A/Slides1_ROI_14,624@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,101385.5703125,-253631.96875,1
+Machine A/Slides1_ROI_14,625@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,102426.609375,-253640.8125,15
+Machine A/Slides1_ROI_14,626@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100950.90625,-253651.453125,12
+Machine A/Slides1_ROI_14,627@1,6.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,101010.34375,-253649.203125,2
+Machine A/Slides1_ROI_14,628@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100392.03125,-253655.1875,1
+Machine A/Slides1_ROI_14,629@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,101880.859375,-253655.296875,0
+Machine A/Slides1_ROI_14,630@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,96973.953125,-253659.875,15
+Machine A/Slides1_ROI_14,631@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101181.4921875,-253661.453125,12
+Machine A/Slides1_ROI_14,632@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,101795.2578125,-253663.46875,1
+Machine A/Slides1_ROI_14,633@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,96367.7578125,-253668.828125,18
+Machine A/Slides1_ROI_14,634@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,100875.5234375,-253674.203125,6
+Machine A/Slides1_ROI_14,635@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100793.953125,-253677.234375,15
+Machine A/Slides1_ROI_14,636@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,96134.3671875,-253684.140625,10
+Machine A/Slides1_ROI_14,637@1,6.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,100978.625,-253679.078125,2
+Machine A/Slides1_ROI_14,638@1,10.0,Erythroid,Erythroid,Erythroid,,machine_A,101734.1484375,-253683.46875,9
+Machine A/Slides1_ROI_14,639@1,10.0,Erythroid,Erythroid,Erythroid,,machine_A,100752.2734375,-253684.421875,9
+Machine A/Slides1_ROI_14,640@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98374.984375,-253689.578125,9
+Machine A/Slides1_ROI_14,641@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97085.8359375,-253694.25,9
+Machine A/Slides1_ROI_14,642@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100906.75,-253688.328125,15
+Machine A/Slides1_ROI_14,643@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101139.28125,-253694.671875,12
+Machine A/Slides1_ROI_14,644@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101325.109375,-253694.5625,15
+Machine A/Slides1_ROI_14,645@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97003.78125,-253697.859375,9
+Machine A/Slides1_ROI_14,646@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,101654.796875,-253699.828125,1
+Machine A/Slides1_ROI_14,647@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101417.4140625,-253701.953125,12
+Machine A/Slides1_ROI_14,648@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,101926.4375,-253705.828125,1
+Machine A/Slides1_ROI_14,649@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,99968.734375,-253707.484375,6
+Machine A/Slides1_ROI_14,650@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,100087.7421875,-253711.625,6
+Machine A/Slides1_ROI_14,651@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97150.6953125,-253717.0625,9
+Machine A/Slides1_ROI_14,652@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101185.6015625,-253720.59375,12
+Machine A/Slides1_ROI_14,653@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97077.5390625,-253723.375,9
+Machine A/Slides1_ROI_14,654@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97052.8671875,-253727.0625,9
+Machine A/Slides1_ROI_14,655@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,101823.1796875,-253726.390625,6
+Machine A/Slides1_ROI_14,656@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,97301.328125,-253732.375,9
+Machine A/Slides1_ROI_14,657@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,99828.6875,-253740.375,7
+Machine A/Slides1_ROI_14,658@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,96990.0859375,-253742.203125,9
+Machine A/Slides1_ROI_14,659@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,96285.890625,-253751.515625,9
+Machine A/Slides1_ROI_14,660@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,101703.171875,-253755.03125,1
+Machine A/Slides1_ROI_14,661@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,97716.6640625,-253757.421875,10
+Machine A/Slides1_ROI_14,662@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97260.453125,-253766.546875,9
+Machine A/Slides1_ROI_14,663@1,9.0,Erythroid,Erythroid,Erythroid,,machine_A,100842.4453125,-253770.25,9
+Machine A/Slides1_ROI_14,664@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,97188.4453125,-253782.90625,18
+Machine A/Slides1_ROI_14,665@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97094.1328125,-253785.84375,9
+Machine A/Slides1_ROI_14,666@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100634.125,-253787.34375,15
+Machine A/Slides1_ROI_14,667@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,96182.65625,-253789.0625,10
+Machine A/Slides1_ROI_14,668@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,102198.90625,-253791.765625,12
+Machine A/Slides1_ROI_14,669@1,10.0,Macrophages,Macrophages,Myeloid,,machine_A,99737.6015625,-253802.46875,6
+Machine A/Slides1_ROI_14,670@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98219.2578125,-253809.96875,9
+Machine A/Slides1_ROI_14,671@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100451.328125,-253794.796875,1
+Machine A/Slides1_ROI_14,672@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100512.9765625,-253791.9375,12
+Machine A/Slides1_ROI_14,673@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,96976.921875,-253814.734375,9
+Machine A/Slides1_ROI_14,674@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97064.2578125,-253809.78125,9
+Machine A/Slides1_ROI_14,675@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,102305.734375,-253816.46875,1
+Machine A/Slides1_ROI_14,676@1,24.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,96741.0078125,-253817.46875,18
+Machine A/Slides1_ROI_14,677@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,96440.2578125,-253833.15625,9
+Machine A/Slides1_ROI_14,678@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97371.7578125,-253831.546875,9
+Machine A/Slides1_ROI_14,679@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,102032.296875,-253833.0625,15
+Machine A/Slides1_ROI_14,680@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,99899.4765625,-253835.703125,4
+Machine A/Slides1_ROI_14,681@1,4.0,Erythroid,Erythroid,Erythroid,,machine_A,102421.640625,-253835.265625,9
+Machine A/Slides1_ROI_14,682@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97194.1796875,-253837.921875,9
+Machine A/Slides1_ROI_14,683@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,97540.1015625,-253843.15625,10
+Machine A/Slides1_ROI_14,684@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,97049.8203125,-253848.828125,15
+Machine A/Slides1_ROI_14,685@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100998.6875,-253849.734375,12
+Machine A/Slides1_ROI_14,686@1,6.0,Megakaryocyte,Megakaryocyte,Megakaryocyte,,machine_A,101032.203125,-253851.25,14
+Machine A/Slides1_ROI_14,687@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,96379.5234375,-253854.140625,9
+Machine A/Slides1_ROI_14,688@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,99731.3671875,-253851.78125,7
+Machine A/Slides1_ROI_14,689@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100839.2734375,-253852.359375,15
+Machine A/Slides1_ROI_14,690@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99120.859375,-253855.21875,15
+Machine A/Slides1_ROI_14,691@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,100602.859375,-253858.546875,18
+Machine A/Slides1_ROI_14,692@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97429.4296875,-253861.28125,9
+Machine A/Slides1_ROI_14,693@1,6.0,Megakaryocyte,Megakaryocyte,Megakaryocyte,,machine_A,101061.5703125,-253867.046875,14
+Machine A/Slides1_ROI_14,694@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,102338.59375,-253869.15625,0
+Machine A/Slides1_ROI_14,695@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,96421.1328125,-253876.421875,9
+Machine A/Slides1_ROI_14,696@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97216.6953125,-253881.8125,9
+Machine A/Slides1_ROI_14,697@1,6.0,Mast cells,Mast cells,Myeloid,,machine_A,100226.890625,-253880.53125,7
+Machine A/Slides1_ROI_14,698@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101032.0,-253888.375,12
+Machine A/Slides1_ROI_14,699@1,,Mast cells,Mast cells,Myeloid,,machine_A,99102.5078125,-253910.09375,7
+Machine A/Slides1_ROI_14,700@1,4.0,Erythroid,Erythroid,Erythroid,,machine_A,101867.265625,-253894.1875,9
+Machine A/Slides1_ROI_14,701@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,100724.09375,-253899.46875,6
+Machine A/Slides1_ROI_14,702@1,6.0,Megakaryocyte,Megakaryocyte,Megakaryocyte,,machine_A,101093.1953125,-253899.484375,14
+Machine A/Slides1_ROI_14,703@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98175.34375,-253902.875,9
+Machine A/Slides1_ROI_14,704@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97506.8984375,-253923.71875,9
+Machine A/Slides1_ROI_14,705@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,98980.7734375,-253924.875,15
+Machine A/Slides1_ROI_14,706@1,24.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,96760.84375,-253927.90625,18
+Machine A/Slides1_ROI_14,707@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101034.328125,-253926.9375,12
+Machine A/Slides1_ROI_14,708@1,15.0,Mast cells,Mast cells,Myeloid,,machine_A,102150.1484375,-253933.3125,7
+Machine A/Slides1_ROI_14,709@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,102300.3125,-253946.4375,15
+Machine A/Slides1_ROI_14,710@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,97945.578125,-253953.6875,10
+Machine A/Slides1_ROI_14,711@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,98957.2265625,-253960.46875,15
+Machine A/Slides1_ROI_14,712@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101364.5703125,-253957.640625,15
+Machine A/Slides1_ROI_14,713@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99827.1796875,-253966.328125,15
+Machine A/Slides1_ROI_14,714@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100821.015625,-253960.1875,15
+Machine A/Slides1_ROI_14,715@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100763.5703125,-253961.828125,1
+Machine A/Slides1_ROI_14,716@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,99027.8203125,-253961.28125,12
+Machine A/Slides1_ROI_14,717@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,101955.40625,-253968.984375,0
+Machine A/Slides1_ROI_14,718@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99946.40625,-253971.828125,15
+Machine A/Slides1_ROI_14,719@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101269.7578125,-253974.546875,15
+Machine A/Slides1_ROI_14,720@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,99855.40625,-253981.203125,7
+Machine A/Slides1_ROI_14,721@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100186.8125,-253972.828125,15
+Machine A/Slides1_ROI_14,722@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97075.828125,-253981.375,9
+Machine A/Slides1_ROI_14,723@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,100113.75,-253979.515625,9
+Machine A/Slides1_ROI_14,724@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,98967.2421875,-253988.40625,12
+Machine A/Slides1_ROI_14,725@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,99779.1796875,-253996.984375,4
+Machine A/Slides1_ROI_14,726@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101466.703125,-253997.1875,12
+Machine A/Slides1_ROI_14,727@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101788.453125,-253996.140625,15
+Machine A/Slides1_ROI_14,728@1,,Mast cells,Mast cells,Myeloid,,machine_A,98287.2734375,-254000.0625,7
+Machine A/Slides1_ROI_14,729@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,99962.1171875,-253996.625,7
+Machine A/Slides1_ROI_14,730@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,99997.84375,-253999.84375,7
+Machine A/Slides1_ROI_14,731@1,4.0,Artifact,Artifact,Other,,machine_A,101018.59375,-254001.109375,17
+Machine A/Slides1_ROI_14,732@1,8.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,101744.90625,-253999.984375,0
+Machine A/Slides1_ROI_14,733@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,97222.3984375,-254005.46875,10
+Machine A/Slides1_ROI_14,734@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,102268.9921875,-254001.828125,9
+Machine A/Slides1_ROI_14,735@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,98903.8671875,-254005.671875,15
+Machine A/Slides1_ROI_14,736@1,10.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99381.140625,-254006.328125,15
+Machine A/Slides1_ROI_14,737@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101405.96875,-254007.5625,12
+Machine A/Slides1_ROI_14,738@1,6.0,Macrophages,Macrophages,Myeloid,,machine_A,101191.8125,-254013.1875,6
+Machine A/Slides1_ROI_14,739@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,102217.34375,-254012.828125,9
+Machine A/Slides1_ROI_14,740@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,96576.109375,-254018.015625,18
+Machine A/Slides1_ROI_14,741@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101302.8046875,-254015.078125,12
+Machine A/Slides1_ROI_14,742@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,99702.6484375,-254019.90625,1
+Machine A/Slides1_ROI_14,743@1,24.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,96771.3203125,-254023.625,18
+Machine A/Slides1_ROI_14,744@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100160.7734375,-254020.625,15
+Machine A/Slides1_ROI_14,745@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100668.9921875,-254023.0,12
+Machine A/Slides1_ROI_14,746@1,4.0,Macrophages,Macrophages,Myeloid,,machine_A,102405.40625,-254026.078125,6
+Machine A/Slides1_ROI_14,747@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100250.40625,-254023.796875,15
+Machine A/Slides1_ROI_14,748@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97122.4375,-254027.9375,9
+Machine A/Slides1_ROI_14,749@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97616.5703125,-254033.84375,9
+Machine A/Slides1_ROI_14,750@1,23.0,Erythroid,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,97216.4921875,-254034.8125,10
+Machine A/Slides1_ROI_14,751@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,98847.0234375,-254039.0,6
+Machine A/Slides1_ROI_14,752@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,100053.3828125,-254038.46875,7
+Machine A/Slides1_ROI_14,753@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,100809.2734375,-254039.515625,18
+Machine A/Slides1_ROI_14,754@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,96233.1171875,-254045.71875,9
+Machine A/Slides1_ROI_14,755@1,10.0,MSC,MSC,Stromal,,machine_A,99985.0546875,-254047.625,13
+Machine A/Slides1_ROI_14,756@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,102152.6796875,-254043.40625,9
+Machine A/Slides1_ROI_14,757@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97662.3203125,-254049.3125,9
+Machine A/Slides1_ROI_14,758@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99932.34375,-254048.984375,15
+Machine A/Slides1_ROI_14,759@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97959.8203125,-254051.328125,9
+Machine A/Slides1_ROI_14,760@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,100966.3671875,-254052.53125,6
+Machine A/Slides1_ROI_14,761@1,24.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,96638.9921875,-254053.625,18
+Machine A/Slides1_ROI_14,762@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,96368.6953125,-254057.140625,1
+Machine A/Slides1_ROI_14,763@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,102377.5703125,-254056.359375,1
+Machine A/Slides1_ROI_14,764@1,24.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,96771.9765625,-254058.21875,18
+Machine A/Slides1_ROI_14,765@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,96168.8515625,-254063.546875,9
+Machine A/Slides1_ROI_14,766@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,96976.7109375,-254064.609375,9
+Machine A/Slides1_ROI_14,767@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,96204.453125,-254067.015625,9
+Machine A/Slides1_ROI_14,768@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97440.5625,-254070.71875,9
+Machine A/Slides1_ROI_14,769@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101678.59375,-254071.8125,15
+Machine A/Slides1_ROI_14,770@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101169.359375,-254076.078125,12
+Machine A/Slides1_ROI_14,771@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100359.625,-254080.71875,12
+Machine A/Slides1_ROI_14,772@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,99795.78125,-254083.546875,6
+Machine A/Slides1_ROI_14,773@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100602.96875,-254083.4375,12
+Machine A/Slides1_ROI_14,774@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100651.8046875,-254086.234375,12
+Machine A/Slides1_ROI_14,775@1,4.0,Erythroid,Erythroid,Erythroid,,machine_A,102280.8515625,-254086.953125,9
+Machine A/Slides1_ROI_14,776@1,6.0,Artifact,Artifact,Other,,machine_A,102433.8203125,-254088.421875,17
+Machine A/Slides1_ROI_14,777@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97103.171875,-254092.3125,9
+Machine A/Slides1_ROI_14,778@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97869.2890625,-254090.921875,9
+Machine A/Slides1_ROI_14,779@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,99899.4375,-254094.484375,6
+Machine A/Slides1_ROI_14,780@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,100195.953125,-254100.5,6
+Machine A/Slides1_ROI_14,781@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,101554.9375,-254099.421875,1
+Machine A/Slides1_ROI_14,782@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,99827.921875,-254099.640625,6
+Machine A/Slides1_ROI_14,783@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97185.328125,-254107.40625,9
+Machine A/Slides1_ROI_14,784@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,102405.3828125,-254107.515625,6
+Machine A/Slides1_ROI_14,785@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100995.859375,-254109.984375,12
+Machine A/Slides1_ROI_14,786@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101710.578125,-254117.828125,15
+Machine A/Slides1_ROI_14,787@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100318.7578125,-254121.203125,12
+Machine A/Slides1_ROI_14,788@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,100356.5078125,-254120.15625,6
+Machine A/Slides1_ROI_14,789@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99914.9296875,-254126.5625,15
+Machine A/Slides1_ROI_14,790@1,24.0,Macrophages,Macrophages,Myeloid,,machine_A,96908.6328125,-254131.3125,6
+Machine A/Slides1_ROI_14,791@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100254.296875,-254136.203125,12
+Machine A/Slides1_ROI_14,792@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,99555.3125,-254140.0625,12
+Machine A/Slides1_ROI_14,793@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97069.5,-254142.5,9
+Machine A/Slides1_ROI_14,794@1,24.0,Macrophages,Macrophages,Myeloid,,machine_A,96671.65625,-254147.140625,6
+Machine A/Slides1_ROI_14,795@1,6.0,Mast cells,Mast cells,Myeloid,,machine_A,100297.1328125,-254147.65625,7
+Machine A/Slides1_ROI_14,796@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99896.1328125,-254157.625,15
+Machine A/Slides1_ROI_14,797@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99940.390625,-254158.734375,15
+Machine A/Slides1_ROI_14,798@1,24.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,96712.203125,-254162.09375,18
+Machine A/Slides1_ROI_14,799@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,98133.078125,-254165.953125,12
+Machine A/Slides1_ROI_14,800@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,100392.96875,-254166.71875,6
+Machine A/Slides1_ROI_14,801@1,,Mast cells,Mast cells,Myeloid,,machine_A,101518.9765625,-254168.25,7
+Machine A/Slides1_ROI_14,802@1,4.0,Erythroid,Erythroid,Erythroid,,machine_A,101601.625,-254168.328125,9
+Machine A/Slides1_ROI_14,803@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100152.796875,-254170.5,12
+Machine A/Slides1_ROI_14,804@1,6.0,Megakaryocyte,Megakaryocyte,Megakaryocyte,,machine_A,100269.7890625,-254167.5,14
+Machine A/Slides1_ROI_14,805@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101993.1015625,-254176.984375,15
+Machine A/Slides1_ROI_14,806@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,97932.109375,-254177.796875,10
+Machine A/Slides1_ROI_14,807@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99867.1640625,-254185.515625,15
+Machine A/Slides1_ROI_14,808@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,97022.0625,-254186.828125,6
+Machine A/Slides1_ROI_14,809@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101760.7265625,-254187.328125,15
+Machine A/Slides1_ROI_14,810@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,97771.8203125,-254186.609375,18
+Machine A/Slides1_ROI_14,811@1,6.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,99914.703125,-254193.3125,0
+Machine A/Slides1_ROI_14,812@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,96275.3515625,-254190.890625,1
+Machine A/Slides1_ROI_14,813@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101231.8359375,-254189.34375,15
+Machine A/Slides1_ROI_14,814@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,101797.7890625,-254193.53125,1
+Machine A/Slides1_ROI_14,815@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,96206.5625,-254197.125,10
+Machine A/Slides1_ROI_14,816@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100913.2890625,-254197.421875,15
+Machine A/Slides1_ROI_14,817@1,6.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,100091.8359375,-254200.8125,2
+Machine A/Slides1_ROI_14,818@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,101587.484375,-254199.28125,9
+Machine A/Slides1_ROI_14,819@1,6.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,100141.546875,-254206.34375,2
+Machine A/Slides1_ROI_14,820@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99384.6171875,-254207.484375,15
+Machine A/Slides1_ROI_14,821@1,6.0,MSC,MSC,Stromal,,machine_A,100030.453125,-254213.5,13
+Machine A/Slides1_ROI_14,822@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,98056.6953125,-254214.78125,12
+Machine A/Slides1_ROI_14,823@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,96663.03125,-254215.9375,18
+Machine A/Slides1_ROI_14,824@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,102055.53125,-254214.546875,15
+Machine A/Slides1_ROI_14,825@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97093.53125,-254217.765625,9
+Machine A/Slides1_ROI_14,826@1,24.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,96868.2109375,-254221.640625,18
+Machine A/Slides1_ROI_14,827@1,6.0,Artifact,Artifact,Other,,machine_A,99961.3515625,-254232.875,17
+Machine A/Slides1_ROI_14,828@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100004.015625,-254234.03125,12
+Machine A/Slides1_ROI_14,829@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101754.75,-254232.515625,15
+Machine A/Slides1_ROI_14,830@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,102371.109375,-254236.28125,0
+Machine A/Slides1_ROI_14,831@1,6.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,100066.8828125,-254238.90625,2
+Machine A/Slides1_ROI_14,832@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100417.734375,-254240.859375,15
+Machine A/Slides1_ROI_14,833@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,99883.40625,-254244.09375,1
+Machine A/Slides1_ROI_14,834@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,102303.34375,-254246.25,15
+Machine A/Slides1_ROI_14,835@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97647.7421875,-254246.15625,9
+Machine A/Slides1_ROI_14,836@1,6.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,100127.8984375,-254247.671875,2
+Machine A/Slides1_ROI_14,837@1,21.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,97945.5625,-254255.5,18
+Machine A/Slides1_ROI_14,838@1,6.0,MSC,MSC,Stromal,,machine_A,102334.34375,-254260.671875,13
+Machine A/Slides1_ROI_14,839@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,99976.875,-254263.703125,4
+Machine A/Slides1_ROI_14,840@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101073.4140625,-254268.5625,15
+Machine A/Slides1_ROI_14,841@1,24.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,96944.703125,-254269.75,18
+Machine A/Slides1_ROI_14,842@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,99650.453125,-254271.015625,1
+Machine A/Slides1_ROI_14,843@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,102429.34375,-254269.765625,1
+Machine A/Slides1_ROI_14,844@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100466.359375,-254273.734375,1
+Machine A/Slides1_ROI_14,845@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,101534.6015625,-254275.359375,7
+Machine A/Slides1_ROI_14,846@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97639.9765625,-254279.5,9
+Machine A/Slides1_ROI_14,847@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101416.53125,-254277.625,15
+Machine A/Slides1_ROI_14,848@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,102362.84375,-254286.546875,0
+Machine A/Slides1_ROI_14,849@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,102331.2734375,-254289.078125,12
+Machine A/Slides1_ROI_14,850@1,24.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,96729.078125,-254295.75,18
+Machine A/Slides1_ROI_14,851@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100695.1875,-254292.828125,15
+Machine A/Slides1_ROI_14,852@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,102299.96875,-254293.4375,0
+Machine A/Slides1_ROI_14,853@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,96539.8125,-254300.796875,9
+Machine A/Slides1_ROI_14,854@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101021.359375,-254304.171875,12
+Machine A/Slides1_ROI_14,855@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,97924.5703125,-254311.640625,1
+Machine A/Slides1_ROI_14,856@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,101065.09375,-254313.09375,6
+Machine A/Slides1_ROI_14,857@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97265.6484375,-254313.796875,9
+Machine A/Slides1_ROI_14,858@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,102318.0546875,-254319.5,12
+Machine A/Slides1_ROI_14,859@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,96269.75,-254323.734375,18
+Machine A/Slides1_ROI_14,860@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,96490.234375,-254324.40625,1
+Machine A/Slides1_ROI_14,861@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99787.59375,-254325.59375,15
+Machine A/Slides1_ROI_14,862@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,99605.890625,-254326.734375,1
+Machine A/Slides1_ROI_14,863@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,96183.3828125,-254330.203125,18
+Machine A/Slides1_ROI_14,864@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100770.984375,-254333.421875,15
+Machine A/Slides1_ROI_14,865@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,102288.8515625,-254331.484375,1
+Machine A/Slides1_ROI_14,866@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97282.203125,-254345.375,9
+Machine A/Slides1_ROI_14,867@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,99248.2578125,-254339.96875,1
+Machine A/Slides1_ROI_14,868@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,99673.625,-254341.5625,12
+Machine A/Slides1_ROI_14,869@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99968.71875,-254343.359375,15
+Machine A/Slides1_ROI_14,870@1,4.0,Mast cells,Mast cells,Myeloid,,machine_A,99299.0390625,-254349.421875,7
+Machine A/Slides1_ROI_14,871@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,102217.609375,-254351.203125,1
+Machine A/Slides1_ROI_14,872@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97249.296875,-254347.453125,9
+Machine A/Slides1_ROI_14,873@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99626.5234375,-254351.9375,15
+Machine A/Slides1_ROI_14,874@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,99765.7421875,-254356.328125,6
+Machine A/Slides1_ROI_14,875@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,96453.40625,-254363.265625,18
+Machine A/Slides1_ROI_14,876@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101193.078125,-254361.71875,15
+Machine A/Slides1_ROI_14,877@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,99386.8515625,-254364.125,18
+Machine A/Slides1_ROI_14,878@1,10.0,Erythroid,Erythroid,Erythroid,,machine_A,100595.8203125,-254369.703125,9
+Machine A/Slides1_ROI_14,879@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99809.09375,-254372.21875,15
+Machine A/Slides1_ROI_14,880@1,10.0,Artifact,Artifact,Other,,machine_A,96301.0625,-254376.96875,17
+Machine A/Slides1_ROI_14,881@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,102237.0625,-254382.859375,6
+Machine A/Slides1_ROI_14,882@1,6.0,Macrophages,Macrophages,Myeloid,,machine_A,101314.3984375,-254386.46875,6
+Machine A/Slides1_ROI_14,883@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,102335.375,-254390.78125,9
+Machine A/Slides1_ROI_14,884@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100486.6875,-254394.28125,15
+Machine A/Slides1_ROI_14,885@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101453.65625,-254397.140625,12
+Machine A/Slides1_ROI_14,886@1,11.0,Monocytes,Monocytes,Myeloid,,machine_A,100893.953125,-254407.734375,8
+Machine A/Slides1_ROI_14,887@1,10.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,96627.75,-254407.921875,1
+Machine A/Slides1_ROI_14,888@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100082.3515625,-254410.8125,15
+Machine A/Slides1_ROI_14,889@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101337.96875,-254414.5,12
+Machine A/Slides1_ROI_14,890@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,99385.8671875,-254420.046875,12
+Machine A/Slides1_ROI_14,891@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97425.9296875,-254423.578125,9
+Machine A/Slides1_ROI_14,892@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97777.390625,-254425.359375,9
+Machine A/Slides1_ROI_14,893@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101370.46875,-254423.59375,12
+Machine A/Slides1_ROI_14,894@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99793.953125,-254426.078125,15
+Machine A/Slides1_ROI_14,895@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,96651.8359375,-254430.109375,0
+Machine A/Slides1_ROI_14,896@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,100951.828125,-254429.28125,6
+Machine A/Slides1_ROI_14,897@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,99231.984375,-254429.65625,4
+Machine A/Slides1_ROI_14,898@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101949.109375,-254432.28125,15
+Machine A/Slides1_ROI_14,899@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,102167.765625,-254434.453125,9
+Machine A/Slides1_ROI_14,900@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,102240.875,-254435.921875,9
+Machine A/Slides1_ROI_14,901@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,96329.6484375,-254437.578125,18
+Machine A/Slides1_ROI_14,902@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,99197.640625,-254449.453125,18
+Machine A/Slides1_ROI_14,903@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,97464.7109375,-254450.546875,1
+Machine A/Slides1_ROI_14,904@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101981.9921875,-254452.03125,15
+Machine A/Slides1_ROI_14,905@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,100192.7109375,-254456.171875,7
+Machine A/Slides1_ROI_14,906@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100711.3984375,-254454.859375,12
+Machine A/Slides1_ROI_14,907@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101220.3828125,-254455.40625,15
+Machine A/Slides1_ROI_14,908@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,97805.2421875,-254472.171875,18
+Machine A/Slides1_ROI_14,909@1,24.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,96760.6640625,-254474.484375,18
+Machine A/Slides1_ROI_14,910@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,102240.578125,-254476.984375,1
+Machine A/Slides1_ROI_14,911@1,15.0,Mast cells,Mast cells,Myeloid,,machine_A,99852.2109375,-254481.0,7
+Machine A/Slides1_ROI_14,912@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,99699.5546875,-254485.265625,7
+Machine A/Slides1_ROI_14,913@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101592.25,-254485.03125,12
+Machine A/Slides1_ROI_14,914@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,96370.5703125,-254488.5625,9
+Machine A/Slides1_ROI_14,915@1,,Mast cells,Mast cells,Myeloid,,machine_A,99630.3125,-254487.265625,7
+Machine A/Slides1_ROI_14,916@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,102088.0,-254506.046875,9
+Machine A/Slides1_ROI_14,917@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99421.46875,-254511.546875,15
+Machine A/Slides1_ROI_14,918@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,102284.3359375,-254510.53125,1
+Machine A/Slides1_ROI_14,919@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100406.6796875,-254515.140625,12
+Machine A/Slides1_ROI_14,920@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,96564.2578125,-254524.765625,15
+Machine A/Slides1_ROI_14,921@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,96260.8671875,-254524.984375,12
+Machine A/Slides1_ROI_14,922@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,96522.125,-254523.359375,15
+Machine A/Slides1_ROI_14,923@1,4.0,Erythroid,Erythroid,Erythroid,,machine_A,102015.2421875,-254529.796875,9
+Machine A/Slides1_ROI_14,924@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100934.8046875,-254532.59375,12
+Machine A/Slides1_ROI_14,925@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,99832.5234375,-254535.0625,0
+Machine A/Slides1_ROI_14,926@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,102089.0859375,-254535.75,9
+Machine A/Slides1_ROI_14,927@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,101397.4609375,-254540.6875,7
+Machine A/Slides1_ROI_14,928@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101280.7578125,-254542.296875,12
+Machine A/Slides1_ROI_14,929@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,102125.734375,-254543.125,0
+Machine A/Slides1_ROI_14,930@1,10.0,Macrophages,Macrophages,Myeloid,,machine_A,97228.53125,-254547.1875,6
+Machine A/Slides1_ROI_14,931@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99475.3359375,-254542.265625,15
+Machine A/Slides1_ROI_14,932@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,96294.5625,-254547.796875,12
+Machine A/Slides1_ROI_14,933@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,99333.2578125,-254554.09375,12
+Machine A/Slides1_ROI_14,934@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,102048.7734375,-254556.0,9
+Machine A/Slides1_ROI_14,935@1,10.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,97455.1640625,-254556.71875,18
+Machine A/Slides1_ROI_14,936@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101869.4375,-254556.59375,15
+Machine A/Slides1_ROI_14,937@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100822.0078125,-254563.765625,15
+Machine A/Slides1_ROI_14,938@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,101207.5390625,-254566.390625,6
+Machine A/Slides1_ROI_14,939@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,102434.265625,-254569.03125,1
+Machine A/Slides1_ROI_14,940@1,10.0,Macrophages,Macrophages,Myeloid,,machine_A,97205.453125,-254576.578125,6
+Machine A/Slides1_ROI_14,941@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,101087.75,-254580.59375,1
+Machine A/Slides1_ROI_14,942@1,6.0,MSC,MSC,Stromal,,machine_A,101801.9921875,-254583.828125,13
+Machine A/Slides1_ROI_14,943@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,99718.0546875,-254587.265625,12
+Machine A/Slides1_ROI_14,944@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101259.375,-254587.390625,15
+Machine A/Slides1_ROI_14,945@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,99650.2421875,-254599.0,12
+Machine A/Slides1_ROI_14,946@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,101176.4765625,-254596.875,9
+Machine A/Slides1_ROI_14,947@1,10.0,Erythroid,Erythroid,Erythroid,,machine_A,100523.578125,-254604.625,9
+Machine A/Slides1_ROI_14,948@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,102265.625,-254604.703125,1
+Machine A/Slides1_ROI_14,949@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,99261.4375,-254604.25,12
+Machine A/Slides1_ROI_14,950@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98825.2578125,-254609.375,9
+Machine A/Slides1_ROI_14,951@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,102003.09375,-254609.3125,15
+Machine A/Slides1_ROI_14,952@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,98557.5546875,-254611.53125,1
+Machine A/Slides1_ROI_14,953@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,99696.3046875,-254620.375,12
+Machine A/Slides1_ROI_14,954@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,101072.84375,-254616.75,1
+Machine A/Slides1_ROI_14,955@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,96400.65625,-254622.265625,9
+Machine A/Slides1_ROI_14,956@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,99523.7265625,-254622.9375,12
+Machine A/Slides1_ROI_14,957@1,10.0,Erythroid,Erythroid,Erythroid,,machine_A,101622.859375,-254622.78125,9
+Machine A/Slides1_ROI_14,958@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,100991.21875,-254627.515625,9
+Machine A/Slides1_ROI_14,959@1,6.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,100212.5546875,-254633.875,2
+Machine A/Slides1_ROI_14,960@1,4.0,Erythroid,Erythroid,Erythroid,,machine_A,100645.6796875,-254633.828125,9
+Machine A/Slides1_ROI_14,961@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101399.0,-254632.375,15
+Machine A/Slides1_ROI_14,962@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,99626.75,-254637.796875,12
+Machine A/Slides1_ROI_14,963@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100362.6953125,-254637.9375,15
+Machine A/Slides1_ROI_14,964@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100820.4296875,-254639.0,15
+Machine A/Slides1_ROI_14,965@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,99777.015625,-254643.96875,12
+Machine A/Slides1_ROI_14,966@1,5.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,102283.125,-254641.703125,2
+Machine A/Slides1_ROI_14,967@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,99477.1328125,-254644.6875,12
+Machine A/Slides1_ROI_14,968@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101696.53125,-254645.375,15
+Machine A/Slides1_ROI_14,969@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,98565.65625,-254650.75,18
+Machine A/Slides1_ROI_14,970@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,102205.984375,-254644.421875,9
+Machine A/Slides1_ROI_14,971@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,96695.1796875,-254652.09375,9
+Machine A/Slides1_ROI_14,972@1,4.0,Endothelial,Endothelial,Stromal,,machine_A,100177.4609375,-254651.265625,12
+Machine A/Slides1_ROI_14,973@1,25.0,MSC,MSC,Stromal,,machine_A,101837.71875,-254654.5625,13
+Machine A/Slides1_ROI_14,974@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100078.1015625,-254658.390625,1
+Machine A/Slides1_ROI_14,975@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,102314.46875,-254661.515625,12
+Machine A/Slides1_ROI_14,976@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,99316.03125,-254662.5,9
+Machine A/Slides1_ROI_14,977@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,101035.609375,-254661.390625,9
+Machine A/Slides1_ROI_14,978@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101333.7265625,-254663.15625,12
+Machine A/Slides1_ROI_14,979@1,4.0,MSC,MSC,Stromal,,machine_A,101750.15625,-254664.5625,13
+Machine A/Slides1_ROI_14,980@1,6.0,Megakaryocyte,Megakaryocyte,Megakaryocyte,,machine_A,100231.1484375,-254668.171875,14
+Machine A/Slides1_ROI_14,981@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97182.796875,-254671.8125,9
+Machine A/Slides1_ROI_14,982@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,100031.2890625,-254670.921875,6
+Machine A/Slides1_ROI_14,983@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97710.9375,-254677.875,9
+Machine A/Slides1_ROI_14,984@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98892.296875,-254678.640625,9
+Machine A/Slides1_ROI_14,985@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100197.5625,-254681.203125,15
+Machine A/Slides1_ROI_14,986@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,102108.6015625,-254687.765625,12
+Machine A/Slides1_ROI_14,987@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,96589.5859375,-254689.15625,15
+Machine A/Slides1_ROI_14,988@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,102195.234375,-254691.9375,12
+Machine A/Slides1_ROI_14,989@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,102319.5234375,-254686.140625,6
+Machine A/Slides1_ROI_14,990@1,10.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,98633.8046875,-254694.765625,18
+Machine A/Slides1_ROI_14,991@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,102393.015625,-254692.46875,12
+Machine A/Slides1_ROI_14,992@1,10.0,Artifact,Artifact,Other,,machine_A,98778.984375,-254693.859375,17
+Machine A/Slides1_ROI_14,993@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,101807.203125,-254694.515625,18
+Machine A/Slides1_ROI_14,994@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100521.203125,-254701.546875,1
+Machine A/Slides1_ROI_14,995@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100641.3203125,-254703.6875,1
+Machine A/Slides1_ROI_14,996@1,4.0,MSC,MSC,Stromal,,machine_A,101993.9296875,-254716.328125,13
+Machine A/Slides1_ROI_14,997@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,102064.8671875,-254718.21875,12
+Machine A/Slides1_ROI_14,998@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,99859.4921875,-254721.25,6
+Machine A/Slides1_ROI_14,999@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100842.7109375,-254738.109375,1
+Machine A/Slides1_ROI_14,1000@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101230.9140625,-254742.125,15
+Machine A/Slides1_ROI_14,1001@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99476.0390625,-254749.09375,15
+Machine A/Slides1_ROI_14,1002@1,4.0,MSC,MSC,Stromal,,machine_A,102265.9375,-254752.65625,13
+Machine A/Slides1_ROI_14,1003@1,4.0,MSC,MSC,Stromal,,machine_A,102000.46875,-254755.265625,13
+Machine A/Slides1_ROI_14,1004@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,102156.7109375,-254758.5,12
+Machine A/Slides1_ROI_14,1005@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,102186.09375,-254758.6875,1
+Machine A/Slides1_ROI_14,1006@1,6.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,101427.03125,-254761.5,2
+Machine A/Slides1_ROI_14,1007@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,100500.75,-254765.25,6
+Machine A/Slides1_ROI_14,1008@1,4.0,MSC,MSC,Stromal,,machine_A,102033.015625,-254763.703125,13
+Machine A/Slides1_ROI_14,1009@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101626.4375,-254779.390625,15
+Machine A/Slides1_ROI_14,1010@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,99452.6953125,-254782.359375,12
+Machine A/Slides1_ROI_14,1011@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100769.8515625,-254781.984375,15
+Machine A/Slides1_ROI_14,1012@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100186.890625,-254784.84375,15
+Machine A/Slides1_ROI_14,1013@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,102175.15625,-254785.3125,1
+Machine A/Slides1_ROI_14,1014@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,102406.1953125,-254786.90625,1
+Machine A/Slides1_ROI_14,1015@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,101981.6015625,-254791.1875,1
+Machine A/Slides1_ROI_14,1016@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,99351.5,-254797.25,18
+Machine A/Slides1_ROI_14,1017@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,101556.7109375,-254801.703125,7
+Machine A/Slides1_ROI_14,1018@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,99470.75,-254801.390625,1
+Machine A/Slides1_ROI_14,1019@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,98575.8046875,-254805.09375,12
+Machine A/Slides1_ROI_14,1020@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,100156.46875,-254805.921875,18
+Machine A/Slides1_ROI_14,1021@1,4.0,Artifact,Artifact,Other,,machine_A,102106.6640625,-254807.453125,17
+Machine A/Slides1_ROI_14,1022@1,10.0,Artifact,Artifact,Other,,machine_A,98720.0,-254819.265625,17
+Machine A/Slides1_ROI_14,1023@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,101921.703125,-254817.5,9
+Machine A/Slides1_ROI_14,1024@1,4.0,Macrophages,Macrophages,Myeloid,,machine_A,102062.6328125,-254818.0,6
+Machine A/Slides1_ROI_14,1025@1,4.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,102027.7890625,-254821.828125,0
+Machine A/Slides1_ROI_14,1026@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,102181.0703125,-254821.828125,9
+Machine A/Slides1_ROI_14,1027@1,21.0,MSC,MSC,Stromal,,machine_A,102275.4140625,-254823.90625,13
+Machine A/Slides1_ROI_14,1028@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,99364.5625,-254827.09375,12
+Machine A/Slides1_ROI_14,1029@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,98653.53125,-254830.75,12
+Machine A/Slides1_ROI_14,1030@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,102432.078125,-254826.09375,0
+Machine A/Slides1_ROI_14,1031@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100085.4453125,-254832.71875,15
+Machine A/Slides1_ROI_14,1032@1,4.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,102146.65625,-254832.0625,15
+Machine A/Slides1_ROI_14,1033@1,4.0,Macrophages,Macrophages,Myeloid,,machine_A,101818.5703125,-254836.078125,6
+Machine A/Slides1_ROI_14,1034@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,102321.1640625,-254837.734375,3
+Machine A/Slides1_ROI_14,1035@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,102112.953125,-254836.71875,15
+Machine A/Slides1_ROI_14,1036@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,98681.2890625,-254840.890625,12
+Machine A/Slides1_ROI_14,1037@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101716.1328125,-254850.46875,15
+Machine A/Slides1_ROI_14,1038@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99028.0,-254857.9375,15
+Machine A/Slides1_ROI_14,1039@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101097.609375,-254859.5,12
+Machine A/Slides1_ROI_14,1040@1,26.0,Megakaryocyte,Megakaryocyte,Megakaryocyte,,machine_A,102282.140625,-254856.25,14
+Machine A/Slides1_ROI_14,1041@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,100449.53125,-254861.34375,18
+Machine A/Slides1_ROI_14,1042@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99461.6953125,-254864.71875,15
+Machine A/Slides1_ROI_14,1043@1,4.0,MSC,MSC,Stromal,,machine_A,102167.6796875,-254863.203125,13
+Machine A/Slides1_ROI_14,1044@1,5.0,MSC,MSC,Stromal,,machine_A,102245.65625,-254864.125,13
+Machine A/Slides1_ROI_14,1045@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,99336.7421875,-254866.5,12
+Machine A/Slides1_ROI_14,1046@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,101857.1953125,-254870.625,9
+Machine A/Slides1_ROI_14,1047@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,98619.0703125,-254870.078125,12
+Machine A/Slides1_ROI_14,1048@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,99377.21875,-254870.203125,1
+Machine A/Slides1_ROI_14,1049@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,101474.8203125,-254874.25,18
+Machine A/Slides1_ROI_14,1050@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100363.1484375,-254876.109375,15
+Machine A/Slides1_ROI_14,1051@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,101294.015625,-254877.25,6
+Machine A/Slides1_ROI_14,1052@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100993.203125,-254881.28125,15
+Machine A/Slides1_ROI_14,1053@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101541.25,-254882.515625,15
+Machine A/Slides1_ROI_14,1054@1,12.0,Megakaryocyte,Megakaryocyte,Megakaryocyte,,machine_A,102329.4453125,-254884.28125,14
+Machine A/Slides1_ROI_14,1055@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,101138.78125,-254884.546875,6
+Machine A/Slides1_ROI_14,1056@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,101351.15625,-254886.4375,1
+Machine A/Slides1_ROI_14,1057@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,102132.84375,-254885.734375,1
+Machine A/Slides1_ROI_14,1058@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101510.3125,-254892.3125,15
+Machine A/Slides1_ROI_14,1059@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101887.0,-254894.90625,12
+Machine A/Slides1_ROI_14,1060@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,98526.546875,-254899.640625,12
+Machine A/Slides1_ROI_14,1061@1,24.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,97110.5,-254901.4375,18
+Machine A/Slides1_ROI_14,1062@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,100568.4140625,-254906.640625,9
+Machine A/Slides1_ROI_14,1063@1,4.0,Artifact,Artifact,Other,,machine_A,101058.3125,-254906.875,17
+Machine A/Slides1_ROI_14,1064@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,101687.203125,-254908.46875,1
+Machine A/Slides1_ROI_14,1065@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101125.171875,-254910.125,12
+Machine A/Slides1_ROI_14,1066@1,4.0,MSC,MSC,Stromal,,machine_A,101274.765625,-254916.484375,13
+Machine A/Slides1_ROI_14,1067@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,101307.46875,-254914.875,0
+Machine A/Slides1_ROI_14,1068@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,102020.625,-254915.53125,15
+Machine A/Slides1_ROI_14,1069@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,102166.4140625,-254915.09375,0
+Machine A/Slides1_ROI_14,1070@1,4.0,MSC,MSC,Stromal,,machine_A,101838.71875,-254918.484375,13
+Machine A/Slides1_ROI_14,1071@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99786.4296875,-254921.625,15
+Machine A/Slides1_ROI_14,1072@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,101614.0703125,-254925.578125,6
+Machine A/Slides1_ROI_14,1073@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101148.1875,-254928.015625,12
+Machine A/Slides1_ROI_14,1074@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,98822.96875,-254931.9375,18
+Machine A/Slides1_ROI_14,1075@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,100609.2890625,-254931.59375,6
+Machine A/Slides1_ROI_14,1076@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99077.9140625,-254934.921875,15
+Machine A/Slides1_ROI_14,1077@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,99966.4609375,-254941.484375,12
+Machine A/Slides1_ROI_14,1078@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,101077.1015625,-254939.78125,6
+Machine A/Slides1_ROI_14,1079@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99115.5,-254943.984375,15
+Machine A/Slides1_ROI_14,1080@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,101887.703125,-254945.109375,6
+Machine A/Slides1_ROI_14,1081@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,99356.8515625,-254948.625,0
+Machine A/Slides1_ROI_14,1082@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,99892.2109375,-254950.765625,12
+Machine A/Slides1_ROI_14,1083@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,101854.15625,-254947.15625,1
+Machine A/Slides1_ROI_14,1084@1,4.0,MSC,MSC,Stromal,,machine_A,102197.3515625,-254948.65625,13
+Machine A/Slides1_ROI_14,1085@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,98681.890625,-254953.109375,12
+Machine A/Slides1_ROI_14,1086@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,99779.546875,-254950.890625,12
+Machine A/Slides1_ROI_14,1087@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,101311.6953125,-254951.421875,6
+Machine A/Slides1_ROI_14,1088@1,4.0,MSC,MSC,Stromal,,machine_A,101482.703125,-254951.859375,13
+Machine A/Slides1_ROI_14,1089@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101201.609375,-254955.203125,15
+Machine A/Slides1_ROI_14,1090@1,4.0,MSC,MSC,Stromal,,machine_A,102232.171875,-254955.890625,13
+Machine A/Slides1_ROI_14,1091@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,99285.0234375,-254958.546875,18
+Machine A/Slides1_ROI_14,1092@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,99736.0,-254959.890625,12
+Machine A/Slides1_ROI_14,1093@1,4.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100419.3671875,-254958.78125,15
+Machine A/Slides1_ROI_14,1094@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,99320.015625,-254960.6875,18
+Machine A/Slides1_ROI_14,1095@1,21.0,Erythroid,Erythroid,Erythroid,,machine_A,101415.21875,-254962.53125,9
+Machine A/Slides1_ROI_14,1096@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,101942.2421875,-254961.09375,1
+Machine A/Slides1_ROI_14,1097@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,100794.75,-254964.0,7
+Machine A/Slides1_ROI_14,1098@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98299.171875,-254967.390625,9
+Machine A/Slides1_ROI_14,1099@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,98476.328125,-254966.046875,12
+Machine A/Slides1_ROI_14,1100@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,102120.3046875,-254968.296875,1
+Machine A/Slides1_ROI_14,1101@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,99475.1640625,-254970.84375,0
+Machine A/Slides1_ROI_14,1102@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100471.7734375,-254978.453125,1
+Machine A/Slides1_ROI_14,1103@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,101496.109375,-254984.3125,9
+Machine A/Slides1_ROI_14,1104@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,102292.6015625,-254980.1875,15
+Machine A/Slides1_ROI_14,1105@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100167.515625,-254984.4375,12
+Machine A/Slides1_ROI_14,1106@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100626.25,-254986.1875,1
+Machine A/Slides1_ROI_14,1107@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,99359.5078125,-254994.609375,18
+Machine A/Slides1_ROI_14,1108@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101519.7109375,-254999.171875,15
+Machine A/Slides1_ROI_14,1109@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,98317.1796875,-255006.015625,12
+Machine A/Slides1_ROI_14,1110@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,98488.21875,-255006.515625,15
+Machine A/Slides1_ROI_14,1111@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100494.5234375,-255007.265625,1
+Machine A/Slides1_ROI_14,1112@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,96749.5546875,-255006.96875,9
+Machine A/Slides1_ROI_14,1113@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100528.3125,-255008.640625,15
+Machine A/Slides1_ROI_14,1114@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,101961.171875,-255011.171875,0
+Machine A/Slides1_ROI_14,1115@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98901.015625,-255014.046875,9
+Machine A/Slides1_ROI_14,1116@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,98267.3359375,-255015.859375,18
+Machine A/Slides1_ROI_14,1117@1,,Erythroid,Erythroid,Erythroid,,machine_A,100748.3125,-255022.140625,9
+Machine A/Slides1_ROI_14,1118@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,102015.265625,-255025.078125,1
+Machine A/Slides1_ROI_14,1119@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,98398.765625,-255024.34375,12
+Machine A/Slides1_ROI_14,1120@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99465.3828125,-255030.265625,15
+Machine A/Slides1_ROI_14,1121@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,100417.796875,-255030.609375,0
+Machine A/Slides1_ROI_14,1122@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,98762.6796875,-255025.671875,15
+Machine A/Slides1_ROI_14,1123@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100456.0703125,-255034.296875,1
+Machine A/Slides1_ROI_14,1124@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,98293.671875,-255038.859375,12
+Machine A/Slides1_ROI_14,1125@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99177.84375,-255041.859375,15
+Machine A/Slides1_ROI_14,1126@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,99657.3203125,-255043.78125,1
+Machine A/Slides1_ROI_14,1127@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100584.265625,-255044.734375,15
+Machine A/Slides1_ROI_14,1128@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,102233.421875,-255051.46875,4
+Machine A/Slides1_ROI_14,1129@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99608.2109375,-255048.71875,15
+Machine A/Slides1_ROI_14,1130@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101840.5703125,-255048.828125,15
+Machine A/Slides1_ROI_14,1131@1,4.0,MSC,MSC,Stromal,,machine_A,101668.1953125,-255051.703125,13
+Machine A/Slides1_ROI_14,1132@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100065.875,-255061.515625,12
+Machine A/Slides1_ROI_14,1133@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100403.703125,-255062.96875,1
+Machine A/Slides1_ROI_14,1134@1,19.0,Unassigned/Other,NPM1_blasts,Leukemia,(a) v2 Tumor: Quiescent AML blast,machine_A,100479.6875,-255062.0,10
+Machine A/Slides1_ROI_14,1135@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101544.4375,-255061.3125,15
+Machine A/Slides1_ROI_14,1136@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,96900.75,-255062.15625,9
+Machine A/Slides1_ROI_14,1137@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100566.6015625,-255068.78125,1
+Machine A/Slides1_ROI_14,1138@1,4.0,Mast cells,Mast cells,Myeloid,,machine_A,101947.484375,-255070.125,7
+Machine A/Slides1_ROI_14,1139@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,100357.46875,-255073.546875,0
+Machine A/Slides1_ROI_14,1140@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99227.703125,-255073.640625,15
+Machine A/Slides1_ROI_14,1141@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,99756.6953125,-255074.890625,12
+Machine A/Slides1_ROI_14,1142@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101050.703125,-255078.546875,15
+Machine A/Slides1_ROI_14,1143@1,4.0,Artifact,Artifact,Other,,machine_A,101988.3671875,-255079.453125,17
+Machine A/Slides1_ROI_14,1144@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,99339.796875,-255079.796875,12
+Machine A/Slides1_ROI_14,1145@1,4.0,MSC,MSC,Stromal,,machine_A,102249.625,-255079.53125,13
+Machine A/Slides1_ROI_14,1146@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,99965.46875,-255082.421875,12
+Machine A/Slides1_ROI_14,1147@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100302.8515625,-255082.375,1
+Machine A/Slides1_ROI_14,1148@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101337.4296875,-255087.875,12
+Machine A/Slides1_ROI_14,1149@1,4.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,102089.2890625,-255090.53125,1
+Machine A/Slides1_ROI_14,1150@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,99825.3359375,-255094.734375,12
+Machine A/Slides1_ROI_14,1151@1,4.0,MSC,MSC,Stromal,,machine_A,101837.0625,-255097.265625,13
+Machine A/Slides1_ROI_14,1152@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100411.5625,-255098.9375,1
+Machine A/Slides1_ROI_14,1153@1,15.0,Mast cells,Mast cells,Myeloid,,machine_A,100901.84375,-255101.28125,7
+Machine A/Slides1_ROI_14,1154@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100609.859375,-255102.0625,12
+Machine A/Slides1_ROI_14,1155@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,96383.5,-255104.84375,12
+Machine A/Slides1_ROI_14,1156@1,8.0,Macrophages,Macrophages,Myeloid,,machine_A,99527.6796875,-255107.6875,6
+Machine A/Slides1_ROI_14,1157@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100571.7265625,-255105.984375,1
+Machine A/Slides1_ROI_14,1158@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99427.796875,-255109.15625,15
+Machine A/Slides1_ROI_14,1159@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,100317.03125,-255110.953125,0
+Machine A/Slides1_ROI_14,1160@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100380.296875,-255114.78125,1
+Machine A/Slides1_ROI_14,1161@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,101092.2890625,-255116.890625,6
+Machine A/Slides1_ROI_14,1162@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,99499.7578125,-255119.28125,1
+Machine A/Slides1_ROI_14,1163@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100250.453125,-255112.3125,1
+Machine A/Slides1_ROI_14,1164@1,16.0,Granulocyte,Granulocyte,Myeloid,,machine_A,100488.140625,-255123.609375,3
+Machine A/Slides1_ROI_14,1165@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100346.3515625,-255123.9375,1
+Machine A/Slides1_ROI_14,1166@1,1.0,MSC,MSC,Stromal,,machine_A,102387.8984375,-255122.53125,13
+Machine A/Slides1_ROI_14,1167@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,98692.671875,-255127.65625,15
+Machine A/Slides1_ROI_14,1168@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101306.625,-255128.84375,12
+Machine A/Slides1_ROI_14,1169@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,98144.0234375,-255126.59375,12
+Machine A/Slides1_ROI_14,1170@1,6.0,MSC,MSC,Stromal,,machine_A,102340.15625,-255131.234375,13
+Machine A/Slides1_ROI_14,1171@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99657.3359375,-255133.5,15
+Machine A/Slides1_ROI_14,1172@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100547.3671875,-255137.453125,1
+Machine A/Slides1_ROI_14,1173@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,98588.578125,-255140.171875,15
+Machine A/Slides1_ROI_14,1174@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,98856.9296875,-255141.953125,4
+Machine A/Slides1_ROI_14,1175@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100440.7578125,-255146.3125,1
+Machine A/Slides1_ROI_14,1176@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100150.6875,-255145.484375,15
+Machine A/Slides1_ROI_14,1177@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100394.96875,-255153.71875,1
+Machine A/Slides1_ROI_14,1178@1,6.0,Megakaryocyte,Megakaryocyte,Megakaryocyte,,machine_A,101899.8984375,-255156.140625,14
+Machine A/Slides1_ROI_14,1179@1,24.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,96351.59375,-255161.21875,18
+Machine A/Slides1_ROI_14,1180@1,5.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,101311.0,-255161.5,2
+Machine A/Slides1_ROI_14,1181@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100173.375,-255165.578125,1
+Machine A/Slides1_ROI_14,1182@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100342.78125,-255166.53125,1
+Machine A/Slides1_ROI_14,1183@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100301.296875,-255172.46875,1
+Machine A/Slides1_ROI_14,1184@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100478.203125,-255171.75,1
+Machine A/Slides1_ROI_14,1185@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,98146.9453125,-255176.484375,12
+Machine A/Slides1_ROI_14,1186@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100227.9921875,-255176.78125,15
+Machine A/Slides1_ROI_14,1187@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,98597.515625,-255179.421875,18
+Machine A/Slides1_ROI_14,1188@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,99465.59375,-255191.1875,12
+Machine A/Slides1_ROI_14,1189@1,6.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,102203.171875,-255193.0625,2
+Machine A/Slides1_ROI_14,1190@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98922.3359375,-255192.28125,9
+Machine A/Slides1_ROI_14,1191@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,100253.5625,-255196.078125,0
+Machine A/Slides1_ROI_14,1192@1,,Mast cells,Mast cells,Myeloid,,machine_A,100399.21875,-255196.921875,7
+Machine A/Slides1_ROI_14,1193@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,98522.8359375,-255200.125,18
+Machine A/Slides1_ROI_14,1194@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98026.15625,-255208.296875,9
+Machine A/Slides1_ROI_14,1195@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99919.4453125,-255212.171875,15
+Machine A/Slides1_ROI_14,1196@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,101172.90625,-255216.015625,7
+Machine A/Slides1_ROI_14,1197@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,102173.6328125,-255213.015625,12
+Machine A/Slides1_ROI_14,1198@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97973.4140625,-255214.90625,9
+Machine A/Slides1_ROI_14,1199@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,99379.7109375,-255216.015625,9
+Machine A/Slides1_ROI_14,1200@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,100213.40625,-255215.46875,0
+Machine A/Slides1_ROI_14,1201@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100451.578125,-255209.21875,1
+Machine A/Slides1_ROI_14,1202@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,102345.9609375,-255215.328125,15
+Machine A/Slides1_ROI_14,1203@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,102097.125,-255215.140625,6
+Machine A/Slides1_ROI_14,1204@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100277.1328125,-255219.15625,12
+Machine A/Slides1_ROI_14,1205@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,101127.0625,-255216.09375,7
+Machine A/Slides1_ROI_14,1206@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,101398.921875,-255219.53125,4
+Machine A/Slides1_ROI_14,1207@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101625.5703125,-255218.0,15
+Machine A/Slides1_ROI_14,1208@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98804.953125,-255229.328125,9
+Machine A/Slides1_ROI_14,1209@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100343.4921875,-255219.09375,12
+Machine A/Slides1_ROI_14,1210@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,102249.2578125,-255229.328125,15
+Machine A/Slides1_ROI_14,1211@1,15.0,Mast cells,Mast cells,Myeloid,,machine_A,100638.8828125,-255231.921875,7
+Machine A/Slides1_ROI_14,1212@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,101579.578125,-255231.953125,18
+Machine A/Slides1_ROI_14,1213@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,102059.6796875,-255231.140625,12
+Machine A/Slides1_ROI_14,1214@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98162.8359375,-255240.3125,9
+Machine A/Slides1_ROI_14,1215@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98532.328125,-255237.53125,9
+Machine A/Slides1_ROI_14,1216@1,,Unassigned/Other,Unassigned/Other,Other,,machine_A,98997.765625,-255240.34375,18
+Machine A/Slides1_ROI_14,1217@1,,Mast cells,Mast cells,Myeloid,,machine_A,100381.9453125,-255240.5625,7
+Machine A/Slides1_ROI_14,1218@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100483.84375,-255235.609375,1
+Machine A/Slides1_ROI_14,1219@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100171.6328125,-255241.8125,1
+Machine A/Slides1_ROI_14,1220@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,98230.90625,-255246.59375,10
+Machine A/Slides1_ROI_14,1221@1,5.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,102160.203125,-255243.171875,2
+Machine A/Slides1_ROI_14,1222@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,100220.0234375,-255249.796875,0
+Machine A/Slides1_ROI_14,1223@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100267.296875,-255250.59375,12
+Machine A/Slides1_ROI_14,1224@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,100311.6171875,-255251.375,0
+Machine A/Slides1_ROI_14,1225@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,101178.3203125,-255245.28125,7
+Machine A/Slides1_ROI_14,1226@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98835.2265625,-255252.90625,9
+Machine A/Slides1_ROI_14,1227@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100439.4375,-255250.03125,1
+Machine A/Slides1_ROI_14,1228@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100996.78125,-255255.96875,15
+Machine A/Slides1_ROI_14,1229@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,101485.2265625,-255254.578125,1
+Machine A/Slides1_ROI_14,1230@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98011.2734375,-255255.53125,9
+Machine A/Slides1_ROI_14,1231@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,99538.25,-255261.0,1
+Machine A/Slides1_ROI_14,1232@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101295.34375,-255263.25,12
+Machine A/Slides1_ROI_14,1233@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,100357.484375,-255264.140625,0
+Machine A/Slides1_ROI_14,1234@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100582.9296875,-255267.765625,12
+Machine A/Slides1_ROI_14,1235@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99787.5390625,-255276.3125,15
+Machine A/Slides1_ROI_14,1236@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100395.7109375,-255264.6875,1
+Machine A/Slides1_ROI_14,1237@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100291.296875,-255282.140625,1
+Machine A/Slides1_ROI_14,1238@1,4.0,Macrophages,Macrophages,Myeloid,,machine_A,102429.59375,-255286.578125,6
+Machine A/Slides1_ROI_14,1239@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100231.9453125,-255284.765625,1
+Machine A/Slides1_ROI_14,1240@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,98124.9921875,-255290.046875,18
+Machine A/Slides1_ROI_14,1241@1,1.0,Unassigned/Other,NPM1_blasts,Leukemia,(c) Unassigned/Artifact NPM1_mut+,machine_A,98627.1953125,-255291.375,10
+Machine A/Slides1_ROI_14,1242@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100136.8984375,-255290.640625,1
+Machine A/Slides1_ROI_14,1243@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,101677.0859375,-255290.1875,1
+Machine A/Slides1_ROI_14,1244@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98738.90625,-255284.609375,9
+Machine A/Slides1_ROI_14,1245@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98855.15625,-255292.90625,9
+Machine A/Slides1_ROI_14,1246@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100985.5546875,-255293.453125,12
+Machine A/Slides1_ROI_14,1247@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,100349.8671875,-255292.765625,4
+Machine A/Slides1_ROI_14,1248@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101353.4375,-255296.328125,12
+Machine A/Slides1_ROI_14,1249@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,101608.109375,-255295.78125,1
+Machine A/Slides1_ROI_14,1250@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,99939.8828125,-255303.84375,7
+Machine A/Slides1_ROI_14,1251@1,1.0,Unassigned/Other,NPM1_blasts,Leukemia,(c) Unassigned/Artifact NPM1_mut+,machine_A,98583.03125,-255310.796875,10
+Machine A/Slides1_ROI_14,1252@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100553.6875,-255313.25,12
+Machine A/Slides1_ROI_14,1253@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,101505.1796875,-255322.296875,10
+Machine A/Slides1_ROI_14,1254@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,102200.6875,-255324.03125,12
+Machine A/Slides1_ROI_14,1255@1,4.0,Mast cells,Mast cells,Myeloid,,machine_A,99493.515625,-255331.28125,7
+Machine A/Slides1_ROI_14,1256@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,99358.3203125,-255334.53125,9
+Machine A/Slides1_ROI_14,1257@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,100281.40625,-255333.203125,0
+Machine A/Slides1_ROI_14,1258@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100372.1015625,-255337.5,1
+Machine A/Slides1_ROI_14,1259@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,99199.3359375,-255340.03125,9
+Machine A/Slides1_ROI_14,1260@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,101062.5546875,-255338.65625,7
+Machine A/Slides1_ROI_14,1261@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,101992.1875,-255337.984375,6
+Machine A/Slides1_ROI_14,1262@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98615.3125,-255341.8125,9
+Machine A/Slides1_ROI_14,1263@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98728.6328125,-255340.046875,9
+Machine A/Slides1_ROI_14,1264@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99979.0859375,-255341.703125,15
+Machine A/Slides1_ROI_14,1265@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,102116.7578125,-255344.09375,12
+Machine A/Slides1_ROI_14,1266@1,4.0,Artifact,Artifact,Other,,machine_A,100091.9453125,-255350.921875,17
+Machine A/Slides1_ROI_14,1267@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100463.84375,-255363.359375,12
+Machine A/Slides1_ROI_14,1268@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,99122.40625,-255366.484375,9
+Machine A/Slides1_ROI_14,1269@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,99224.6640625,-255365.359375,9
+Machine A/Slides1_ROI_14,1270@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98254.1015625,-255368.140625,9
+Machine A/Slides1_ROI_14,1271@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,98584.234375,-255368.953125,18
+Machine A/Slides1_ROI_14,1272@1,4.0,MSC,MSC,Stromal,,machine_A,102421.75,-255372.65625,13
+Machine A/Slides1_ROI_14,1273@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101069.515625,-255373.0,15
+Machine A/Slides1_ROI_14,1274@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,100318.6171875,-255376.3125,0
+Machine A/Slides1_ROI_14,1275@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98780.15625,-255377.5,9
+Machine A/Slides1_ROI_14,1276@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100633.8671875,-255378.609375,12
+Machine A/Slides1_ROI_14,1277@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,101281.1328125,-255379.0,7
+Machine A/Slides1_ROI_14,1278@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,100399.7890625,-255383.53125,0
+Machine A/Slides1_ROI_14,1279@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101732.2421875,-255381.046875,15
+Machine A/Slides1_ROI_14,1280@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,99160.8515625,-255385.328125,9
+Machine A/Slides1_ROI_14,1281@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97892.2734375,-255391.1875,9
+Machine A/Slides1_ROI_14,1282@1,6.0,Endothelial,Endothelial,Stromal,,machine_A,102057.0546875,-255392.421875,12
+Machine A/Slides1_ROI_14,1283@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99753.3984375,-255393.1875,15
+Machine A/Slides1_ROI_14,1284@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100531.234375,-255393.0,12
+Machine A/Slides1_ROI_14,1285@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101373.234375,-255397.125,12
+Machine A/Slides1_ROI_14,1286@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,101548.109375,-255395.09375,18
+Machine A/Slides1_ROI_14,1287@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,99547.15625,-255399.875,1
+Machine A/Slides1_ROI_14,1288@1,4.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99588.015625,-255400.71875,15
+Machine A/Slides1_ROI_14,1289@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101446.125,-255395.359375,12
+Machine A/Slides1_ROI_14,1290@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,98446.6328125,-255404.546875,18
+Machine A/Slides1_ROI_14,1291@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,98496.28125,-255407.1875,18
+Machine A/Slides1_ROI_14,1292@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98539.5859375,-255406.8125,9
+Machine A/Slides1_ROI_14,1293@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,101833.625,-255411.046875,1
+Machine A/Slides1_ROI_14,1294@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,99951.09375,-255413.171875,12
+Machine A/Slides1_ROI_14,1295@1,26.0,Megakaryocyte,Megakaryocyte,Megakaryocyte,,machine_A,101611.5,-255411.578125,14
+Machine A/Slides1_ROI_14,1296@1,,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,102029.3984375,-255414.59375,15
+Machine A/Slides1_ROI_14,1297@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,98835.171875,-255419.640625,18
+Machine A/Slides1_ROI_14,1298@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,98191.96875,-255420.421875,10
+Machine A/Slides1_ROI_14,1299@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98947.296875,-255428.484375,9
+Machine A/Slides1_ROI_14,1300@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,99021.5234375,-255427.578125,9
+Machine A/Slides1_ROI_14,1301@1,4.0,Mast cells,Mast cells,Myeloid,,machine_A,101811.9609375,-255431.515625,7
+Machine A/Slides1_ROI_14,1302@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97906.75,-255434.875,9
+Machine A/Slides1_ROI_14,1303@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,101859.90625,-255438.78125,4
+Machine A/Slides1_ROI_14,1304@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101015.703125,-255441.96875,12
+Machine A/Slides1_ROI_14,1305@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100365.0859375,-255443.21875,1
+Machine A/Slides1_ROI_14,1306@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101894.8125,-255443.125,12
+Machine A/Slides1_ROI_14,1307@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,96147.4375,-255446.5625,9
+Machine A/Slides1_ROI_14,1308@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,102275.8203125,-255448.625,12
+Machine A/Slides1_ROI_14,1309@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100002.28125,-255451.828125,12
+Machine A/Slides1_ROI_14,1310@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98785.40625,-255453.578125,9
+Machine A/Slides1_ROI_14,1311@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100311.59375,-255458.296875,1
+Machine A/Slides1_ROI_14,1312@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,98929.5625,-255460.921875,18
+Machine A/Slides1_ROI_14,1313@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,102210.96875,-255462.359375,12
+Machine A/Slides1_ROI_14,1314@1,4.0,Plasma cells,Plasma cells,Lymphoid,,machine_A,98423.6015625,-255464.375,2
+Machine A/Slides1_ROI_14,1315@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,101088.171875,-255467.640625,7
+Machine A/Slides1_ROI_14,1316@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,101233.6640625,-255468.109375,6
+Machine A/Slides1_ROI_14,1317@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,102425.625,-255466.75,6
+Machine A/Slides1_ROI_14,1318@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,99917.7578125,-255467.328125,12
+Machine A/Slides1_ROI_14,1319@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101779.609375,-255467.671875,15
+Machine A/Slides1_ROI_14,1320@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98976.90625,-255471.4375,9
+Machine A/Slides1_ROI_14,1321@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,101840.4921875,-255472.0,7
+Machine A/Slides1_ROI_14,1322@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100508.6484375,-255480.34375,15
+Machine A/Slides1_ROI_14,1323@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,100092.4921875,-255485.28125,7
+Machine A/Slides1_ROI_14,1324@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101257.546875,-255485.765625,15
+Machine A/Slides1_ROI_14,1325@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,98907.8984375,-255487.953125,18
+Machine A/Slides1_ROI_14,1326@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100641.21875,-255495.96875,15
+Machine A/Slides1_ROI_14,1327@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101650.3046875,-255496.578125,15
+Machine A/Slides1_ROI_14,1328@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99931.875,-255498.859375,15
+Machine A/Slides1_ROI_14,1329@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,96294.75,-255509.53125,9
+Machine A/Slides1_ROI_14,1330@1,6.0,Mast cells,Mast cells,Myeloid,,machine_A,102198.109375,-255504.3125,7
+Machine A/Slides1_ROI_14,1331@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,100681.0234375,-255514.421875,6
+Machine A/Slides1_ROI_14,1332@1,1.0,Unassigned/Other,NPM1_blasts,Leukemia,(c) Unassigned/Artifact NPM1_mut+,machine_A,98874.6640625,-255514.328125,10
+Machine A/Slides1_ROI_14,1333@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,101233.875,-255513.875,6
+Machine A/Slides1_ROI_14,1334@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98572.625,-255517.25,9
+Machine A/Slides1_ROI_14,1335@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,96319.890625,-255516.90625,9
+Machine A/Slides1_ROI_14,1336@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,96513.9140625,-255519.1875,9
+Machine A/Slides1_ROI_14,1337@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100341.5859375,-255521.453125,12
+Machine A/Slides1_ROI_14,1338@1,4.0,Mast cells,Mast cells,Myeloid,,machine_A,100549.8515625,-255523.015625,7
+Machine A/Slides1_ROI_14,1339@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100764.7734375,-255523.109375,12
+Machine A/Slides1_ROI_14,1340@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100252.3671875,-255529.15625,12
+Machine A/Slides1_ROI_14,1341@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101360.8671875,-255527.578125,15
+Machine A/Slides1_ROI_14,1342@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101494.953125,-255532.359375,12
+Machine A/Slides1_ROI_14,1343@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98068.015625,-255532.46875,9
+Machine A/Slides1_ROI_14,1344@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100936.875,-255532.203125,12
+Machine A/Slides1_ROI_14,1345@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100137.6484375,-255536.0625,15
+Machine A/Slides1_ROI_14,1346@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99728.3359375,-255539.8125,15
+Machine A/Slides1_ROI_14,1347@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,96147.859375,-255545.65625,10
+Machine A/Slides1_ROI_14,1348@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,100458.515625,-255549.046875,0
+Machine A/Slides1_ROI_14,1349@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98587.875,-255550.25,9
+Machine A/Slides1_ROI_14,1350@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98730.90625,-255556.1875,9
+Machine A/Slides1_ROI_14,1351@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,101037.3203125,-255555.71875,1
+Machine A/Slides1_ROI_14,1352@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98900.421875,-255556.140625,9
+Machine A/Slides1_ROI_14,1353@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,98981.6796875,-255557.46875,18
+Machine A/Slides1_ROI_14,1354@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100382.1640625,-255557.921875,15
+Machine A/Slides1_ROI_14,1355@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100633.0,-255556.71875,15
+Machine A/Slides1_ROI_14,1356@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101499.5078125,-255559.8125,12
+Machine A/Slides1_ROI_14,1357@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,99026.2109375,-255564.203125,18
+Machine A/Slides1_ROI_14,1358@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97975.5,-255566.96875,9
+Machine A/Slides1_ROI_14,1359@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,96557.171875,-255571.765625,9
+Machine A/Slides1_ROI_14,1360@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99857.203125,-255570.9375,15
+Machine A/Slides1_ROI_14,1361@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,100459.203125,-255580.703125,6
+Machine A/Slides1_ROI_14,1362@1,,Plasma cells,Plasma cells,Lymphoid,,machine_A,98138.875,-255590.15625,2
+Machine A/Slides1_ROI_14,1363@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100249.7734375,-255593.015625,12
+Machine A/Slides1_ROI_14,1364@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101733.3046875,-255589.5,15
+Machine A/Slides1_ROI_14,1365@1,,Unassigned/Other,Unassigned/Other,Other,,machine_A,98081.4453125,-255589.171875,18
+Machine A/Slides1_ROI_14,1366@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,99346.3828125,-255592.46875,9
+Machine A/Slides1_ROI_14,1367@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99534.3828125,-255591.640625,15
+Machine A/Slides1_ROI_14,1368@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,101097.5234375,-255592.25,6
+Machine A/Slides1_ROI_14,1369@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,96589.3671875,-255595.796875,9
+Machine A/Slides1_ROI_14,1370@1,,Unassigned/Other,Unassigned/Other,Other,,machine_A,98167.765625,-255592.171875,18
+Machine A/Slides1_ROI_14,1371@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100106.890625,-255594.171875,15
+Machine A/Slides1_ROI_14,1372@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101574.640625,-255599.96875,15
+Machine A/Slides1_ROI_14,1373@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,99227.40625,-255602.15625,18
+Machine A/Slides1_ROI_14,1374@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101380.5625,-255609.40625,15
+Machine A/Slides1_ROI_14,1375@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,99317.9609375,-255611.109375,9
+Machine A/Slides1_ROI_14,1376@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98392.453125,-255616.515625,9
+Machine A/Slides1_ROI_14,1377@1,,Unassigned/Other,Unassigned/Other,Other,,machine_A,98028.1953125,-255618.328125,18
+Machine A/Slides1_ROI_14,1378@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98623.1328125,-255620.78125,9
+Machine A/Slides1_ROI_14,1379@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98431.4375,-255623.875,9
+Machine A/Slides1_ROI_14,1380@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,102116.84375,-255622.625,15
+Machine A/Slides1_ROI_14,1381@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,100091.4453125,-255624.796875,4
+Machine A/Slides1_ROI_14,1382@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100207.265625,-255626.609375,12
+Machine A/Slides1_ROI_14,1383@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98661.5546875,-255627.8125,9
+Machine A/Slides1_ROI_14,1384@1,6.0,Mast cells,Mast cells,Myeloid,,machine_A,101792.6875,-255629.953125,7
+Machine A/Slides1_ROI_14,1385@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,96273.71875,-255641.984375,9
+Machine A/Slides1_ROI_14,1386@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,98545.53125,-255647.640625,18
+Machine A/Slides1_ROI_14,1387@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100171.1953125,-255648.921875,1
+Machine A/Slides1_ROI_14,1388@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,97808.0078125,-255654.3125,10
+Machine A/Slides1_ROI_14,1389@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98698.8984375,-255654.765625,9
+Machine A/Slides1_ROI_14,1390@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,99200.375,-255662.921875,18
+Machine A/Slides1_ROI_14,1391@1,6.0,Artifact,Artifact,Other,,machine_A,101128.7578125,-255668.09375,17
+Machine A/Slides1_ROI_14,1392@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,101518.5625,-255672.0625,6
+Machine A/Slides1_ROI_14,1393@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,101179.0234375,-255673.40625,1
+Machine A/Slides1_ROI_14,1394@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98735.7890625,-255677.546875,9
+Machine A/Slides1_ROI_14,1395@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100243.3203125,-255677.75,12
+Machine A/Slides1_ROI_14,1396@1,0.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,101026.71875,-255676.859375,0
+Machine A/Slides1_ROI_14,1397@1,6.0,MSC,MSC,Stromal,,machine_A,101071.734375,-255682.96875,13
+Machine A/Slides1_ROI_14,1398@1,4.0,Mast cells,Mast cells,Myeloid,,machine_A,101796.2109375,-255684.90625,7
+Machine A/Slides1_ROI_14,1399@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98088.3046875,-255684.453125,9
+Machine A/Slides1_ROI_14,1400@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,98153.109375,-255689.140625,18
+Machine A/Slides1_ROI_14,1401@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98480.2265625,-255689.21875,9
+Machine A/Slides1_ROI_14,1402@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99739.5234375,-255696.375,15
+Machine A/Slides1_ROI_14,1403@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,99208.546875,-255688.609375,9
+Machine A/Slides1_ROI_14,1404@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100508.078125,-255691.609375,15
+Machine A/Slides1_ROI_14,1405@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97971.75,-255692.921875,9
+Machine A/Slides1_ROI_14,1406@1,6.0,Artifact,Artifact,Other,,machine_A,101099.7265625,-255695.375,17
+Machine A/Slides1_ROI_14,1407@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,102008.8125,-255700.40625,7
+Machine A/Slides1_ROI_14,1408@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101267.953125,-255701.15625,15
+Machine A/Slides1_ROI_14,1409@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101468.34375,-255702.703125,15
+Machine A/Slides1_ROI_14,1410@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98186.7734375,-255707.984375,9
+Machine A/Slides1_ROI_14,1411@1,,Unassigned/Other,Unassigned/Other,Other,,machine_A,102311.6953125,-255708.40625,18
+Machine A/Slides1_ROI_14,1412@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,102259.4609375,-255709.5625,15
+Machine A/Slides1_ROI_14,1413@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,96184.171875,-255710.296875,18
+Machine A/Slides1_ROI_14,1414@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,101555.0078125,-255715.875,6
+Machine A/Slides1_ROI_14,1415@1,6.0,MSC,MSC,Stromal,,machine_A,101060.296875,-255724.25,13
+Machine A/Slides1_ROI_14,1416@1,6.0,Megakaryocyte,Megakaryocyte,Megakaryocyte,,machine_A,101100.34375,-255732.0625,14
+Machine A/Slides1_ROI_14,1417@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101815.3203125,-255729.703125,15
+Machine A/Slides1_ROI_14,1418@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100588.703125,-255732.90625,15
+Machine A/Slides1_ROI_14,1419@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97309.8984375,-255736.890625,9
+Machine A/Slides1_ROI_14,1420@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,99107.5703125,-255740.8125,9
+Machine A/Slides1_ROI_14,1421@1,4.0,Artifact,Artifact,Other,,machine_A,99590.9296875,-255734.9375,17
+Machine A/Slides1_ROI_14,1422@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,102103.078125,-255740.21875,1
+Machine A/Slides1_ROI_14,1423@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97888.546875,-255740.578125,9
+Machine A/Slides1_ROI_14,1424@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101587.9453125,-255742.859375,15
+Machine A/Slides1_ROI_14,1425@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,99473.8671875,-255745.28125,6
+Machine A/Slides1_ROI_14,1426@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97788.2734375,-255747.6875,9
+Machine A/Slides1_ROI_14,1427@1,6.0,Megakaryocyte,Megakaryocyte,Megakaryocyte,,machine_A,101126.0234375,-255747.921875,14
+Machine A/Slides1_ROI_14,1428@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,102068.1328125,-255749.03125,6
+Machine A/Slides1_ROI_14,1429@1,4.0,Artifact,Artifact,Other,,machine_A,100074.828125,-255752.0,17
+Machine A/Slides1_ROI_14,1430@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98573.4453125,-255753.890625,9
+Machine A/Slides1_ROI_14,1431@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,100508.734375,-255752.109375,1
+Machine A/Slides1_ROI_14,1432@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,101070.7421875,-255754.828125,6
+Machine A/Slides1_ROI_14,1433@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101876.5,-255753.328125,15
+Machine A/Slides1_ROI_14,1434@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,98500.484375,-255762.046875,18
+Machine A/Slides1_ROI_14,1435@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,98216.3046875,-255764.296875,18
+Machine A/Slides1_ROI_14,1436@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,98105.21875,-255768.65625,18
+Machine A/Slides1_ROI_14,1437@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,101325.7265625,-255767.3125,6
+Machine A/Slides1_ROI_14,1438@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,100037.875,-255773.171875,9
+Machine A/Slides1_ROI_14,1439@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,99588.90625,-255774.90625,1
+Machine A/Slides1_ROI_14,1440@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100103.9453125,-255776.515625,12
+Machine A/Slides1_ROI_14,1441@1,4.0,Endothelial,Endothelial,Stromal,,machine_A,102166.59375,-255776.90625,12
+Machine A/Slides1_ROI_14,1442@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,98719.0078125,-255779.9375,18
+Machine A/Slides1_ROI_14,1443@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,101092.53125,-255777.1875,6
+Machine A/Slides1_ROI_14,1444@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100490.4453125,-255781.46875,15
+Machine A/Slides1_ROI_14,1445@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,102039.453125,-255784.4375,6
+Machine A/Slides1_ROI_14,1446@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,101980.8203125,-255792.71875,6
+Machine A/Slides1_ROI_14,1447@1,4.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100004.1953125,-255799.40625,15
+Machine A/Slides1_ROI_14,1448@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100732.8984375,-255799.1875,15
+Machine A/Slides1_ROI_14,1449@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,99126.9375,-255801.9375,10
+Machine A/Slides1_ROI_14,1450@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101654.5859375,-255801.6875,12
+Machine A/Slides1_ROI_14,1451@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,98433.5625,-255823.453125,18
+Machine A/Slides1_ROI_14,1452@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,99482.796875,-255825.515625,1
+Machine A/Slides1_ROI_14,1453@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,99630.25,-255832.0,1
+Machine A/Slides1_ROI_14,1454@1,6.0,Mast cells,Mast cells,Myeloid,,machine_A,101694.9296875,-255829.25,7
+Machine A/Slides1_ROI_14,1455@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99716.1796875,-255838.0,15
+Machine A/Slides1_ROI_14,1456@1,10.0,Mast cells,Mast cells,Myeloid,,machine_A,100772.890625,-255846.5625,7
+Machine A/Slides1_ROI_14,1457@1,4.0,Mast cells,Mast cells,Myeloid,,machine_A,101113.453125,-255845.78125,7
+Machine A/Slides1_ROI_14,1458@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98151.125,-255848.140625,9
+Machine A/Slides1_ROI_14,1459@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98670.234375,-255847.5,9
+Machine A/Slides1_ROI_14,1460@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98724.2734375,-255847.078125,9
+Machine A/Slides1_ROI_14,1461@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,99159.6640625,-255848.375,9
+Machine A/Slides1_ROI_14,1462@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100719.875,-255849.328125,15
+Machine A/Slides1_ROI_14,1463@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101906.0703125,-255846.671875,12
+Machine A/Slides1_ROI_14,1464@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97995.546875,-255855.53125,9
+Machine A/Slides1_ROI_14,1465@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,99024.6171875,-255853.890625,9
+Machine A/Slides1_ROI_14,1466@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,96617.8671875,-255856.328125,9
+Machine A/Slides1_ROI_14,1467@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98032.6015625,-255860.78125,9
+Machine A/Slides1_ROI_14,1468@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100824.1015625,-255862.171875,15
+Machine A/Slides1_ROI_14,1469@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99613.7734375,-255864.578125,15
+Machine A/Slides1_ROI_14,1470@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100066.28125,-255870.171875,12
+Machine A/Slides1_ROI_14,1471@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,101828.078125,-255871.375,1
+Machine A/Slides1_ROI_14,1472@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98406.7421875,-255871.28125,9
+Machine A/Slides1_ROI_14,1473@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97959.7421875,-255876.75,9
+Machine A/Slides1_ROI_14,1474@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101067.1796875,-255877.046875,15
+Machine A/Slides1_ROI_14,1475@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101493.0703125,-255876.28125,12
+Machine A/Slides1_ROI_14,1476@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100003.75,-255878.515625,12
+Machine A/Slides1_ROI_14,1477@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,96298.828125,-255882.234375,9
+Machine A/Slides1_ROI_14,1478@1,24.0,Mast cells,Mast cells,Myeloid,,machine_A,100924.28125,-255881.40625,7
+Machine A/Slides1_ROI_14,1479@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101636.8984375,-255881.0625,12
+Machine A/Slides1_ROI_14,1480@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,101151.609375,-255887.96875,12
+Machine A/Slides1_ROI_14,1481@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,99938.0859375,-255889.40625,12
+Machine A/Slides1_ROI_14,1482@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100267.390625,-255890.953125,12
+Machine A/Slides1_ROI_14,1483@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,99602.6171875,-255894.4375,15
+Machine A/Slides1_ROI_14,1484@1,25.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100838.2734375,-255894.484375,15
+Machine A/Slides1_ROI_14,1485@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,99288.4296875,-255899.484375,9
+Machine A/Slides1_ROI_14,1486@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,96211.984375,-255904.765625,9
+Machine A/Slides1_ROI_14,1487@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98728.859375,-255906.171875,9
+Machine A/Slides1_ROI_14,1488@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,99684.984375,-255908.078125,1
+Machine A/Slides1_ROI_14,1489@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,100732.8046875,-255907.125,15
+Machine A/Slides1_ROI_14,1490@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,99167.9296875,-255913.09375,9
+Machine A/Slides1_ROI_14,1491@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100125.046875,-255917.6875,12
+Machine A/Slides1_ROI_14,1492@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,101738.6796875,-255921.328125,6
+Machine A/Slides1_ROI_14,1493@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100181.984375,-255922.828125,12
+Machine A/Slides1_ROI_14,1494@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,99263.109375,-255926.703125,9
+Machine A/Slides1_ROI_14,1495@1,1.0,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-Leiden: CD68+CD3+Tryptase+,Unassigned-derived,,machine_A,101512.546875,-255930.625,15
+Machine A/Slides1_ROI_14,1496@1,6.0,Mast cells,Mast cells,Myeloid,,machine_A,101549.390625,-255934.375,7
+Machine A/Slides1_ROI_14,1497@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,96117.890625,-255942.71875,9
+Machine A/Slides1_ROI_14,1498@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,100735.640625,-255941.796875,6
+Machine A/Slides1_ROI_14,1499@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,99373.015625,-255949.796875,18
+Machine A/Slides1_ROI_14,1500@1,1.0,Unassigned/Other,NPM1_blasts,Leukemia,(c) Unassigned/Artifact NPM1_mut+,machine_A,99428.7421875,-255951.375,10
+Machine A/Slides1_ROI_14,1501@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,99966.3828125,-255950.171875,12
+Machine A/Slides1_ROI_14,1502@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,100988.4296875,-255950.640625,12
+Machine A/Slides1_ROI_14,1503@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98724.859375,-255951.828125,9
+Machine A/Slides1_ROI_14,1504@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98639.0546875,-255961.546875,9
+Machine A/Slides1_ROI_14,1505@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97538.9296875,-255971.3125,9
+Machine A/Slides1_ROI_14,1506@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98255.8984375,-255972.375,9
+Machine A/Slides1_ROI_14,1507@1,13.0,Macrophages,Macrophages,Myeloid,,machine_A,99447.375,-255973.265625,6
+Machine A/Slides1_ROI_14,1508@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,100735.6015625,-255974.703125,4
+Machine A/Slides1_ROI_14,1509@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,99788.6640625,-255979.65625,12
+Machine A/Slides1_ROI_14,1510@1,8.0,CD4+ T,CD4+ T,Lymphoid,,machine_A,99739.234375,-255981.578125,0
+Machine A/Slides1_ROI_14,1511@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,99338.75,-255984.0625,9
+Machine A/Slides1_ROI_14,1512@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,99368.9921875,-255984.21875,18
+Machine A/Slides1_ROI_14,1513@1,6.0,Mast cells,Mast cells,Myeloid,,machine_A,101199.71875,-255984.484375,7
+Machine A/Slides1_ROI_14,1514@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98732.125,-255984.546875,9
+Machine A/Slides1_ROI_14,1515@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,102351.796875,-255987.84375,10
+Machine A/Slides1_ROI_14,1516@1,27.0,Endothelial,Endothelial,Stromal,,machine_A,99856.8671875,-255988.40625,12
+Machine A/Slides1_ROI_14,1517@1,24.0,Mast cells,Mast cells,Myeloid,,machine_A,99897.0546875,-255993.84375,7
+Machine A/Slides1_ROI_14,1518@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,99039.625,-255999.953125,9
+Machine A/Slides1_ROI_14,1519@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97469.390625,-256004.015625,9
+Machine A/Slides1_ROI_14,1520@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,100648.5,-256010.234375,9
+Machine A/Slides1_ROI_14,1521@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97750.3203125,-256011.8125,9
+Machine A/Slides1_ROI_14,1522@1,23.0,Mixed progenitors,NPM1_blasts,Leukemia,(a) v2 Tumor/Erythroid: Proliferating leukemic erythroid,machine_A,101551.4296875,-256014.53125,10
+Machine A/Slides1_ROI_14,1523@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97720.7734375,-256030.625,9
+Machine A/Slides1_ROI_14,1524@1,1.0,CD8+ T,CD8+ T,Lymphoid,,machine_A,102048.2578125,-256031.28125,1
+Machine A/Slides1_ROI_14,1525@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98193.71875,-256037.625,9
+Machine A/Slides1_ROI_14,1526@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,99417.9140625,-256037.1875,18
+Machine A/Slides1_ROI_14,1527@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,99213.0,-256049.4375,9
+Machine A/Slides1_ROI_14,1528@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,96297.578125,-256053.046875,18
+Machine A/Slides1_ROI_14,1529@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97874.8671875,-256052.578125,9
+Machine A/Slides1_ROI_14,1530@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97983.625,-256053.1875,9
+Machine A/Slides1_ROI_14,1531@1,9.0,Dendritic cells (CD11c+HLA-DR+),HLA-DR-hi APC (CD1c+),Myeloid,,machine_A,99472.078125,-256052.5,4
+Machine A/Slides1_ROI_14,1532@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97922.90625,-256067.359375,9
+Machine A/Slides1_ROI_14,1533@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98031.28125,-256067.453125,9
+Machine A/Slides1_ROI_14,1534@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98110.515625,-256070.109375,9
+Machine A/Slides1_ROI_14,1535@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98646.65625,-256073.359375,9
+Machine A/Slides1_ROI_14,1536@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,99191.3359375,-256080.109375,9
+Machine A/Slides1_ROI_14,1537@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98459.5546875,-256088.703125,9
+Machine A/Slides1_ROI_14,1538@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98948.390625,-256088.453125,9
+Machine A/Slides1_ROI_14,1539@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98982.6640625,-256103.84375,9
+Machine A/Slides1_ROI_14,1540@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98212.546875,-256113.765625,9
+Machine A/Slides1_ROI_14,1541@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,99091.1171875,-256117.015625,9
+Machine A/Slides1_ROI_14,1542@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,99327.90625,-256123.90625,9
+Machine A/Slides1_ROI_14,1543@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97751.6015625,-256126.65625,9
+Machine A/Slides1_ROI_14,1544@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98136.203125,-256125.265625,9
+Machine A/Slides1_ROI_14,1545@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,96403.4453125,-256129.328125,9
+Machine A/Slides1_ROI_14,1546@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,96333.6484375,-256140.953125,9
+Machine A/Slides1_ROI_14,1547@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97569.7109375,-256135.359375,9
+Machine A/Slides1_ROI_14,1548@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97280.3515625,-256137.96875,9
+Machine A/Slides1_ROI_14,1549@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,99151.640625,-256141.078125,9
+Machine A/Slides1_ROI_14,1550@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97453.9375,-256144.046875,9
+Machine A/Slides1_ROI_14,1551@1,1.0,Unassigned/Other,Unassigned/Other,Other,,machine_A,97181.015625,-256147.015625,18
+Machine A/Slides1_ROI_14,1552@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98204.53125,-256150.03125,9
+Machine A/Slides1_ROI_14,1553@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,98884.984375,-256152.765625,9
+Machine A/Slides1_ROI_14,1554@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,97333.2109375,-256154.265625,9
+Machine A/Slides1_ROI_14,1555@1,1.0,Erythroid,Erythroid,Erythroid,,machine_A,99389.1015625,-256154.578125,9
